@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "C:/Users/nomisum/Downloads/hangelsberg_files/hangelsberg_8193_eroded.asc"
+ Flags 1
+ MinHeight -1000000
+ ResampleMinHeight 0
+ ResampleMaxHeight 1
+}

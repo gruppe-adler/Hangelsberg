@@ -1,0 +1,8 @@
+GameProject {
+ ID "Hangelsberg"
+ GUID "6A3ED6213806D60F"
+ TITLE "Hangelsberg"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

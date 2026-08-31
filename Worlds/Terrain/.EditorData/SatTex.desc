@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "C:/Users/nomisum/Downloads/hangelsberg_files/hangelsberg_satmap_8192.png"
+ sRGBOutput 0
+ Interpolation bilinear
+ RenderRoads 1
+ RoadsAA "8x"
+}
