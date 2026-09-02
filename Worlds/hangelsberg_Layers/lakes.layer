@@ -1,0 +1,50 @@
+SplineShapeEntity {
+ coords 7075.382 36.418 3277.682
+ Points {
+  ShapePoint "{6A448EEE7BBF7065}" {
+   Position -8.185 -0.13 8.362
+  }
+  ShapePoint "{6A448EEE7483AC32}" {
+   Position -23.441 -0.105 26.72
+  }
+  ShapePoint "{6A448EEE7706755F}" {
+   Position -27.204 -0.097 40.664
+  }
+  ShapePoint "{6A448EEE7798F778}" {
+   Position -19.625 -0.28 46.195
+  }
+  ShapePoint "{6A448EEE7611966A}" {
+   Position -0.876 -0.14 31.138
+  }
+  ShapePoint "{6A448EEE716B3D88}" {
+   Position 16.514 -0.034 9.311
+  }
+  ShapePoint "{6A448EEE71DFA583}" {
+   Position 33.364 -0.043 -5.952
+  }
+  ShapePoint "{6A448EEE70D20030}" {
+   Position 38.849 -0.032 -19.091
+  }
+  ShapePoint "{6A448EEE733AD57F}" {
+   Position 9.526 -0.083 -7.416
+  }
+  ShapePoint "{6A448EEE9E1FE3F1}" {
+   Position -0.075 0.011 -0.418
+  }
+  ShapePoint "{6A448EEEBC1ECE33}" {
+   Position -8.179 -0.13 8.17
+   Data {
+    SplinePointData SplinePointData {
+     InTangent 0 0 0
+     OutTangent 0 0 0
+    }
+   }
+  }
+ }
+ {
+  LakeGeneratorEntity : "{FB8CA78AE56C4A0E}PrefabLibrary/DefaultLibrary/Generators/Water/Lake/LG_Lake_01.et" {
+   coords 0 0 0
+   m_fMinDepth 3.4
+  }
+ }
+}
