@@ -3,6 +3,20 @@ GameProject {
  GUID "6A3ED6213806D60F"
  TITLE "Hangelsberg"
  Dependencies {
-  "58D0FB3206B6F859"
+  "58D0FB3206B6F859" "6A3B0A83308240C2"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
  }
 }
