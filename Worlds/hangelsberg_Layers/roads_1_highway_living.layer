@@ -1,0 +1,35 @@
+$grp SplineShapeEntity {
+ {
+  coords 290.328 37.367 2979.5
+  Points {
+   ShapePoint "{6A46F125438D2DD6}" {
+    Position 74.516 0.445 81.5
+   }
+   ShapePoint "{6A46F125438D1B53}" {
+    Position 64.797 0.446 71
+   }
+   ShapePoint "{6A46F125438D15B1}" {
+    Position -10.297 -0.117 -12
+   }
+   ShapePoint "{6A46F125438D111B}" {
+    Position -74.516 -0.446 -81.5
+   }
+  }
+  LineColor 0.93 0.13 0.33 1
+ }
+ {
+  coords 169.375 36.734 2847.75
+  Points {
+   ShapePoint "{6A46F125438D0B0A}" {
+    Position 46.438 0.188 50.25
+   }
+   ShapePoint "{6A46F125438D0448}" {
+    Position -25.906 -0.153 -29.75
+   }
+   ShapePoint "{6A46F125438D0180}" {
+    Position -46.438 -0.188 -50.25
+   }
+  }
+  LineColor 0.93 0.13 0.33 1
+ }
+}
