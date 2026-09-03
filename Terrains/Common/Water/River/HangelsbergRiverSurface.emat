@@ -1,0 +1,42 @@
+MatRiver {
+ Color 0.011 0.016 0.022 1
+ ZEnable 0
+ ZWrite 0
+ Cull none
+ SurfaceProperties "{B4E63D2CA999C331}Common/Materials/Game/water.gamemat"
+ NormalMap "{2EB84ABFBF0046A2}Terrains/Common/Water/Water_01_N.edds"
+ NormalMapping 10
+ SunPower 1024
+ SunInfluence 0.025
+ BumpNormalEnabled 1
+ WaterVisibility 3
+ HalfLightDistance 30
+ GeometryBlend 0.35
+ RefractOffset 0
+ RefractScale 1
+ ChromAberation 0.08
+ UnderWaterMaterial "{B9FD14BB4F70D556}Terrains/Common/Water/UnderWater/pondUnderwater.emat"
+ CausticMap "{69750C9CCD3FE588}Terrains/Common/Water/Caustic/caustics_00.edds" "{9D7D4B04C0E28DFC}Terrains/Common/Water/Caustic/caustics_01.edds" "{C39562477F6F03F3}Terrains/Common/Water/Caustic/caustics_02.edds" "{379D25DF72B26B87}Terrains/Common/Water/Caustic/caustics_03.edds" "{7E4530C000741FED}Terrains/Common/Water/Caustic/caustics_04.edds" "{8A4D77580DA97799}Terrains/Common/Water/Caustic/caustics_05.edds" "{D4A55E1BB224F996}Terrains/Common/Water/Caustic/caustics_06.edds" "{20AD1983BFF991E2}Terrains/Common/Water/Caustic/caustics_07.edds" "{4715742557A81142}Terrains/Common/Water/Caustic/caustics_08.edds" "{B31D33BD5A757936}Terrains/Common/Water/Caustic/caustics_09.edds" "{AEB99C013869A684}Terrains/Common/Water/Caustic/caustics_10.edds" "{5AB1DB9935B4CEF0}Terrains/Common/Water/Caustic/caustics_11.edds" "{0459F2DA8A3940FF}Terrains/Common/Water/Caustic/caustics_12.edds" "{F051B54287E4288B}Terrains/Common/Water/Caustic/caustics_13.edds" "{B989A05DF5225CE1}Terrains/Common/Water/Caustic/caustics_14.edds" "{4D81E7C5F8FF3495}Terrains/Common/Water/Caustic/caustics_15.edds" "{1369CE864772BA9A}Terrains/Common/Water/Caustic/caustics_16.edds" "{E761891E4AAFD2EE}Terrains/Common/Water/Caustic/caustics_17.edds" "{80D9E4B8A2FE524E}Terrains/Common/Water/Caustic/caustics_18.edds" "{74D1A320AF233A3A}Terrains/Common/Water/Caustic/caustics_19.edds" "{A41CCC4C8E795503}Terrains/Common/Water/Caustic/caustics_20.edds" "{50148BD483A43D77}Terrains/Common/Water/Caustic/caustics_21.edds" "{0EFCA2973C29B378}Terrains/Common/Water/Caustic/caustics_22.edds" "{FAF4E50F31F4DB0C}Terrains/Common/Water/Caustic/caustics_23.edds" "{B32CF0104332AF66}Terrains/Common/Water/Caustic/caustics_24.edds" "{4724B7884EEFC712}Terrains/Common/Water/Caustic/caustics_25.edds" "{19CC9ECBF162491D}Terrains/Common/Water/Caustic/caustics_26.edds" "{EDC4D953FCBF2169}Terrains/Common/Water/Caustic/caustics_27.edds" "{8A7CB4F514EEA1C9}Terrains/Common/Water/Caustic/caustics_28.edds" "{7E74F36D1933C9BD}Terrains/Common/Water/Caustic/caustics_29.edds" anim( 20 )
+ CausticUVScale 5
+ WetFloor 0.24
+ ReflectionColor 1 1 1 0
+ FresnelRange 0.65
+ FoamMap "{7F0746CAFE586CA9}Terrains/Common/Water/foamRamp.edds"
+ FoamTerrainBlend 0.29
+ FoamMapping 0.83
+ FoamMove 0.059
+ FoamPower 0.21
+ FoamMaskSharpness 0.007
+ UserMapping 0.487
+ UserPower 1.62
+ ShoreWetnessAboveCoef 2.65
+ ReflNormalMul 0.853
+ FlowMapping 6
+ FlowSpeed 0.3
+ FlowNormalInfl 1.5
+ OuterFlow 0.2
+ LFNoiseStrength 0.22 0.3
+ LFNoiseScale 2 1
+ HFNoiseStrength 0.3 0.15
+ HFNoiseScale 1 0.6
+}

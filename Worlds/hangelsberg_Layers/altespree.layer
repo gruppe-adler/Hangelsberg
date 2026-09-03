@@ -477,7 +477,7 @@ SplineShapeEntity river {
    Width 47
    SplineOffsetUp 0.3
    ReverseFlow 1
-   Material "{75634D8AAE58AB12}Terrains/Common/Water/River/CainRiverSurface_01.emat"
+   Material "{58682A9126A4EF75}Terrains/Common/Water/River/HangelsbergRiverSurface.emat"
    Clearance 1
    ShoreWetness 0
    GUID "6A3F587906D4368D"
