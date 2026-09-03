@@ -41,111 +41,36 @@ $grp SplineShapeEntity {
   coords -212.125 19.474 1356.5
   Points {
    ShapePoint "{6A46F13AB1780DA9}" {
-    Position -267.156 -19.474 -164.5
-   }
-   ShapePoint "{6A46F13AB1797DDD}" {
-    Position -256.219 -19.474 -163.5
-   }
-   ShapePoint "{6A46F13AB179D25B}" {
-    Position -236.594 -19.474 -162
-   }
-   ShapePoint "{6A46F13AB17A27A6}" {
-    Position -221.344 -19.474 -164
-   }
-   ShapePoint "{6A46F13AB17A82B5}" {
-    Position -211.5 -19.474 -166
-   }
-   ShapePoint "{6A46F13AB17BE98E}" {
-    Position -202.812 -19.474 -169
-   }
-   ShapePoint "{6A46F13AB17C46E0}" {
-    Position -176.812 -19.474 -183
-   }
-   ShapePoint "{6A46F13AB17C9B2A}" {
-    Position -152.969 -19.474 -197
-   }
-   ShapePoint "{6A46F13AB17DF220}" {
-    Position -142.5 -19.474 -202
-   }
-   ShapePoint "{6A46F13AB17E51FA}" {
-    Position -132.25 -19.474 -205
-   }
-   ShapePoint "{6A46F13AB17E92B9}" {
-    Position -122.344 -19.474 -206.5
-   }
-   ShapePoint "{6A46F13AB17FAE7C}" {
-    Position -104.5 -19.474 -208
-   }
-   ShapePoint "{6A46F13AB170D13E}" {
-    Position -39.125 -19.474 -209.5
-   }
-   ShapePoint "{6A46F13AB1712473}" {
-    Position -7.219 -19.474 -211
-   }
-   ShapePoint "{6A46F13AB17180B9}" {
-    Position 18.719 -19.474 -211
-   }
-   ShapePoint "{6A46F13AB172E1B8}" {
-    Position 39.469 -19.474 -211
-   }
-   ShapePoint "{6A46F13AB17338A0}" {
-    Position 46.875 -19.474 -211
-   }
-   ShapePoint "{6A46F13AB17387C1}" {
-    Position 61.719 -19.474 -207
-   }
-   ShapePoint "{6A46F13AB174E2E0}" {
-    Position 88.063 -19.474 -199
-   }
-   ShapePoint "{6A46F13AB1754B81}" {
-    Position 102.188 -19.474 -194
-   }
-   ShapePoint "{6A46F13AB175AE08}" {
-    Position 132.25 -19.474 -185
-   }
-   ShapePoint "{6A46F13AB176EBAA}" {
-    Position 148.469 -19.474 -180.5
-   }
-   ShapePoint "{6A46F13AB1770F8A}" {
-    Position 172.656 -19.474 -174
-   }
-   ShapePoint "{6A46F13AB148604A}" {
-    Position 197 -19.474 -167.5
-   }
-   ShapePoint "{6A46F13AB148B4DB}" {
-    Position 208.469 -19.474 -162
-   }
-   ShapePoint "{6A46F13AB149EDC0}" {
     Position 220.25 19.432 -153.5
    }
-   ShapePoint "{6A46F13AB14A11D0}" {
+   ShapePoint "{6A46F13AB1797DDD}" {
     Position 232.25 19.404 -141.5
    }
-   ShapePoint "{6A46F13AB14B301F}" {
+   ShapePoint "{6A46F13AB179D25B}" {
     Position 238.5 19.461 -134
    }
-   ShapePoint "{6A46F13AB14C6FF8}" {
+   ShapePoint "{6A46F13AB17A27A6}" {
     Position 243.219 19.447 -125.5
    }
-   ShapePoint "{6A46F13AB14CC6A6}" {
+   ShapePoint "{6A46F13AB17A82B5}" {
     Position 247.844 19.361 -113
    }
-   ShapePoint "{6A46F13AB14D1F45}" {
+   ShapePoint "{6A46F13AB17BE98E}" {
     Position 250.375 19.348 -102
    }
-   ShapePoint "{6A46F13AB14E73F9}" {
+   ShapePoint "{6A46F13AB17C46E0}" {
     Position 253.625 19.474 -88.5
    }
-   ShapePoint "{6A46F13AB14ECC06}" {
+   ShapePoint "{6A46F13AB17C9B2A}" {
     Position 257.656 19.364 -70.5
    }
-   ShapePoint "{6A46F13AB14F2FB8}" {
+   ShapePoint "{6A46F13AB17DF220}" {
     Position 264.188 19.079 -23.5
    }
-   ShapePoint "{6A46F13AB14F9F3A}" {
+   ShapePoint "{6A46F13AB17E51FA}" {
     Position 264.812 19.319 26
    }
-   ShapePoint "{6A46F13AB1401BD6}" {
+   ShapePoint "{6A46F13AB17E92B9}" {
     Position 267.156 18.617 211
    }
   }
@@ -158,111 +83,36 @@ $grp SplineShapeEntity {
       ID "556C655491CDCD64"
       SplinePoints {
        ShapePoint "{556C6554868CB1B0}" {
-        Position -267.156 -19.474 -164.5
-       }
-       ShapePoint "{556C6554868CB0CE}" {
-        Position -256.219 -19.474 -163.5
-       }
-       ShapePoint "{6A46F13AB34B1651}" {
-        Position -236.594 -19.474 -162
-       }
-       ShapePoint "{6A46F13AB34B1768}" {
-        Position -221.344 -19.474 -164
-       }
-       ShapePoint "{6A46F13AB34B1715}" {
-        Position -211.5 -19.474 -166
-       }
-       ShapePoint "{6A46F13AB34B14D2}" {
-        Position -202.812 -19.474 -169
-       }
-       ShapePoint "{6A46F13AB34B1490}" {
-        Position -176.812 -19.474 -183
-       }
-       ShapePoint "{6A46F13AB34B145E}" {
-        Position -152.969 -19.474 -197
-       }
-       ShapePoint "{6A46F13AB34B1406}" {
-        Position -142.5 -19.474 -202
-       }
-       ShapePoint "{6A46F13AB34B15D8}" {
-        Position -132.25 -19.474 -205
-       }
-       ShapePoint "{6A46F13AB34B1599}" {
-        Position -122.344 -19.474 -206.5
-       }
-       ShapePoint "{6A46F13AB34B1544}" {
-        Position -104.5 -19.474 -208
-       }
-       ShapePoint "{6A46F13AB34B1518}" {
-        Position -39.125 -19.474 -209.5
-       }
-       ShapePoint "{6A46F13AB34B12C4}" {
-        Position -7.219 -19.474 -211
-       }
-       ShapePoint "{6A46F13AB34B1281}" {
-        Position 18.719 -19.474 -211
-       }
-       ShapePoint "{6A46F13AB34B1241}" {
-        Position 39.469 -19.474 -211
-       }
-       ShapePoint "{6A46F13AB34B1202}" {
-        Position 46.875 -19.474 -211
-       }
-       ShapePoint "{6A46F13AB34B13C4}" {
-        Position 61.719 -19.474 -207
-       }
-       ShapePoint "{6A46F13AB34B1374}" {
-        Position 88.063 -19.474 -199
-       }
-       ShapePoint "{6A46F13AB34B133B}" {
-        Position 102.188 -19.474 -194
-       }
-       ShapePoint "{6A46F13AB34B10F8}" {
-        Position 132.25 -19.474 -185
-       }
-       ShapePoint "{6A46F13AB34B10B9}" {
-        Position 148.469 -19.474 -180.5
-       }
-       ShapePoint "{6A46F13AB34B1067}" {
-        Position 172.656 -19.474 -174
-       }
-       ShapePoint "{6A46F13AB34B1026}" {
-        Position 197 -19.474 -167.5
-       }
-       ShapePoint "{6A46F13AB34B11E7}" {
-        Position 208.469 -19.474 -162
-       }
-       ShapePoint "{6A46F13AB34B11BB}" {
         Position 220.25 19.432 -153.5
        }
-       ShapePoint "{6A46F13AB34B117B}" {
+       ShapePoint "{556C6554868CB0CE}" {
         Position 232.25 19.404 -141.5
        }
-       ShapePoint "{6A46F13AB34B113A}" {
+       ShapePoint "{6A46F13AB34B1651}" {
         Position 238.5 19.461 -134
        }
-       ShapePoint "{6A46F13AB34B0EE1}" {
+       ShapePoint "{6A46F13AB34B1768}" {
         Position 243.219 19.447 -125.5
        }
-       ShapePoint "{6A46F13AB34B0EA8}" {
+       ShapePoint "{6A46F13AB34B1715}" {
         Position 247.844 19.361 -113
        }
-       ShapePoint "{6A46F13AB34B0E6A}" {
+       ShapePoint "{6A46F13AB34B14D2}" {
         Position 250.375 19.348 -102
        }
-       ShapePoint "{6A46F13AB34B0E29}" {
+       ShapePoint "{6A46F13AB34B1490}" {
         Position 253.625 19.474 -88.5
        }
-       ShapePoint "{6A46F13AB34B0FE8}" {
+       ShapePoint "{6A46F13AB34B145E}" {
         Position 257.656 19.364 -70.5
        }
-       ShapePoint "{6A46F13AB34B0F95}" {
+       ShapePoint "{6A46F13AB34B1406}" {
         Position 264.188 19.079 -23.5
        }
-       ShapePoint "{6A46F13AB34B0F51}" {
+       ShapePoint "{6A46F13AB34B15D8}" {
         Position 264.812 19.319 26
        }
-       ShapePoint "{6A46F13AB34B0F1E}" {
+       ShapePoint "{6A46F13AB34B1599}" {
         Position 267.156 18.617 211
        }
       }
@@ -286,21 +136,57 @@ $grp SplineShapeEntity {
     Position -202.422 -0.276 -173
    }
    ShapePoint "{6A46F13AB142A944}" {
-    Position -147.578 0.147 -125
+    Position -195.566 -0.223 -167
    }
    ShapePoint "{6A46F13AB1431458}" {
-    Position -110.703 0.324 -93.5
+    Position -188.711 -0.17 -161
    }
    ShapePoint "{6A46F13AB14464CA}" {
-    Position -14.672 -0.228 -10.5
+    Position -181.855 -0.117 -155
    }
    ShapePoint "{6A46F13AB144AA91}" {
-    Position 56.859 -0.141 50
+    Position -175 -0.065 -149
    }
    ShapePoint "{6A46F13AB1450851}" {
-    Position 102.328 -0.171 87.5
+    Position -168.145 -0.012 -143
    }
    ShapePoint "{6A46F13AB1466407}" {
+    Position -161.289 0.041 -137
+   }
+   ShapePoint "{6A46F13AB1466418}" {
+    Position -154.434 0.094 -131
+   }
+   ShapePoint "{6A46F13AB1466429}" {
+    Position -147.578 0.147 -125
+   }
+   ShapePoint "{6A46F13AB146643A}" {
+    Position -135.286 0.206 -114.5
+   }
+   ShapePoint "{6A46F13AB146644B}" {
+    Position -122.995 0.265 -104
+   }
+   ShapePoint "{6A46F13AB146645C}" {
+    Position -110.703 0.324 -93.5
+   }
+   ShapePoint "{6A46F13AB146646D}" {
+    Position -86.695 0.186 -72.75
+   }
+   ShapePoint "{6A46F13AB146647E}" {
+    Position -62.688 0.048 -52
+   }
+   ShapePoint "{6A46F13AB146648F}" {
+    Position -38.68 -0.09 -31.25
+   }
+   ShapePoint "{6A46F13AB14664A0}" {
+    Position -14.672 -0.228 -10.5
+   }
+   ShapePoint "{6A46F13AB14664B1}" {
+    Position 56.859 -0.141 50
+   }
+   ShapePoint "{6A46F13AB14664C2}" {
+    Position 102.328 -0.171 87.5
+   }
+   ShapePoint "{6A46F13AB14664D3}" {
     Position 212.016 -0.014 181.5
    }
   }
@@ -322,21 +208,57 @@ $grp SplineShapeEntity {
         Position -202.422 -0.276 -173
        }
        ShapePoint "{6A46F13AB34BFA3E}" {
-        Position -147.578 0.147 -125
+        Position -195.566 -0.223 -167
        }
        ShapePoint "{6A46F13AB34BFBF3}" {
-        Position -110.703 0.324 -93.5
+        Position -188.711 -0.17 -161
        }
        ShapePoint "{6A46F13AB34BFBBF}" {
-        Position -14.672 -0.228 -10.5
+        Position -181.855 -0.117 -155
        }
        ShapePoint "{6A46F13AB34BFB7C}" {
-        Position 56.859 -0.141 50
+        Position -175 -0.065 -149
        }
        ShapePoint "{6A46F13AB34BFB3D}" {
-        Position 102.328 -0.171 87.5
+        Position -168.145 -0.012 -143
        }
        ShapePoint "{6A46F13AB34BF8FA}" {
+        Position -161.289 0.041 -137
+       }
+       ShapePoint "{6A46F13AB34BF90B}" {
+        Position -154.434 0.094 -131
+       }
+       ShapePoint "{6A46F13AB34BF91C}" {
+        Position -147.578 0.147 -125
+       }
+       ShapePoint "{6A46F13AB34BF92D}" {
+        Position -135.286 0.206 -114.5
+       }
+       ShapePoint "{6A46F13AB34BF93E}" {
+        Position -122.995 0.265 -104
+       }
+       ShapePoint "{6A46F13AB34BF94F}" {
+        Position -110.703 0.324 -93.5
+       }
+       ShapePoint "{6A46F13AB34BF960}" {
+        Position -86.695 0.186 -72.75
+       }
+       ShapePoint "{6A46F13AB34BF971}" {
+        Position -62.688 0.048 -52
+       }
+       ShapePoint "{6A46F13AB34BF982}" {
+        Position -38.68 -0.09 -31.25
+       }
+       ShapePoint "{6A46F13AB34BF993}" {
+        Position -14.672 -0.228 -10.5
+       }
+       ShapePoint "{6A46F13AB34BF9A4}" {
+        Position 56.859 -0.141 50
+       }
+       ShapePoint "{6A46F13AB34BF9B5}" {
+        Position 102.328 -0.171 87.5
+       }
+       ShapePoint "{6A46F13AB34BF9C6}" {
         Position 212.016 -0.014 181.5
        }
       }
@@ -389,21 +311,72 @@ $grp SplineShapeEntity {
     Position -592.047 0.148 242.75
    }
    ShapePoint "{6A46F13AB1592693}" {
-    Position -329.766 -0.061 134.75
+    Position -568.203 0.129 232.932
    }
    ShapePoint "{6A46F13AB1599E12}" {
-    Position -122.578 0.153 47.75
+    Position -544.36 0.11 223.114
    }
    ShapePoint "{6A46F13AB15A1606}" {
-    Position 69.828 -0.316 -30.25
+    Position -520.516 0.091 213.295
    }
    ShapePoint "{6A46F13AB15A91E1}" {
-    Position 247.453 0.042 -103.75
+    Position -496.672 0.072 203.477
    }
    ShapePoint "{6A46F13AB15BECA6}" {
-    Position 297.109 0.316 -124.25
+    Position -472.828 0.053 193.659
    }
    ShapePoint "{6A46F13AB15C3E3A}" {
+    Position -448.985 0.034 183.841
+   }
+   ShapePoint "{6A46F13AB15C3E4B}" {
+    Position -425.141 0.015 174.023
+   }
+   ShapePoint "{6A46F13AB15C3E5C}" {
+    Position -401.297 -0.004 164.205
+   }
+   ShapePoint "{6A46F13AB15C3E6D}" {
+    Position -377.453 -0.023 154.386
+   }
+   ShapePoint "{6A46F13AB15C3E7E}" {
+    Position -353.61 -0.042 144.568
+   }
+   ShapePoint "{6A46F13AB15C3E8F}" {
+    Position -329.766 -0.061 134.75
+   }
+   ShapePoint "{6A46F13AB15C3EA0}" {
+    Position -277.969 -0.008 113
+   }
+   ShapePoint "{6A46F13AB15C3EB1}" {
+    Position -226.172 0.046 91.25
+   }
+   ShapePoint "{6A46F13AB15C3EC2}" {
+    Position -174.375 0.099 69.5
+   }
+   ShapePoint "{6A46F13AB15C3ED3}" {
+    Position -122.578 0.153 47.75
+   }
+   ShapePoint "{6A46F13AB15C3EE4}" {
+    Position -26.375 -0.081 8.75
+   }
+   ShapePoint "{6A46F13AB15C3EF5}" {
+    Position 69.828 -0.316 -30.25
+   }
+   ShapePoint "{6A46F13AB15C3F06}" {
+    Position 158.641 -0.137 -67
+   }
+   ShapePoint "{6A46F13AB15C3F17}" {
+    Position 247.453 0.042 -103.75
+   }
+   ShapePoint "{6A46F13AB15C3F28}" {
+    Position 297.109 0.316 -124.25
+   }
+   ShapePoint "{6A46F13AB15C3F39}" {
+    Position 398.37 0.303 -164.917
+   }
+   ShapePoint "{6A46F13AB15C3F4A}" {
+    Position 499.63 0.291 -205.583
+   }
+   ShapePoint "{6A46F13AB15C3F5B}" {
     Position 600.891 0.278 -246.25
    }
   }
@@ -422,21 +395,72 @@ $grp SplineShapeEntity {
         Position -592.047 0.148 242.75
        }
        ShapePoint "{6A46F13AB34C93E2}" {
-        Position -329.766 -0.061 134.75
+        Position -568.203 0.129 232.932
        }
        ShapePoint "{6A46F13AB34C939A}" {
-        Position -122.578 0.153 47.75
+        Position -544.36 0.11 223.114
        }
        ShapePoint "{6A46F13AB34C9358}" {
-        Position 69.828 -0.316 -30.25
+        Position -520.516 0.091 213.295
        }
        ShapePoint "{6A46F13AB34C931B}" {
-        Position 247.453 0.042 -103.75
+        Position -496.672 0.072 203.477
        }
        ShapePoint "{6A46F13AB34C90C2}" {
-        Position 297.109 0.316 -124.25
+        Position -472.828 0.053 193.659
        }
        ShapePoint "{6A46F13AB34C9080}" {
+        Position -448.985 0.034 183.841
+       }
+       ShapePoint "{6A46F13AB34C9091}" {
+        Position -425.141 0.015 174.023
+       }
+       ShapePoint "{6A46F13AB34C90A2}" {
+        Position -401.297 -0.004 164.205
+       }
+       ShapePoint "{6A46F13AB34C90B3}" {
+        Position -377.453 -0.023 154.386
+       }
+       ShapePoint "{6A46F13AB34C90C4}" {
+        Position -353.61 -0.042 144.568
+       }
+       ShapePoint "{6A46F13AB34C90D5}" {
+        Position -329.766 -0.061 134.75
+       }
+       ShapePoint "{6A46F13AB34C90E6}" {
+        Position -277.969 -0.008 113
+       }
+       ShapePoint "{6A46F13AB34C90F7}" {
+        Position -226.172 0.046 91.25
+       }
+       ShapePoint "{6A46F13AB34C9108}" {
+        Position -174.375 0.099 69.5
+       }
+       ShapePoint "{6A46F13AB34C9119}" {
+        Position -122.578 0.153 47.75
+       }
+       ShapePoint "{6A46F13AB34C912A}" {
+        Position -26.375 -0.081 8.75
+       }
+       ShapePoint "{6A46F13AB34C913B}" {
+        Position 69.828 -0.316 -30.25
+       }
+       ShapePoint "{6A46F13AB34C914C}" {
+        Position 158.641 -0.137 -67
+       }
+       ShapePoint "{6A46F13AB34C915D}" {
+        Position 247.453 0.042 -103.75
+       }
+       ShapePoint "{6A46F13AB34C916E}" {
+        Position 297.109 0.316 -124.25
+       }
+       ShapePoint "{6A46F13AB34C917F}" {
+        Position 398.37 0.303 -164.917
+       }
+       ShapePoint "{6A46F13AB34C9190}" {
+        Position 499.63 0.291 -205.583
+       }
+       ShapePoint "{6A46F13AB34C91A1}" {
         Position 600.891 0.278 -246.25
        }
       }
@@ -537,18 +561,33 @@ $grp SplineShapeEntity {
     Position 222.984 -0.095 -94.25
    }
    ShapePoint "{6A46F13AB154211F}" {
-    Position 71.141 0.156 -23.25
+    Position 192.615 -0.045 -80.05
    }
    ShapePoint "{6A46F13AB1556FD3}" {
-    Position 23.172 -0.032 -1.25
+    Position 162.247 0.005 -65.85
    }
    ShapePoint "{6A46F13AB155C8C2}" {
-    Position -3.984 -0.156 10.25
+    Position 131.878 0.056 -51.65
    }
    ShapePoint "{6A46F13AB15637C7}" {
-    Position -119.109 0.065 55.75
+    Position 101.51 0.106 -37.45
    }
    ShapePoint "{6A46F13AB156B3C3}" {
+    Position 71.141 0.156 -23.25
+   }
+   ShapePoint "{6A46F13AB156B3D4}" {
+    Position 23.172 -0.032 -1.25
+   }
+   ShapePoint "{6A46F13AB156B3E5}" {
+    Position -3.984 -0.156 10.25
+   }
+   ShapePoint "{6A46F13AB156B3F6}" {
+    Position -61.547 -0.046 33
+   }
+   ShapePoint "{6A46F13AB156B407}" {
+    Position -119.109 0.065 55.75
+   }
+   ShapePoint "{6A46F13AB156B418}" {
     Position -234.266 -0.087 99.75
    }
   }
@@ -567,18 +606,33 @@ $grp SplineShapeEntity {
         Position 222.984 -0.095 -94.25
        }
        ShapePoint "{6A46F13AB34EE87B}" {
-        Position 71.141 0.156 -23.25
+        Position 192.615 -0.045 -80.05
        }
        ShapePoint "{6A46F13AB34EE827}" {
-        Position 23.172 -0.032 -1.25
+        Position 162.247 0.005 -65.85
        }
        ShapePoint "{6A46F13AB34EE9EC}" {
-        Position -3.984 -0.156 10.25
+        Position 131.878 0.056 -51.65
        }
        ShapePoint "{6A46F13AB34EE992}" {
-        Position -119.109 0.065 55.75
+        Position 101.51 0.106 -37.45
        }
        ShapePoint "{6A46F13AB34EE953}" {
+        Position 71.141 0.156 -23.25
+       }
+       ShapePoint "{6A46F13AB34EE964}" {
+        Position 23.172 -0.032 -1.25
+       }
+       ShapePoint "{6A46F13AB34EE975}" {
+        Position -3.984 -0.156 10.25
+       }
+       ShapePoint "{6A46F13AB34EE986}" {
+        Position -61.547 -0.046 33
+       }
+       ShapePoint "{6A46F13AB34EE997}" {
+        Position -119.109 0.065 55.75
+       }
+       ShapePoint "{6A46F13AB34EE9A8}" {
         Position -234.266 -0.087 99.75
        }
       }
@@ -643,12 +697,24 @@ $grp SplineShapeEntity {
     Position -26.406 -0.915 -17.25
    }
    ShapePoint "{6A46F13AB12BDDD4}" {
-    Position 4.687 -1.612 -57.75
+    Position -16.042 -1.147 -30.75
    }
    ShapePoint "{6A46F13AB12C4857}" {
-    Position 14.938 -1.581 -61.25
+    Position -5.677 -1.38 -44.25
    }
    ShapePoint "{6A46F13AB12CB432}" {
+    Position 4.687 -1.612 -57.75
+   }
+   ShapePoint "{6A46F13AB12CB443}" {
+    Position 14.938 -1.581 -61.25
+   }
+   ShapePoint "{6A46F13AB12CB454}" {
+    Position 34.584 -1.487 -61.25
+   }
+   ShapePoint "{6A46F13AB12CB465}" {
+    Position 54.229 -1.393 -61.25
+   }
+   ShapePoint "{6A46F13AB12CB476}" {
     Position 73.875 -1.299 -61.25
    }
   }
@@ -679,12 +745,24 @@ $grp SplineShapeEntity {
         Position -26.406 -0.915 -17.25
        }
        ShapePoint "{6A46F13AB34025F6}" {
-        Position 4.687 -1.612 -57.75
+        Position -16.042 -1.147 -30.75
        }
        ShapePoint "{6A46F13AB34025B4}" {
-        Position 14.938 -1.581 -61.25
+        Position -5.677 -1.38 -44.25
        }
        ShapePoint "{6A46F13AB3402570}" {
+        Position 4.687 -1.612 -57.75
+       }
+       ShapePoint "{6A46F13AB3402581}" {
+        Position 14.938 -1.581 -61.25
+       }
+       ShapePoint "{6A46F13AB3402592}" {
+        Position 34.584 -1.487 -61.25
+       }
+       ShapePoint "{6A46F13AB34025A3}" {
+        Position 54.229 -1.393 -61.25
+       }
+       ShapePoint "{6A46F13AB34025C5}" {
         Position 73.875 -1.299 -61.25
        }
       }
@@ -702,33 +780,57 @@ $grp SplineShapeEntity {
     Position 142.609 -0.251 -88.25
    }
    ShapePoint "{6A46F13AB12E63A6}" {
-    Position 95.422 -0.006 -67.25
+    Position 126.88 -0.169 -81.25
    }
    ShapePoint "{6A46F13AB12ED01C}" {
-    Position 85.734 -0.062 -63.75
+    Position 111.151 -0.088 -74.25
    }
    ShapePoint "{6A46F13AB12F4DC0}" {
-    Position 19.797 0.131 -43.25
+    Position 95.422 -0.006 -67.25
    }
    ShapePoint "{6A46F13AB12FBFD3}" {
-    Position 10.953 0.15 -39.75
+    Position 85.734 -0.062 -63.75
    }
    ShapePoint "{6A46F13AB1204641}" {
-    Position -79.734 0.222 0.75
+    Position 63.755 0.002 -56.917
    }
    ShapePoint "{6A46F13AB120BAA0}" {
-    Position -97.172 0.251 20.75
+    Position 41.776 0.067 -50.083
    }
    ShapePoint "{6A46F13AB1212913}" {
-    Position -102.641 0.251 28.75
+    Position 19.797 0.131 -43.25
    }
    ShapePoint "{6A46F13AB1218A81}" {
-    Position -121.266 0.188 58.75
+    Position 10.953 0.15 -39.75
    }
    ShapePoint "{6A46F13AB122FFE2}" {
-    Position -132.203 0.155 75.25
+    Position -11.719 0.168 -29.625
    }
    ShapePoint "{6A46F13AB1237375}" {
+    Position -34.391 0.186 -19.5
+   }
+   ShapePoint "{6A46F13AB1237386}" {
+    Position -57.062 0.204 -9.375
+   }
+   ShapePoint "{6A46F13AB1237397}" {
+    Position -79.734 0.222 0.75
+   }
+   ShapePoint "{6A46F13AB12373A8}" {
+    Position -97.172 0.251 20.75
+   }
+   ShapePoint "{6A46F13AB12373B9}" {
+    Position -102.641 0.251 28.75
+   }
+   ShapePoint "{6A46F13AB12373CA}" {
+    Position -111.953 0.219 43.75
+   }
+   ShapePoint "{6A46F13AB12373DB}" {
+    Position -121.266 0.188 58.75
+   }
+   ShapePoint "{6A46F13AB12373EC}" {
+    Position -132.203 0.155 75.25
+   }
+   ShapePoint "{6A46F13AB12373FD}" {
     Position -142.609 0.194 88.25
    }
   }
@@ -744,33 +846,57 @@ $grp SplineShapeEntity {
         Position 142.609 -0.251 -88.25
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 95.422 -0.006 -67.25
+        Position 126.88 -0.169 -81.25
        }
        ShapePoint "{6A46F13AB342521E}" {
-        Position 85.734 -0.062 -63.75
+        Position 111.151 -0.088 -74.25
        }
        ShapePoint "{6A46F13AB34253CA}" {
-        Position 19.797 0.131 -43.25
+        Position 95.422 -0.006 -67.25
        }
        ShapePoint "{6A46F13AB342537D}" {
-        Position 10.953 0.15 -39.75
+        Position 85.734 -0.062 -63.75
        }
        ShapePoint "{6A46F13AB3425323}" {
-        Position -79.734 0.222 0.75
+        Position 63.755 0.002 -56.917
        }
        ShapePoint "{6A46F13AB34250DF}" {
-        Position -97.172 0.251 20.75
+        Position 41.776 0.067 -50.083
        }
        ShapePoint "{6A46F13AB3425099}" {
-        Position -102.641 0.251 28.75
+        Position 19.797 0.131 -43.25
        }
        ShapePoint "{6A46F13AB3425046}" {
-        Position -121.266 0.188 58.75
+        Position 10.953 0.15 -39.75
        }
        ShapePoint "{6A46F13AB3425004}" {
-        Position -132.203 0.155 75.25
+        Position -11.719 0.168 -29.625
        }
        ShapePoint "{6A46F13AB34251CF}" {
+        Position -34.391 0.186 -19.5
+       }
+       ShapePoint "{6A46F13AB34251E0}" {
+        Position -57.062 0.204 -9.375
+       }
+       ShapePoint "{6A46F13AB34251F1}" {
+        Position -79.734 0.222 0.75
+       }
+       ShapePoint "{6A46F13AB3425202}" {
+        Position -97.172 0.251 20.75
+       }
+       ShapePoint "{6A46F13AB3425213}" {
+        Position -102.641 0.251 28.75
+       }
+       ShapePoint "{6A46F13AB3425224}" {
+        Position -111.953 0.219 43.75
+       }
+       ShapePoint "{6A46F13AB3425235}" {
+        Position -121.266 0.188 58.75
+       }
+       ShapePoint "{6A46F13AB3425246}" {
+        Position -132.203 0.155 75.25
+       }
+       ShapePoint "{6A46F13AB3425257}" {
         Position -142.609 0.194 88.25
        }
       }
@@ -788,21 +914,72 @@ $grp SplineShapeEntity {
     Position 151.984 -0.024 -59
    }
    ShapePoint "{6A46F13AB1243415}" {
-    Position -2.047 0.701 22
+    Position 140.135 0.032 -52.769
    }
    ShapePoint "{6A46F13AB1257118}" {
-    Position -7.922 0.615 22.5
+    Position 128.287 0.088 -46.538
    }
    ShapePoint "{6A46F13AB125D5C7}" {
-    Position -14.234 0.444 20.5
+    Position 116.438 0.143 -40.308
    }
    ShapePoint "{6A46F13AB126471D}" {
-    Position -47.266 -0.701 5.5
+    Position 104.59 0.199 -34.077
    }
    ShapePoint "{6A46F13AB1271F06}" {
-    Position -104.047 -0.26 34.5
+    Position 92.741 0.255 -27.846
    }
    ShapePoint "{6A46F13AB127A2D1}" {
+    Position 80.893 0.311 -21.615
+   }
+   ShapePoint "{6A46F13AB127A2E2}" {
+    Position 69.044 0.366 -15.385
+   }
+   ShapePoint "{6A46F13AB127A2F3}" {
+    Position 57.196 0.422 -9.154
+   }
+   ShapePoint "{6A46F13AB127A304}" {
+    Position 45.347 0.478 -2.923
+   }
+   ShapePoint "{6A46F13AB127A315}" {
+    Position 33.499 0.534 3.308
+   }
+   ShapePoint "{6A46F13AB127A326}" {
+    Position 21.65 0.589 9.538
+   }
+   ShapePoint "{6A46F13AB127A337}" {
+    Position 9.802 0.645 15.769
+   }
+   ShapePoint "{6A46F13AB127A348}" {
+    Position -2.047 0.701 22
+   }
+   ShapePoint "{6A46F13AB127A359}" {
+    Position -7.922 0.615 22.5
+   }
+   ShapePoint "{6A46F13AB127A36A}" {
+    Position -14.234 0.444 20.5
+   }
+   ShapePoint "{6A46F13AB127A37B}" {
+    Position -25.245 0.062 15.5
+   }
+   ShapePoint "{6A46F13AB127A38C}" {
+    Position -33.409 -0.346 11.792
+   }
+   ShapePoint "{6A46F13AB127A39D}" {
+    Position -47.266 -0.701 5.5
+   }
+   ShapePoint "{6A46F13AB127A3AE}" {
+    Position -66.193 -0.554 15.167
+   }
+   ShapePoint "{6A46F13AB127A3BF}" {
+    Position -85.12 -0.407 24.833
+   }
+   ShapePoint "{6A46F13AB127A3D0}" {
+    Position -104.047 -0.26 34.5
+   }
+   ShapePoint "{6A46F13AB127A3E1}" {
+    Position -128.015 0.048 46.75
+   }
+   ShapePoint "{6A46F13AB127A3F2}" {
     Position -151.984 0.357 59
    }
   }
@@ -818,21 +995,72 @@ $grp SplineShapeEntity {
         Position 151.984 -0.024 -59
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position -2.047 0.701 22
+        Position 140.135 0.032 -52.769
        }
        ShapePoint "{6A46F13AB34220B5}" {
-        Position -7.922 0.615 22.5
+        Position 128.287 0.088 -46.538
        }
        ShapePoint "{6A46F13AB3422078}" {
-        Position -14.234 0.444 20.5
+        Position 116.438 0.143 -40.308
        }
        ShapePoint "{6A46F13AB3422027}" {
-        Position -47.266 -0.701 5.5
+        Position 104.59 0.199 -34.077
        }
        ShapePoint "{6A46F13AB34221E6}" {
-        Position -104.047 -0.26 34.5
+        Position 92.741 0.255 -27.846
        }
        ShapePoint "{6A46F13AB34221A3}" {
+        Position 80.893 0.311 -21.615
+       }
+       ShapePoint "{6A46F13AB34221B4}" {
+        Position 69.044 0.366 -15.385
+       }
+       ShapePoint "{6A46F13AB34221C5}" {
+        Position 57.196 0.422 -9.154
+       }
+       ShapePoint "{6A46F13AB34221D6}" {
+        Position 45.347 0.478 -2.923
+       }
+       ShapePoint "{6A46F13AB34221E7}" {
+        Position 33.499 0.534 3.308
+       }
+       ShapePoint "{6A46F13AB34221F8}" {
+        Position 21.65 0.589 9.538
+       }
+       ShapePoint "{6A46F13AB3422209}" {
+        Position 9.802 0.645 15.769
+       }
+       ShapePoint "{6A46F13AB342221A}" {
+        Position -2.047 0.701 22
+       }
+       ShapePoint "{6A46F13AB342222B}" {
+        Position -7.922 0.615 22.5
+       }
+       ShapePoint "{6A46F13AB342223C}" {
+        Position -14.234 0.444 20.5
+       }
+       ShapePoint "{6A46F13AB342224D}" {
+        Position -25.245 0.062 15.5
+       }
+       ShapePoint "{6A46F13AB342225E}" {
+        Position -33.409 -0.346 11.792
+       }
+       ShapePoint "{6A46F13AB342226F}" {
+        Position -47.266 -0.701 5.5
+       }
+       ShapePoint "{6A46F13AB3422280}" {
+        Position -66.193 -0.554 15.167
+       }
+       ShapePoint "{6A46F13AB3422291}" {
+        Position -85.12 -0.407 24.833
+       }
+       ShapePoint "{6A46F13AB34222A2}" {
+        Position -104.047 -0.26 34.5
+       }
+       ShapePoint "{6A46F13AB34222B3}" {
+        Position -128.015 0.048 46.75
+       }
+       ShapePoint "{6A46F13AB34222C4}" {
         Position -151.984 0.357 59
        }
       }
@@ -885,15 +1113,6 @@ $grp SplineShapeEntity {
    ShapePoint "{6A46F13AB13E8E4E}" {
     Position 94.859 1.588 90
    }
-   ShapePoint "{6A46F13AB13F03F9}" {
-    Position 100.234 1.536 103
-   }
-   ShapePoint "{6A46F13AB1306E38}" {
-    Position 100.672 1.506 117
-   }
-   ShapePoint "{6A46F13AB130CE1A}" {
-    Position 99.484 1.514 124
-   }
   }
   LineColor 0.93 0.13 0.33 1
   {
@@ -941,15 +1160,6 @@ $grp SplineShapeEntity {
        }
        ShapePoint "{6A46F13AB3443EAA}" {
         Position 94.859 1.588 90
-       }
-       ShapePoint "{6A46F13AB3443E6C}" {
-        Position 100.234 1.536 103
-       }
-       ShapePoint "{6A46F13AB3443E2B}" {
-        Position 100.672 1.506 117
-       }
-       ShapePoint "{6A46F13AB3443FE8}" {
-        Position 99.484 1.514 124
        }
       }
       IsClosedSpline 0
@@ -1049,24 +1259,36 @@ $grp SplineShapeEntity {
     Position -1.641 -0.146 -2.75
    }
    ShapePoint "{6A46F13AB1096775}" {
-    Position -19.453 -0.043 -24.75
+    Position -10.547 -0.094 -13.75
    }
    ShapePoint "{6A46F13AB109D246}" {
-    Position -25.328 -0.042 -31.25
+    Position -19.453 -0.043 -24.75
    }
    ShapePoint "{6A46F13AB10A3C6E}" {
-    Position -28.984 0.001 -35.25
+    Position -25.328 -0.042 -31.25
    }
    ShapePoint "{6A46F13AB10AB002}" {
-    Position -31.016 0.021 -37.75
+    Position -28.984 0.001 -35.25
    }
    ShapePoint "{6A46F13AB10B2577}" {
-    Position -34.016 0.021 -42.25
+    Position -31.016 0.021 -37.75
    }
    ShapePoint "{6A46F13AB10BAC63}" {
-    Position -38.141 0.028 -47.25
+    Position -34.016 0.021 -42.25
    }
    ShapePoint "{6A46F13AB10C16B8}" {
+    Position -38.141 0.028 -47.25
+   }
+   ShapePoint "{6A46F13AB10C16C9}" {
+    Position -47.352 0.057 -59.125
+   }
+   ShapePoint "{6A46F13AB10C16DA}" {
+    Position -56.562 0.087 -71
+   }
+   ShapePoint "{6A46F13AB10C16EB}" {
+    Position -65.773 0.117 -82.875
+   }
+   ShapePoint "{6A46F13AB10C16FC}" {
     Position -74.984 0.146 -94.75
    }
   }
@@ -1091,24 +1313,36 @@ $grp SplineShapeEntity {
         Position -1.641 -0.146 -2.75
        }
        ShapePoint "{6A46F13AB3449F5B}" {
-        Position -19.453 -0.043 -24.75
+        Position -10.547 -0.094 -13.75
        }
        ShapePoint "{6A46F13AB3449F18}" {
-        Position -25.328 -0.042 -31.25
+        Position -19.453 -0.043 -24.75
        }
        ShapePoint "{6A46F13AB3449CD9}" {
-        Position -28.984 0.001 -35.25
+        Position -25.328 -0.042 -31.25
        }
        ShapePoint "{6A46F13AB3449C86}" {
-        Position -31.016 0.021 -37.75
+        Position -28.984 0.001 -35.25
        }
        ShapePoint "{6A46F13AB3449C5A}" {
-        Position -34.016 0.021 -42.25
+        Position -31.016 0.021 -37.75
        }
        ShapePoint "{6A46F13AB3449C1D}" {
-        Position -38.141 0.028 -47.25
+        Position -34.016 0.021 -42.25
        }
        ShapePoint "{6A46F13AB3449DDA}" {
+        Position -38.141 0.028 -47.25
+       }
+       ShapePoint "{6A46F13AB3449DEB}" {
+        Position -47.352 0.057 -59.125
+       }
+       ShapePoint "{6A46F13AB3449DFC}" {
+        Position -56.562 0.087 -71
+       }
+       ShapePoint "{6A46F13AB3449E0D}" {
+        Position -65.773 0.117 -82.875
+       }
+       ShapePoint "{6A46F13AB3449E1E}" {
         Position -74.984 0.146 -94.75
        }
       }
@@ -1539,30 +1773,57 @@ $grp SplineShapeEntity {
     Position 139.812 0.332 131
    }
    ShapePoint "{6A46F13AB1E83481}" {
-    Position 128.344 0.265 105
+    Position 134.078 0.298 118
    }
    ShapePoint "{6A46F13AB1E918DA}" {
-    Position 88.156 0.473 71
+    Position 128.344 0.265 105
    }
    ShapePoint "{6A46F13AB1E98FD7}" {
-    Position -27.031 0.644 -19.5
+    Position 114.948 0.334 93.667
    }
    ShapePoint "{6A46F13AB1EA16FD}" {
-    Position -86.219 0.66 -52.5
+    Position 101.552 0.404 82.333
    }
    ShapePoint "{6A46F13AB1EAA219}" {
-    Position -129.125 0.519 -85
+    Position 88.156 0.473 71
    }
    ShapePoint "{6A46F13AB1EB24B9}" {
-    Position -142.781 0.618 -99.5
+    Position 68.958 0.502 55.917
    }
    ShapePoint "{6A46F13AB1EBB149}" {
-    Position -148.062 0.538 -111.5
+    Position 49.76 0.53 40.833
    }
    ShapePoint "{6A46F13AB1EC3A6E}" {
-    Position -150 0.048 -125.5
+    Position 30.562 0.559 25.75
    }
    ShapePoint "{6A46F13AB1ECC366}" {
+    Position 1.766 0.601 3.125
+   }
+   ShapePoint "{6A46F13AB1ECC377}" {
+    Position -27.031 0.644 -19.5
+   }
+   ShapePoint "{6A46F13AB1ECC388}" {
+    Position -56.625 0.652 -36
+   }
+   ShapePoint "{6A46F13AB1ECC399}" {
+    Position -86.219 0.66 -52.5
+   }
+   ShapePoint "{6A46F13AB1ECC3AA}" {
+    Position -107.672 0.589 -68.75
+   }
+   ShapePoint "{6A46F13AB1ECC3BB}" {
+    Position -129.125 0.519 -85
+   }
+   ShapePoint "{6A46F13AB1ECC3CC}" {
+    Position -142.781 0.618 -99.5
+   }
+   ShapePoint "{6A46F13AB1ECC3DD}" {
+    Position -148.062 0.538 -111.5
+   }
+   ShapePoint "{6A46F13AB1ECC3EE}" {
+    Position -150 0.048 -125.5
+   }
+   ShapePoint "{6A46F13AB1ECC3FF}" {
     Position -144.5 -0.66 -137
    }
   }
@@ -1581,30 +1842,57 @@ $grp SplineShapeEntity {
         Position 139.812 0.332 131
        }
        ShapePoint "{6A46F13AB35AB62A}" {
-        Position 128.344 0.265 105
+        Position 134.078 0.298 118
        }
        ShapePoint "{6A46F13AB35AB7DE}" {
-        Position 88.156 0.473 71
+        Position 128.344 0.265 105
        }
        ShapePoint "{6A46F13AB35AB798}" {
-        Position -27.031 0.644 -19.5
+        Position 114.948 0.334 93.667
        }
        ShapePoint "{6A46F13AB35AB758}" {
-        Position -86.219 0.66 -52.5
+        Position 101.552 0.404 82.333
        }
        ShapePoint "{6A46F13AB35AB707}" {
-        Position -129.125 0.519 -85
+        Position 88.156 0.473 71
        }
        ShapePoint "{6A46F13AB35AB4C6}" {
-        Position -142.781 0.618 -99.5
+        Position 68.958 0.502 55.917
        }
        ShapePoint "{6A46F13AB35AB487}" {
-        Position -148.062 0.538 -111.5
+        Position 49.76 0.53 40.833
        }
        ShapePoint "{6A46F13AB35AB440}" {
-        Position -150 0.048 -125.5
+        Position 30.562 0.559 25.75
        }
        ShapePoint "{6A46F13AB35AB40D}" {
+        Position 1.766 0.601 3.125
+       }
+       ShapePoint "{6A46F13AB35AB41E}" {
+        Position -27.031 0.644 -19.5
+       }
+       ShapePoint "{6A46F13AB35AB42F}" {
+        Position -56.625 0.652 -36
+       }
+       ShapePoint "{6A46F13AB35AB451}" {
+        Position -86.219 0.66 -52.5
+       }
+       ShapePoint "{6A46F13AB35AB462}" {
+        Position -107.672 0.589 -68.75
+       }
+       ShapePoint "{6A46F13AB35AB473}" {
+        Position -129.125 0.519 -85
+       }
+       ShapePoint "{6A46F13AB35AB484}" {
+        Position -142.781 0.618 -99.5
+       }
+       ShapePoint "{6A46F13AB35AB495}" {
+        Position -148.062 0.538 -111.5
+       }
+       ShapePoint "{6A46F13AB35AB4A6}" {
+        Position -150 0.048 -125.5
+       }
+       ShapePoint "{6A46F13AB35AB4B7}" {
         Position -144.5 -0.66 -137
        }
       }
@@ -1634,39 +1922,48 @@ $grp SplineShapeEntity {
     Position -108.969 0.155 26.5
    }
    ShapePoint "{6A46F13AB1EFD75C}" {
-    Position -66.375 0.327 15
+    Position -94.771 0.212 22.667
    }
    ShapePoint "{6A46F13AB1E0608B}" {
-    Position -36.156 0.265 5
+    Position -80.573 0.27 18.833
    }
    ShapePoint "{6A46F13AB1E0EFB8}" {
-    Position -12.156 -0.026 0.5
+    Position -66.375 0.327 15
    }
    ShapePoint "{6A46F13AB1E1615B}" {
-    Position 40.656 -0.423 -11.5
+    Position -36.156 0.265 5
    }
    ShapePoint "{6A46F13AB1E1E24D}" {
-    Position 57.719 -0.2 -15
+    Position -12.156 -0.026 0.5
    }
    ShapePoint "{6A46F13AB1E27116}" {
-    Position 83.656 0.047 -19.5
+    Position 14.25 -0.225 -5.5
    }
    ShapePoint "{6A46F13AB1E2CA61}" {
-    Position 106.219 0.178 -15.5
+    Position 40.656 -0.423 -11.5
    }
    ShapePoint "{6A46F13AB1E34BF5}" {
-    Position 119.156 0.147 -11
+    Position 57.719 -0.2 -15
    }
    ShapePoint "{6A46F13AB1E3D8C3}" {
-    Position 129.906 0.212 -12.5
+    Position 83.656 0.047 -19.5
    }
    ShapePoint "{6A46F13AB1E4544E}" {
-    Position 145.594 0.358 -20.5
+    Position 106.219 0.178 -15.5
    }
    ShapePoint "{6A46F13AB1E4D327}" {
-    Position 158.906 0.358 -29.5
+    Position 119.156 0.147 -11
    }
    ShapePoint "{6A46F13AB1E54878}" {
+    Position 129.906 0.212 -12.5
+   }
+   ShapePoint "{6A46F13AB1E54889}" {
+    Position 145.594 0.358 -20.5
+   }
+   ShapePoint "{6A46F13AB1E5489A}" {
+    Position 158.906 0.358 -29.5
+   }
+   ShapePoint "{6A46F13AB1E548AB}" {
     Position 166.469 -0.019 -44.5
    }
   }
@@ -1694,39 +1991,48 @@ $grp SplineShapeEntity {
         Position -108.969 0.155 26.5
        }
        ShapePoint "{6A46F13AB35AA33F}" {
-        Position -66.375 0.327 15
+        Position -94.771 0.212 22.667
        }
        ShapePoint "{6A46F13AB35AA0FA}" {
-        Position -36.156 0.265 5
+        Position -80.573 0.27 18.833
        }
        ShapePoint "{6A46F13AB35AA0BD}" {
-        Position -12.156 -0.026 0.5
+        Position -66.375 0.327 15
        }
        ShapePoint "{6A46F13AB35AA07A}" {
-        Position 40.656 -0.423 -11.5
+        Position -36.156 0.265 5
        }
        ShapePoint "{6A46F13AB35AA027}" {
-        Position 57.719 -0.2 -15
+        Position -12.156 -0.026 0.5
        }
        ShapePoint "{6A46F13AB35AA1F9}" {
-        Position 83.656 0.047 -19.5
+        Position 14.25 -0.225 -5.5
        }
        ShapePoint "{6A46F13AB35AA1BA}" {
-        Position 106.219 0.178 -15.5
+        Position 40.656 -0.423 -11.5
        }
        ShapePoint "{6A46F13AB35AA17F}" {
-        Position 119.156 0.147 -11
+        Position 57.719 -0.2 -15
        }
        ShapePoint "{6A46F13AB35AA130}" {
-        Position 129.906 0.212 -12.5
+        Position 83.656 0.047 -19.5
        }
        ShapePoint "{6A46F13AB35A9EE7}" {
-        Position 145.594 0.358 -20.5
+        Position 106.219 0.178 -15.5
        }
        ShapePoint "{6A46F13AB35A9EA6}" {
-        Position 158.906 0.358 -29.5
+        Position 119.156 0.147 -11
        }
        ShapePoint "{6A46F13AB35A9E66}" {
+        Position 129.906 0.212 -12.5
+       }
+       ShapePoint "{6A46F13AB35A9E77}" {
+        Position 145.594 0.358 -20.5
+       }
+       ShapePoint "{6A46F13AB35A9E88}" {
+        Position 158.906 0.358 -29.5
+       }
+       ShapePoint "{6A46F13AB35A9E99}" {
         Position 166.469 -0.019 -44.5
        }
       }
@@ -2333,53 +2639,6 @@ $grp SplineShapeEntity {
    }
   }
   LineColor 0.93 0.13 0.33 1
-  {
-   RoadGeneratorEntity : "{02AF8C5A31EC3A53}PrefabLibrary/DefaultLibrary/Generators/Roads/Asphalt/RG_Road_Asphalt_E_01.et" {
-    coords 0 0 0
-    {
-     RoadEntity {
-      ID "556C655491CDCD64"
-      SplinePoints {
-       ShapePoint "{556C6554868CB1B0}" {
-        Position 174.594 0 184.25
-       }
-       ShapePoint "{556C6554868CB0CE}" {
-        Position 52.094 0 110.75
-       }
-       ShapePoint "{6A46F13AB351CB00}" {
-        Position 47.25 0 102.75
-       }
-       ShapePoint "{6A46F13AB351C8CB}" {
-        Position 23.937 0 58.75
-       }
-       ShapePoint "{6A46F13AB351C874}" {
-        Position -55.25 0 -82.75
-       }
-       ShapePoint "{6A46F13AB351C835}" {
-        Position -91.531 0 -148.25
-       }
-       ShapePoint "{6A46F13AB351C9F4}" {
-        Position -95.844 0 -153.75
-       }
-       ShapePoint "{6A46F13AB351C9B6}" {
-        Position -100.125 0 -157.25
-       }
-       ShapePoint "{6A46F13AB351C98B}" {
-        Position -143.531 0 -177.25
-       }
-       ShapePoint "{6A46F13AB351C936}" {
-        Position -160.25 0 -182.25
-       }
-       ShapePoint "{6A46F13AB351C6FA}" {
-        Position -174.594 0 -184.25
-       }
-      }
-      IsClosedSpline 0
-      Width 12
-     }
-    }
-   }
-  }
  }
  {
   coords 6855.531 41.111 3921.75
@@ -2400,18 +2659,27 @@ $grp SplineShapeEntity {
     Position 34.688 -0.33 43.75
    }
    ShapePoint "{6A46F13AB1D122CF}" {
-    Position 2 -0.236 -11.75
+    Position 18.344 -0.283 16
    }
    ShapePoint "{6A46F13AB1D1A006}" {
-    Position -6.25 -0.174 -26.25
+    Position 2 -0.236 -11.75
    }
    ShapePoint "{6A46F13AB1D20F53}" {
-    Position -57.531 -0.013 -101.75
+    Position -6.25 -0.174 -26.25
    }
    ShapePoint "{6A46F13AB1D28BB0}" {
-    Position -69.656 0.096 -119.75
+    Position -23.344 -0.12 -51.417
    }
    ShapePoint "{6A46F13AB1D30447}" {
+    Position -40.437 -0.067 -76.583
+   }
+   ShapePoint "{6A46F13AB1D30458}" {
+    Position -57.531 -0.013 -101.75
+   }
+   ShapePoint "{6A46F13AB1D30469}" {
+    Position -69.656 0.096 -119.75
+   }
+   ShapePoint "{6A46F13AB1D3047A}" {
     Position -78.469 0.359 -130.25
    }
   }
@@ -2439,18 +2707,27 @@ $grp SplineShapeEntity {
         Position 34.688 -0.33 43.75
        }
        ShapePoint "{6A46F13AB3534699}" {
-        Position 2 -0.236 -11.75
+        Position 18.344 -0.283 16
        }
        ShapePoint "{6A46F13AB3534646}" {
-        Position -6.25 -0.174 -26.25
+        Position 2 -0.236 -11.75
        }
        ShapePoint "{6A46F13AB3534602}" {
-        Position -57.531 -0.013 -101.75
+        Position -6.25 -0.174 -26.25
        }
        ShapePoint "{6A46F13AB35347C8}" {
-        Position -69.656 0.096 -119.75
+        Position -23.344 -0.12 -51.417
        }
        ShapePoint "{6A46F13AB3534775}" {
+        Position -40.437 -0.067 -76.583
+       }
+       ShapePoint "{6A46F13AB3534786}" {
+        Position -57.531 -0.013 -101.75
+       }
+       ShapePoint "{6A46F13AB3534797}" {
+        Position -69.656 0.096 -119.75
+       }
+       ShapePoint "{6A46F13AB35347A8}" {
         Position -78.469 0.359 -130.25
        }
       }
@@ -2700,12 +2977,27 @@ $grp SplineShapeEntity {
     Position 90.125 -0.024 -56
    }
    ShapePoint "{6A46F13AB1A1CDD8}" {
-    Position 19.531 0.006 -17
+    Position 66.594 -0.014 -43
    }
    ShapePoint "{6A46F13AB1A245AC}" {
-    Position 6.562 0.086 -9
+    Position 43.062 -0.004 -30
    }
    ShapePoint "{6A46F13AB1A2C1EE}" {
+    Position 19.531 0.006 -17
+   }
+   ShapePoint "{6A46F13AB1A2C1FF}" {
+    Position 6.562 0.086 -9
+   }
+   ShapePoint "{6A46F13AB1A2C210}" {
+    Position -17.61 0.043 7.25
+   }
+   ShapePoint "{6A46F13AB1A2C221}" {
+    Position -41.782 0 23.5
+   }
+   ShapePoint "{6A46F13AB1A2C232}" {
+    Position -65.953 -0.043 39.75
+   }
+   ShapePoint "{6A46F13AB1A2C243}" {
     Position -90.125 -0.086 56
    }
   }
@@ -2721,12 +3013,27 @@ $grp SplineShapeEntity {
         Position 90.125 -0.024 -56
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 19.531 0.006 -17
+        Position 66.594 -0.014 -43
        }
        ShapePoint "{6A46F13AB355C376}" {
-        Position 6.562 0.086 -9
+        Position 43.062 -0.004 -30
        }
        ShapePoint "{6A46F13AB355C331}" {
+        Position 19.531 0.006 -17
+       }
+       ShapePoint "{6A46F13AB355C342}" {
+        Position 6.562 0.086 -9
+       }
+       ShapePoint "{6A46F13AB355C353}" {
+        Position -17.61 0.043 7.25
+       }
+       ShapePoint "{6A46F13AB355C364}" {
+        Position -41.782 0 23.5
+       }
+       ShapePoint "{6A46F13AB355C375}" {
+        Position -65.953 -0.043 39.75
+       }
+       ShapePoint "{6A46F13AB355C386}" {
         Position -90.125 -0.086 56
        }
       }
@@ -2759,9 +3066,15 @@ $grp SplineShapeEntity {
     Position -27.906 -0.133 -70.25
    }
    ShapePoint "{6A46F13AB1A6E913}" {
-    Position -72.188 0.142 -128.25
+    Position -42.667 -0.041 -89.583
    }
    ShapePoint "{6A46F13AB1A760D6}" {
+    Position -57.427 0.05 -108.917
+   }
+   ShapePoint "{6A46F13AB1A760E7}" {
+    Position -72.188 0.142 -128.25
+   }
+   ShapePoint "{6A46F13AB1A760F8}" {
     Position -80.063 0.185 -136.75
    }
   }
@@ -2792,9 +3105,15 @@ $grp SplineShapeEntity {
         Position -27.906 -0.133 -70.25
        }
        ShapePoint "{6A46F13AB3559AD8}" {
-        Position -72.188 0.142 -128.25
+        Position -42.667 -0.041 -89.583
        }
        ShapePoint "{6A46F13AB3559A9B}" {
+        Position -57.427 0.05 -108.917
+       }
+       ShapePoint "{6A46F13AB3559AAC}" {
+        Position -72.188 0.142 -128.25
+       }
+       ShapePoint "{6A46F13AB3559ABD}" {
         Position -80.063 0.185 -136.75
        }
       }
@@ -2992,15 +3311,174 @@ $grp SplineShapeEntity {
     Position 67.469 1.72 54.75
    }
    ShapePoint "{6A46F13AB1B3369C}" {
-    Position 61.5 1.683 49.25
+    Position 65.479 1.708 52.917
    }
    ShapePoint "{6A46F13AB1B3AD8B}" {
-    Position -1.719 -1.136 -9.25
+    Position 63.49 1.695 51.083
    }
    ShapePoint "{6A46F13AB1B43B97}" {
-    Position -3.25 -1.169 -10.75
+    Position 61.5 1.683 49.25
    }
    ShapePoint "{6A46F13AB1B4C34A}" {
+    Position 59.242 1.582 47.161
+   }
+   ShapePoint "{6A46F13AB1B4C35B}" {
+    Position 56.984 1.482 45.071
+   }
+   ShapePoint "{6A46F13AB1B4C36C}" {
+    Position 54.727 1.381 42.982
+   }
+   ShapePoint "{6A46F13AB1B4C37D}" {
+    Position 52.469 1.28 40.893
+   }
+   ShapePoint "{6A46F13AB1B4C38E}" {
+    Position 50.211 1.18 38.804
+   }
+   ShapePoint "{6A46F13AB1B4C39F}" {
+    Position 47.953 1.079 36.714
+   }
+   ShapePoint "{6A46F13AB1B4C3B0}" {
+    Position 45.695 0.978 34.625
+   }
+   ShapePoint "{6A46F13AB1B4C3C1}" {
+    Position 43.437 0.878 32.536
+   }
+   ShapePoint "{6A46F13AB1B4C3D2}" {
+    Position 41.18 0.777 30.446
+   }
+   ShapePoint "{6A46F13AB1B4C3E3}" {
+    Position 38.922 0.676 28.357
+   }
+   ShapePoint "{6A46F13AB1B4C3F4}" {
+    Position 36.664 0.576 26.268
+   }
+   ShapePoint "{6A46F13AB1B4C405}" {
+    Position 34.406 0.475 24.179
+   }
+   ShapePoint "{6A46F13AB1B4C416}" {
+    Position 32.148 0.374 22.089
+   }
+   ShapePoint "{6A46F13AB1B4C427}" {
+    Position 29.89 0.273 20
+   }
+   ShapePoint "{6A46F13AB1B4C438}" {
+    Position 27.633 0.173 17.911
+   }
+   ShapePoint "{6A46F13AB1B4C449}" {
+    Position 25.375 0.072 15.821
+   }
+   ShapePoint "{6A46F13AB1B4C45A}" {
+    Position 23.117 -0.029 13.732
+   }
+   ShapePoint "{6A46F13AB1B4C46B}" {
+    Position 20.859 -0.129 11.643
+   }
+   ShapePoint "{6A46F13AB1B4C47C}" {
+    Position 18.601 -0.23 9.554
+   }
+   ShapePoint "{6A46F13AB1B4C48D}" {
+    Position 16.344 -0.331 7.464
+   }
+   ShapePoint "{6A46F13AB1B4C49E}" {
+    Position 14.086 -0.431 5.375
+   }
+   ShapePoint "{6A46F13AB1B4C4AF}" {
+    Position 11.828 -0.532 3.286
+   }
+   ShapePoint "{6A46F13AB1B4C4C0}" {
+    Position 9.57 -0.633 1.196
+   }
+   ShapePoint "{6A46F13AB1B4C4D1}" {
+    Position 7.312 -0.733 -0.893
+   }
+   ShapePoint "{6A46F13AB1B4C4E2}" {
+    Position 5.054 -0.834 -2.982
+   }
+   ShapePoint "{6A46F13AB1B4C4F3}" {
+    Position 2.797 -0.935 -5.071
+   }
+   ShapePoint "{6A46F13AB1B4C504}" {
+    Position 0.539 -1.035 -7.161
+   }
+   ShapePoint "{6A46F13AB1B4C515}" {
+    Position -1.719 -1.136 -9.25
+   }
+   ShapePoint "{6A46F13AB1B4C526}" {
+    Position -3.25 -1.169 -10.75
+   }
+   ShapePoint "{6A46F13AB1B4C537}" {
+    Position -5.819 -1.191 -12.51
+   }
+   ShapePoint "{6A46F13AB1B4C548}" {
+    Position -8.388 -1.213 -14.27
+   }
+   ShapePoint "{6A46F13AB1B4C559}" {
+    Position -10.956 -1.235 -16.03
+   }
+   ShapePoint "{6A46F13AB1B4C56A}" {
+    Position -13.525 -1.257 -17.79
+   }
+   ShapePoint "{6A46F13AB1B4C57B}" {
+    Position -16.094 -1.279 -19.55
+   }
+   ShapePoint "{6A46F13AB1B4C58C}" {
+    Position -18.663 -1.301 -21.31
+   }
+   ShapePoint "{6A46F13AB1B4C59D}" {
+    Position -21.231 -1.323 -23.07
+   }
+   ShapePoint "{6A46F13AB1B4C5AE}" {
+    Position -23.8 -1.345 -24.83
+   }
+   ShapePoint "{6A46F13AB1B4C5BF}" {
+    Position -26.369 -1.367 -26.59
+   }
+   ShapePoint "{6A46F13AB1B4C5D0}" {
+    Position -28.938 -1.389 -28.35
+   }
+   ShapePoint "{6A46F13AB1B4C5E1}" {
+    Position -31.506 -1.411 -30.11
+   }
+   ShapePoint "{6A46F13AB1B4C5F2}" {
+    Position -34.075 -1.433 -31.87
+   }
+   ShapePoint "{6A46F13AB1B4C603}" {
+    Position -36.644 -1.456 -33.63
+   }
+   ShapePoint "{6A46F13AB1B4C614}" {
+    Position -39.213 -1.478 -35.39
+   }
+   ShapePoint "{6A46F13AB1B4C625}" {
+    Position -41.781 -1.5 -37.15
+   }
+   ShapePoint "{6A46F13AB1B4C636}" {
+    Position -44.35 -1.522 -38.91
+   }
+   ShapePoint "{6A46F13AB1B4C647}" {
+    Position -46.919 -1.544 -40.67
+   }
+   ShapePoint "{6A46F13AB1B4C658}" {
+    Position -49.488 -1.566 -42.43
+   }
+   ShapePoint "{6A46F13AB1B4C669}" {
+    Position -52.056 -1.588 -44.19
+   }
+   ShapePoint "{6A46F13AB1B4C67A}" {
+    Position -54.625 -1.61 -45.95
+   }
+   ShapePoint "{6A46F13AB1B4C68B}" {
+    Position -57.194 -1.632 -47.71
+   }
+   ShapePoint "{6A46F13AB1B4C69C}" {
+    Position -59.763 -1.654 -49.47
+   }
+   ShapePoint "{6A46F13AB1B4C6AD}" {
+    Position -62.331 -1.676 -51.23
+   }
+   ShapePoint "{6A46F13AB1B4C6BE}" {
+    Position -64.9 -1.698 -52.99
+   }
+   ShapePoint "{6A46F13AB1B4C6CF}" {
     Position -67.469 -1.72 -54.75
    }
   }
@@ -3016,15 +3494,174 @@ $grp SplineShapeEntity {
         Position 67.469 1.72 54.75
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 61.5 1.683 49.25
+        Position 65.479 1.708 52.917
        }
        ShapePoint "{6A46F13AB32872F1}" {
-        Position -1.719 -1.136 -9.25
+        Position 63.49 1.695 51.083
        }
        ShapePoint "{6A46F13AB32872A0}" {
-        Position -3.25 -1.169 -10.75
+        Position 61.5 1.683 49.25
        }
        ShapePoint "{6A46F13AB3287260}" {
+        Position 59.242 1.582 47.161
+       }
+       ShapePoint "{6A46F13AB3287271}" {
+        Position 56.984 1.482 45.071
+       }
+       ShapePoint "{6A46F13AB3287282}" {
+        Position 54.727 1.381 42.982
+       }
+       ShapePoint "{6A46F13AB3287293}" {
+        Position 52.469 1.28 40.893
+       }
+       ShapePoint "{6A46F13AB32872A4}" {
+        Position 50.211 1.18 38.804
+       }
+       ShapePoint "{6A46F13AB32872B5}" {
+        Position 47.953 1.079 36.714
+       }
+       ShapePoint "{6A46F13AB32872C6}" {
+        Position 45.695 0.978 34.625
+       }
+       ShapePoint "{6A46F13AB32872D7}" {
+        Position 43.437 0.878 32.536
+       }
+       ShapePoint "{6A46F13AB32872E8}" {
+        Position 41.18 0.777 30.446
+       }
+       ShapePoint "{6A46F13AB32872F9}" {
+        Position 38.922 0.676 28.357
+       }
+       ShapePoint "{6A46F13AB328730A}" {
+        Position 36.664 0.576 26.268
+       }
+       ShapePoint "{6A46F13AB328731B}" {
+        Position 34.406 0.475 24.179
+       }
+       ShapePoint "{6A46F13AB328732C}" {
+        Position 32.148 0.374 22.089
+       }
+       ShapePoint "{6A46F13AB328733D}" {
+        Position 29.89 0.273 20
+       }
+       ShapePoint "{6A46F13AB328734E}" {
+        Position 27.633 0.173 17.911
+       }
+       ShapePoint "{6A46F13AB328735F}" {
+        Position 25.375 0.072 15.821
+       }
+       ShapePoint "{6A46F13AB3287370}" {
+        Position 23.117 -0.029 13.732
+       }
+       ShapePoint "{6A46F13AB3287381}" {
+        Position 20.859 -0.129 11.643
+       }
+       ShapePoint "{6A46F13AB3287392}" {
+        Position 18.601 -0.23 9.554
+       }
+       ShapePoint "{6A46F13AB32873A3}" {
+        Position 16.344 -0.331 7.464
+       }
+       ShapePoint "{6A46F13AB32873B4}" {
+        Position 14.086 -0.431 5.375
+       }
+       ShapePoint "{6A46F13AB32873C5}" {
+        Position 11.828 -0.532 3.286
+       }
+       ShapePoint "{6A46F13AB32873D6}" {
+        Position 9.57 -0.633 1.196
+       }
+       ShapePoint "{6A46F13AB32873E7}" {
+        Position 7.312 -0.733 -0.893
+       }
+       ShapePoint "{6A46F13AB32873F8}" {
+        Position 5.054 -0.834 -2.982
+       }
+       ShapePoint "{6A46F13AB3287409}" {
+        Position 2.797 -0.935 -5.071
+       }
+       ShapePoint "{6A46F13AB328741A}" {
+        Position 0.539 -1.035 -7.161
+       }
+       ShapePoint "{6A46F13AB328742B}" {
+        Position -1.719 -1.136 -9.25
+       }
+       ShapePoint "{6A46F13AB328743C}" {
+        Position -3.25 -1.169 -10.75
+       }
+       ShapePoint "{6A46F13AB328744D}" {
+        Position -5.819 -1.191 -12.51
+       }
+       ShapePoint "{6A46F13AB328745E}" {
+        Position -8.388 -1.213 -14.27
+       }
+       ShapePoint "{6A46F13AB328746F}" {
+        Position -10.956 -1.235 -16.03
+       }
+       ShapePoint "{6A46F13AB3287480}" {
+        Position -13.525 -1.257 -17.79
+       }
+       ShapePoint "{6A46F13AB3287491}" {
+        Position -16.094 -1.279 -19.55
+       }
+       ShapePoint "{6A46F13AB32874A2}" {
+        Position -18.663 -1.301 -21.31
+       }
+       ShapePoint "{6A46F13AB32874B3}" {
+        Position -21.231 -1.323 -23.07
+       }
+       ShapePoint "{6A46F13AB32874C4}" {
+        Position -23.8 -1.345 -24.83
+       }
+       ShapePoint "{6A46F13AB32874D5}" {
+        Position -26.369 -1.367 -26.59
+       }
+       ShapePoint "{6A46F13AB32874E6}" {
+        Position -28.938 -1.389 -28.35
+       }
+       ShapePoint "{6A46F13AB32874F7}" {
+        Position -31.506 -1.411 -30.11
+       }
+       ShapePoint "{6A46F13AB3287508}" {
+        Position -34.075 -1.433 -31.87
+       }
+       ShapePoint "{6A46F13AB3287519}" {
+        Position -36.644 -1.456 -33.63
+       }
+       ShapePoint "{6A46F13AB328752A}" {
+        Position -39.213 -1.478 -35.39
+       }
+       ShapePoint "{6A46F13AB328753B}" {
+        Position -41.781 -1.5 -37.15
+       }
+       ShapePoint "{6A46F13AB328754C}" {
+        Position -44.35 -1.522 -38.91
+       }
+       ShapePoint "{6A46F13AB328755D}" {
+        Position -46.919 -1.544 -40.67
+       }
+       ShapePoint "{6A46F13AB328756E}" {
+        Position -49.488 -1.566 -42.43
+       }
+       ShapePoint "{6A46F13AB328757F}" {
+        Position -52.056 -1.588 -44.19
+       }
+       ShapePoint "{6A46F13AB3287590}" {
+        Position -54.625 -1.61 -45.95
+       }
+       ShapePoint "{6A46F13AB32875A1}" {
+        Position -57.194 -1.632 -47.71
+       }
+       ShapePoint "{6A46F13AB32875B2}" {
+        Position -59.763 -1.654 -49.47
+       }
+       ShapePoint "{6A46F13AB32875C3}" {
+        Position -62.331 -1.676 -51.23
+       }
+       ShapePoint "{6A46F13AB32875D4}" {
+        Position -64.9 -1.698 -52.99
+       }
+       ShapePoint "{6A46F13AB32875E5}" {
         Position -67.469 -1.72 -54.75
        }
       }
@@ -3042,24 +3679,36 @@ $grp SplineShapeEntity {
     Position -96.234 -0.053 8.75
    }
    ShapePoint "{6A46F13AB1B67FDB}" {
-    Position -32.172 0.21 -3.25
+    Position -74.88 0.035 4.75
    }
    ShapePoint "{6A46F13AB1B74993}" {
-    Position -21.141 0.217 -4.75
+    Position -53.526 0.122 0.75
    }
    ShapePoint "{6A46F13AB1B7B6D4}" {
-    Position -9.359 0.065 -6.25
+    Position -32.172 0.21 -3.25
    }
    ShapePoint "{6A46F13AB1882B08}" {
-    Position 17.453 -0.06 -8.75
+    Position -21.141 0.217 -4.75
    }
    ShapePoint "{6A46F13AB188A901}" {
-    Position 53.547 -0.217 -7.75
+    Position -9.359 0.065 -6.25
    }
    ShapePoint "{6A46F13AB18923F3}" {
-    Position 63.859 -0.193 -5.25
+    Position 17.453 -0.06 -8.75
    }
    ShapePoint "{6A46F13AB189AB56}" {
+    Position 35.5 -0.139 -8.25
+   }
+   ShapePoint "{6A46F13AB189AB67}" {
+    Position 53.547 -0.217 -7.75
+   }
+   ShapePoint "{6A46F13AB189AB78}" {
+    Position 63.859 -0.193 -5.25
+   }
+   ShapePoint "{6A46F13AB189AB89}" {
+    Position 80.047 -0.11 -1.75
+   }
+   ShapePoint "{6A46F13AB189AB9A}" {
     Position 96.234 -0.027 1.75
    }
   }
@@ -3075,24 +3724,36 @@ $grp SplineShapeEntity {
         Position -96.234 -0.053 8.75
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position -32.172 0.21 -3.25
+        Position -74.88 0.035 4.75
        }
        ShapePoint "{6A46F13AB32AED86}" {
-        Position -21.141 0.217 -4.75
+        Position -53.526 0.122 0.75
        }
        ShapePoint "{6A46F13AB32AED49}" {
-        Position -9.359 0.065 -6.25
+        Position -32.172 0.21 -3.25
        }
        ShapePoint "{6A46F13AB32AEAF5}" {
-        Position 17.453 -0.06 -8.75
+        Position -21.141 0.217 -4.75
        }
        ShapePoint "{6A46F13AB32AEABC}" {
-        Position 53.547 -0.217 -7.75
+        Position -9.359 0.065 -6.25
        }
        ShapePoint "{6A46F13AB32AEA7C}" {
-        Position 63.859 -0.193 -5.25
+        Position 17.453 -0.06 -8.75
        }
        ShapePoint "{6A46F13AB32AEA23}" {
+        Position 35.5 -0.139 -8.25
+       }
+       ShapePoint "{6A46F13AB32AEA34}" {
+        Position 53.547 -0.217 -7.75
+       }
+       ShapePoint "{6A46F13AB32AEA45}" {
+        Position 63.859 -0.193 -5.25
+       }
+       ShapePoint "{6A46F13AB32AEA56}" {
+        Position 80.047 -0.11 -1.75
+       }
+       ShapePoint "{6A46F13AB32AEA67}" {
         Position 96.234 -0.027 1.75
        }
       }
@@ -3267,9 +3928,24 @@ $grp SplineShapeEntity {
     Position -10.578 -0.147 -36
    }
    ShapePoint "{6A46F13AB1871E92}" {
-    Position 9.672 0.349 63
+    Position -7.203 -0.064 -19.5
    }
    ShapePoint "{6A46F13AB187A32A}" {
+    Position -3.828 0.018 -3
+   }
+   ShapePoint "{6A46F13AB187A33B}" {
+    Position -0.453 0.101 13.5
+   }
+   ShapePoint "{6A46F13AB187A34C}" {
+    Position 2.922 0.184 30
+   }
+   ShapePoint "{6A46F13AB187A35D}" {
+    Position 6.297 0.266 46.5
+   }
+   ShapePoint "{6A46F13AB187A36E}" {
+    Position 9.672 0.349 63
+   }
+   ShapePoint "{6A46F13AB187A37F}" {
     Position 11.016 0.329 69.5
    }
   }
@@ -3300,9 +3976,24 @@ $grp SplineShapeEntity {
         Position -10.578 -0.147 -36
        }
        ShapePoint "{6A46F13AB32C2F85}" {
-        Position 9.672 0.349 63
+        Position -7.203 -0.064 -19.5
        }
        ShapePoint "{6A46F13AB32C2F45}" {
+        Position -3.828 0.018 -3
+       }
+       ShapePoint "{6A46F13AB32C2F56}" {
+        Position -0.453 0.101 13.5
+       }
+       ShapePoint "{6A46F13AB32C2F67}" {
+        Position 2.922 0.184 30
+       }
+       ShapePoint "{6A46F13AB32C2F78}" {
+        Position 6.297 0.266 46.5
+       }
+       ShapePoint "{6A46F13AB32C2F89}" {
+        Position 9.672 0.349 63
+       }
+       ShapePoint "{6A46F13AB32C2F9A}" {
         Position 11.016 0.329 69.5
        }
       }
@@ -3323,15 +4014,72 @@ $grp SplineShapeEntity {
     Position -26.797 -0.144 -89.75
    }
    ShapePoint "{6A46F13AB199D3F5}" {
-    Position 17.703 0.068 75.25
+    Position -24.572 -0.133 -81.5
    }
    ShapePoint "{6A46F13AB19A50C3}" {
-    Position 20.203 0.108 82.25
+    Position -22.347 -0.123 -73.25
    }
    ShapePoint "{6A46F13AB19AC87A}" {
-    Position 23.203 0.204 88.25
+    Position -20.122 -0.112 -65
    }
    ShapePoint "{6A46F13AB19B4DD9}" {
+    Position -17.897 -0.102 -56.75
+   }
+   ShapePoint "{6A46F13AB19B4DEA}" {
+    Position -15.672 -0.091 -48.5
+   }
+   ShapePoint "{6A46F13AB19B4DFB}" {
+    Position -13.447 -0.08 -40.25
+   }
+   ShapePoint "{6A46F13AB19B4E0C}" {
+    Position -11.222 -0.07 -32
+   }
+   ShapePoint "{6A46F13AB19B4E1D}" {
+    Position -8.997 -0.059 -23.75
+   }
+   ShapePoint "{6A46F13AB19B4E2E}" {
+    Position -6.772 -0.049 -15.5
+   }
+   ShapePoint "{6A46F13AB19B4E3F}" {
+    Position -4.547 -0.038 -7.25
+   }
+   ShapePoint "{6A46F13AB19B4E50}" {
+    Position -2.322 -0.027 1
+   }
+   ShapePoint "{6A46F13AB19B4E61}" {
+    Position -0.097 -0.017 9.25
+   }
+   ShapePoint "{6A46F13AB19B4E72}" {
+    Position 2.128 -0.006 17.5
+   }
+   ShapePoint "{6A46F13AB19B4E83}" {
+    Position 4.353 0.004 25.75
+   }
+   ShapePoint "{6A46F13AB19B4E94}" {
+    Position 6.578 0.015 34
+   }
+   ShapePoint "{6A46F13AB19B4EA5}" {
+    Position 8.803 0.026 42.25
+   }
+   ShapePoint "{6A46F13AB19B4EB6}" {
+    Position 11.028 0.036 50.5
+   }
+   ShapePoint "{6A46F13AB19B4EC7}" {
+    Position 13.253 0.047 58.75
+   }
+   ShapePoint "{6A46F13AB19B4ED8}" {
+    Position 15.478 0.057 67
+   }
+   ShapePoint "{6A46F13AB19B4EE9}" {
+    Position 17.703 0.068 75.25
+   }
+   ShapePoint "{6A46F13AB19B4EFA}" {
+    Position 20.203 0.108 82.25
+   }
+   ShapePoint "{6A46F13AB19B4F0B}" {
+    Position 23.203 0.204 88.25
+   }
+   ShapePoint "{6A46F13AB19B4F1C}" {
     Position 27.391 0.217 92.75
    }
   }
@@ -3350,15 +4098,72 @@ $grp SplineShapeEntity {
         Position -26.797 -0.144 -89.75
        }
        ShapePoint "{6A46F13AB32E0B17}" {
-        Position 17.703 0.068 75.25
+        Position -24.572 -0.133 -81.5
        }
        ShapePoint "{6A46F13AB32E08B6}" {
-        Position 20.203 0.108 82.25
+        Position -22.347 -0.123 -73.25
        }
        ShapePoint "{6A46F13AB32E0877}" {
-        Position 23.203 0.204 88.25
+        Position -20.122 -0.112 -65
        }
        ShapePoint "{6A46F13AB32E0849}" {
+        Position -17.897 -0.102 -56.75
+       }
+       ShapePoint "{6A46F13AB32E085A}" {
+        Position -15.672 -0.091 -48.5
+       }
+       ShapePoint "{6A46F13AB32E086B}" {
+        Position -13.447 -0.08 -40.25
+       }
+       ShapePoint "{6A46F13AB32E087C}" {
+        Position -11.222 -0.07 -32
+       }
+       ShapePoint "{6A46F13AB32E088D}" {
+        Position -8.997 -0.059 -23.75
+       }
+       ShapePoint "{6A46F13AB32E089E}" {
+        Position -6.772 -0.049 -15.5
+       }
+       ShapePoint "{6A46F13AB32E08AF}" {
+        Position -4.547 -0.038 -7.25
+       }
+       ShapePoint "{6A46F13AB32E08C0}" {
+        Position -2.322 -0.027 1
+       }
+       ShapePoint "{6A46F13AB32E08D1}" {
+        Position -0.097 -0.017 9.25
+       }
+       ShapePoint "{6A46F13AB32E08E2}" {
+        Position 2.128 -0.006 17.5
+       }
+       ShapePoint "{6A46F13AB32E08F3}" {
+        Position 4.353 0.004 25.75
+       }
+       ShapePoint "{6A46F13AB32E0904}" {
+        Position 6.578 0.015 34
+       }
+       ShapePoint "{6A46F13AB32E0915}" {
+        Position 8.803 0.026 42.25
+       }
+       ShapePoint "{6A46F13AB32E0926}" {
+        Position 11.028 0.036 50.5
+       }
+       ShapePoint "{6A46F13AB32E0937}" {
+        Position 13.253 0.047 58.75
+       }
+       ShapePoint "{6A46F13AB32E0948}" {
+        Position 15.478 0.057 67
+       }
+       ShapePoint "{6A46F13AB32E0959}" {
+        Position 17.703 0.068 75.25
+       }
+       ShapePoint "{6A46F13AB32E096A}" {
+        Position 20.203 0.108 82.25
+       }
+       ShapePoint "{6A46F13AB32E097B}" {
+        Position 23.203 0.204 88.25
+       }
+       ShapePoint "{6A46F13AB32E098C}" {
         Position 27.391 0.217 92.75
        }
       }
@@ -3376,15 +4181,201 @@ $grp SplineShapeEntity {
     Position 24.687 0.171 84.25
    }
    ShapePoint "{6A46F13AB19C4858}" {
-    Position 22.375 0.054 77.25
+    Position 24.109 0.142 82.5
    }
    ShapePoint "{6A46F13AB19CCE4F}" {
-    Position 22.094 0.009 76.25
+    Position 23.531 0.113 80.75
    }
    ShapePoint "{6A46F13AB19D4713}" {
-    Position -17.437 -0.171 -61.25
+    Position 22.953 0.083 79
    }
    ShapePoint "{6A46F13AB19DB182}" {
+    Position 22.375 0.054 77.25
+   }
+   ShapePoint "{6A46F13AB19DB193}" {
+    Position 22.094 0.009 76.25
+   }
+   ShapePoint "{6A46F13AB19DB1A4}" {
+    Position 21.388 0.006 73.795
+   }
+   ShapePoint "{6A46F13AB19DB1B5}" {
+    Position 20.682 0.003 71.339
+   }
+   ShapePoint "{6A46F13AB19DB1C6}" {
+    Position 19.976 -0.001 68.884
+   }
+   ShapePoint "{6A46F13AB19DB1D7}" {
+    Position 19.27 -0.004 66.429
+   }
+   ShapePoint "{6A46F13AB19DB1E8}" {
+    Position 18.564 -0.007 63.973
+   }
+   ShapePoint "{6A46F13AB19DB1F9}" {
+    Position 17.859 -0.01 61.518
+   }
+   ShapePoint "{6A46F13AB19DB20A}" {
+    Position 17.153 -0.014 59.062
+   }
+   ShapePoint "{6A46F13AB19DB21B}" {
+    Position 16.447 -0.017 56.607
+   }
+   ShapePoint "{6A46F13AB19DB22C}" {
+    Position 15.741 -0.02 54.152
+   }
+   ShapePoint "{6A46F13AB19DB23D}" {
+    Position 15.035 -0.023 51.696
+   }
+   ShapePoint "{6A46F13AB19DB24E}" {
+    Position 14.329 -0.026 49.241
+   }
+   ShapePoint "{6A46F13AB19DB25F}" {
+    Position 13.623 -0.03 46.786
+   }
+   ShapePoint "{6A46F13AB19DB270}" {
+    Position 12.917 -0.033 44.33
+   }
+   ShapePoint "{6A46F13AB19DB281}" {
+    Position 12.211 -0.036 41.875
+   }
+   ShapePoint "{6A46F13AB19DB292}" {
+    Position 11.505 -0.039 39.42
+   }
+   ShapePoint "{6A46F13AB19DB2A3}" {
+    Position 10.799 -0.042 36.964
+   }
+   ShapePoint "{6A46F13AB19DB2B4}" {
+    Position 10.094 -0.046 34.509
+   }
+   ShapePoint "{6A46F13AB19DB2C5}" {
+    Position 9.388 -0.049 32.054
+   }
+   ShapePoint "{6A46F13AB19DB2D6}" {
+    Position 8.682 -0.052 29.598
+   }
+   ShapePoint "{6A46F13AB19DB2E7}" {
+    Position 7.976 -0.055 27.143
+   }
+   ShapePoint "{6A46F13AB19DB2F8}" {
+    Position 7.27 -0.059 24.688
+   }
+   ShapePoint "{6A46F13AB19DB309}" {
+    Position 6.564 -0.062 22.232
+   }
+   ShapePoint "{6A46F13AB19DB31A}" {
+    Position 5.858 -0.065 19.777
+   }
+   ShapePoint "{6A46F13AB19DB32B}" {
+    Position 5.152 -0.068 17.321
+   }
+   ShapePoint "{6A46F13AB19DB33C}" {
+    Position 4.446 -0.071 14.866
+   }
+   ShapePoint "{6A46F13AB19DB34D}" {
+    Position 3.74 -0.075 12.411
+   }
+   ShapePoint "{6A46F13AB19DB35E}" {
+    Position 3.034 -0.078 9.955
+   }
+   ShapePoint "{6A46F13AB19DB36F}" {
+    Position 2.329 -0.081 7.5
+   }
+   ShapePoint "{6A46F13AB19DB380}" {
+    Position 1.623 -0.084 5.045
+   }
+   ShapePoint "{6A46F13AB19DB391}" {
+    Position 0.917 -0.087 2.589
+   }
+   ShapePoint "{6A46F13AB19DB3A2}" {
+    Position 0.211 -0.091 0.134
+   }
+   ShapePoint "{6A46F13AB19DB3B3}" {
+    Position -0.495 -0.094 -2.321
+   }
+   ShapePoint "{6A46F13AB19DB3C4}" {
+    Position -1.201 -0.097 -4.777
+   }
+   ShapePoint "{6A46F13AB19DB3D5}" {
+    Position -1.907 -0.1 -7.232
+   }
+   ShapePoint "{6A46F13AB19DB3E6}" {
+    Position -2.613 -0.103 -9.688
+   }
+   ShapePoint "{6A46F13AB19DB3F7}" {
+    Position -3.319 -0.107 -12.143
+   }
+   ShapePoint "{6A46F13AB19DB408}" {
+    Position -4.025 -0.11 -14.598
+   }
+   ShapePoint "{6A46F13AB19DB419}" {
+    Position -4.731 -0.113 -17.054
+   }
+   ShapePoint "{6A46F13AB19DB42A}" {
+    Position -5.437 -0.116 -19.509
+   }
+   ShapePoint "{6A46F13AB19DB43B}" {
+    Position -6.142 -0.12 -21.964
+   }
+   ShapePoint "{6A46F13AB19DB44C}" {
+    Position -6.848 -0.123 -24.42
+   }
+   ShapePoint "{6A46F13AB19DB45D}" {
+    Position -7.554 -0.126 -26.875
+   }
+   ShapePoint "{6A46F13AB19DB46E}" {
+    Position -8.26 -0.129 -29.33
+   }
+   ShapePoint "{6A46F13AB19DB47F}" {
+    Position -8.966 -0.132 -31.786
+   }
+   ShapePoint "{6A46F13AB19DB490}" {
+    Position -9.672 -0.136 -34.241
+   }
+   ShapePoint "{6A46F13AB19DB4A1}" {
+    Position -10.378 -0.139 -36.696
+   }
+   ShapePoint "{6A46F13AB19DB4B2}" {
+    Position -11.084 -0.142 -39.152
+   }
+   ShapePoint "{6A46F13AB19DB4C3}" {
+    Position -11.79 -0.145 -41.607
+   }
+   ShapePoint "{6A46F13AB19DB4D4}" {
+    Position -12.496 -0.148 -44.062
+   }
+   ShapePoint "{6A46F13AB19DB4E5}" {
+    Position -13.202 -0.152 -46.518
+   }
+   ShapePoint "{6A46F13AB19DB4F6}" {
+    Position -13.907 -0.155 -48.973
+   }
+   ShapePoint "{6A46F13AB19DB507}" {
+    Position -14.613 -0.158 -51.429
+   }
+   ShapePoint "{6A46F13AB19DB518}" {
+    Position -15.319 -0.161 -53.884
+   }
+   ShapePoint "{6A46F13AB19DB529}" {
+    Position -16.025 -0.165 -56.339
+   }
+   ShapePoint "{6A46F13AB19DB53A}" {
+    Position -16.731 -0.168 -58.795
+   }
+   ShapePoint "{6A46F13AB19DB54B}" {
+    Position -17.437 -0.171 -61.25
+   }
+   ShapePoint "{6A46F13AB19DB55C}" {
+    Position -18.887 -0.152 -65.85
+   }
+   ShapePoint "{6A46F13AB19DB56D}" {
+    Position -20.337 -0.134 -70.45
+   }
+   ShapePoint "{6A46F13AB19DB57E}" {
+    Position -21.787 -0.115 -75.05
+   }
+   ShapePoint "{6A46F13AB19DB58F}" {
+    Position -23.237 -0.097 -79.65
+   }
+   ShapePoint "{6A46F13AB19DB5A0}" {
     Position -24.687 -0.078 -84.25
    }
   }
@@ -3400,15 +4391,201 @@ $grp SplineShapeEntity {
         Position 24.687 0.171 84.25
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 22.375 0.054 77.25
+        Position 24.109 0.142 82.5
        }
        ShapePoint "{6A46F13AB32EDEC7}" {
-        Position 22.094 0.009 76.25
+        Position 23.531 0.113 80.75
        }
        ShapePoint "{6A46F13AB32EDE89}" {
-        Position -17.437 -0.171 -61.25
+        Position 22.953 0.083 79
        }
        ShapePoint "{6A46F13AB32EDE30}" {
+        Position 22.375 0.054 77.25
+       }
+       ShapePoint "{6A46F13AB32EDE41}" {
+        Position 22.094 0.009 76.25
+       }
+       ShapePoint "{6A46F13AB32EDE52}" {
+        Position 21.388 0.006 73.795
+       }
+       ShapePoint "{6A46F13AB32EDE63}" {
+        Position 20.682 0.003 71.339
+       }
+       ShapePoint "{6A46F13AB32EDE74}" {
+        Position 19.976 -0.001 68.884
+       }
+       ShapePoint "{6A46F13AB32EDE85}" {
+        Position 19.27 -0.004 66.429
+       }
+       ShapePoint "{6A46F13AB32EDE96}" {
+        Position 18.564 -0.007 63.973
+       }
+       ShapePoint "{6A46F13AB32EDEA7}" {
+        Position 17.859 -0.01 61.518
+       }
+       ShapePoint "{6A46F13AB32EDEB8}" {
+        Position 17.153 -0.014 59.062
+       }
+       ShapePoint "{6A46F13AB32EDEC9}" {
+        Position 16.447 -0.017 56.607
+       }
+       ShapePoint "{6A46F13AB32EDEDA}" {
+        Position 15.741 -0.02 54.152
+       }
+       ShapePoint "{6A46F13AB32EDEEB}" {
+        Position 15.035 -0.023 51.696
+       }
+       ShapePoint "{6A46F13AB32EDEFC}" {
+        Position 14.329 -0.026 49.241
+       }
+       ShapePoint "{6A46F13AB32EDF0D}" {
+        Position 13.623 -0.03 46.786
+       }
+       ShapePoint "{6A46F13AB32EDF1E}" {
+        Position 12.917 -0.033 44.33
+       }
+       ShapePoint "{6A46F13AB32EDF2F}" {
+        Position 12.211 -0.036 41.875
+       }
+       ShapePoint "{6A46F13AB32EDF40}" {
+        Position 11.505 -0.039 39.42
+       }
+       ShapePoint "{6A46F13AB32EDF51}" {
+        Position 10.799 -0.042 36.964
+       }
+       ShapePoint "{6A46F13AB32EDF62}" {
+        Position 10.094 -0.046 34.509
+       }
+       ShapePoint "{6A46F13AB32EDF73}" {
+        Position 9.388 -0.049 32.054
+       }
+       ShapePoint "{6A46F13AB32EDF84}" {
+        Position 8.682 -0.052 29.598
+       }
+       ShapePoint "{6A46F13AB32EDF95}" {
+        Position 7.976 -0.055 27.143
+       }
+       ShapePoint "{6A46F13AB32EDFA6}" {
+        Position 7.27 -0.059 24.688
+       }
+       ShapePoint "{6A46F13AB32EDFB7}" {
+        Position 6.564 -0.062 22.232
+       }
+       ShapePoint "{6A46F13AB32EDFC8}" {
+        Position 5.858 -0.065 19.777
+       }
+       ShapePoint "{6A46F13AB32EDFD9}" {
+        Position 5.152 -0.068 17.321
+       }
+       ShapePoint "{6A46F13AB32EDFEA}" {
+        Position 4.446 -0.071 14.866
+       }
+       ShapePoint "{6A46F13AB32EDFFB}" {
+        Position 3.74 -0.075 12.411
+       }
+       ShapePoint "{6A46F13AB32EE00C}" {
+        Position 3.034 -0.078 9.955
+       }
+       ShapePoint "{6A46F13AB32EE01D}" {
+        Position 2.329 -0.081 7.5
+       }
+       ShapePoint "{6A46F13AB32EE02E}" {
+        Position 1.623 -0.084 5.045
+       }
+       ShapePoint "{6A46F13AB32EE03F}" {
+        Position 0.917 -0.087 2.589
+       }
+       ShapePoint "{6A46F13AB32EE050}" {
+        Position 0.211 -0.091 0.134
+       }
+       ShapePoint "{6A46F13AB32EE061}" {
+        Position -0.495 -0.094 -2.321
+       }
+       ShapePoint "{6A46F13AB32EE072}" {
+        Position -1.201 -0.097 -4.777
+       }
+       ShapePoint "{6A46F13AB32EE083}" {
+        Position -1.907 -0.1 -7.232
+       }
+       ShapePoint "{6A46F13AB32EE094}" {
+        Position -2.613 -0.103 -9.688
+       }
+       ShapePoint "{6A46F13AB32EE0A5}" {
+        Position -3.319 -0.107 -12.143
+       }
+       ShapePoint "{6A46F13AB32EE0B6}" {
+        Position -4.025 -0.11 -14.598
+       }
+       ShapePoint "{6A46F13AB32EE0C7}" {
+        Position -4.731 -0.113 -17.054
+       }
+       ShapePoint "{6A46F13AB32EE0D8}" {
+        Position -5.437 -0.116 -19.509
+       }
+       ShapePoint "{6A46F13AB32EE0E9}" {
+        Position -6.142 -0.12 -21.964
+       }
+       ShapePoint "{6A46F13AB32EE0FA}" {
+        Position -6.848 -0.123 -24.42
+       }
+       ShapePoint "{6A46F13AB32EE10B}" {
+        Position -7.554 -0.126 -26.875
+       }
+       ShapePoint "{6A46F13AB32EE11C}" {
+        Position -8.26 -0.129 -29.33
+       }
+       ShapePoint "{6A46F13AB32EE12D}" {
+        Position -8.966 -0.132 -31.786
+       }
+       ShapePoint "{6A46F13AB32EE13E}" {
+        Position -9.672 -0.136 -34.241
+       }
+       ShapePoint "{6A46F13AB32EE14F}" {
+        Position -10.378 -0.139 -36.696
+       }
+       ShapePoint "{6A46F13AB32EE160}" {
+        Position -11.084 -0.142 -39.152
+       }
+       ShapePoint "{6A46F13AB32EE171}" {
+        Position -11.79 -0.145 -41.607
+       }
+       ShapePoint "{6A46F13AB32EE182}" {
+        Position -12.496 -0.148 -44.062
+       }
+       ShapePoint "{6A46F13AB32EE193}" {
+        Position -13.202 -0.152 -46.518
+       }
+       ShapePoint "{6A46F13AB32EE1A4}" {
+        Position -13.907 -0.155 -48.973
+       }
+       ShapePoint "{6A46F13AB32EE1B5}" {
+        Position -14.613 -0.158 -51.429
+       }
+       ShapePoint "{6A46F13AB32EE1C6}" {
+        Position -15.319 -0.161 -53.884
+       }
+       ShapePoint "{6A46F13AB32EE1D7}" {
+        Position -16.025 -0.165 -56.339
+       }
+       ShapePoint "{6A46F13AB32EE1E8}" {
+        Position -16.731 -0.168 -58.795
+       }
+       ShapePoint "{6A46F13AB32EE1F9}" {
+        Position -17.437 -0.171 -61.25
+       }
+       ShapePoint "{6A46F13AB32EE20A}" {
+        Position -18.887 -0.152 -65.85
+       }
+       ShapePoint "{6A46F13AB32EE21B}" {
+        Position -20.337 -0.134 -70.45
+       }
+       ShapePoint "{6A46F13AB32EE22C}" {
+        Position -21.787 -0.115 -75.05
+       }
+       ShapePoint "{6A46F13AB32EE23D}" {
+        Position -23.237 -0.097 -79.65
+       }
+       ShapePoint "{6A46F13AB32EE24E}" {
         Position -24.687 -0.078 -84.25
        }
       }
@@ -3422,14 +4599,14 @@ $grp SplineShapeEntity {
  {
   coords 5590.609 40.141 4398
   Points {
-   ShapePoint "{6A46F13AB19E2268}" {
-    Position -42.359 0.149 -160.5
-   }
-   ShapePoint "{6A46F13AB19E967A}" {
-    Position -43.828 0.203 -156
-   }
-   ShapePoint "{6A46F13AB19F044E}" {
-    Position -45.453 0.183 -151
+   ShapePoint "{6A4761C87A0C2835}" {
+    Position -55.531 0.266 -193.52
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 2.229 9.782 17.899
+      OutTangent 2.229 9.782 17.899
+     }
+    }
    }
    ShapePoint "{6A46F13AB19F899F}" {
     Position 41.828 -0.203 155.5
@@ -3447,18 +4624,18 @@ $grp SplineShapeEntity {
       ID "556C655491CDCD64"
       SplinePoints {
        ShapePoint "{556C6554868CB1B0}" {
-        Position -42.359 0.149 -160.5
+        Position -55.531 0.266 -193.52
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 2.229 9.782 17.899
+          OutTangent 2.229 9.782 17.899
+         }
+        }
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position -43.828 0.203 -156
-       }
-       ShapePoint "{6A46F13AB320182B}" {
-        Position -45.453 0.183 -151
-       }
-       ShapePoint "{6A46F13AB32019D0}" {
         Position 41.828 -0.203 155.5
        }
-       ShapePoint "{6A46F13AB3201993}" {
+       ShapePoint "{6A46F13AB320182B}" {
         Position 45.453 -0.187 160.5
        }
       }
@@ -3476,9 +4653,57 @@ $grp SplineShapeEntity {
     Position -31.297 -1.218 -60.5
    }
    ShapePoint "{6A46F13AB1910A98}" {
-    Position 30.141 1.142 58
+    Position -27.683 -1.079 -53.529
    }
    ShapePoint "{6A46F13AB1927AD1}" {
+    Position -24.069 -0.94 -46.559
+   }
+   ShapePoint "{6A46F13AB1927AE2}" {
+    Position -20.455 -0.802 -39.588
+   }
+   ShapePoint "{6A46F13AB1927AF3}" {
+    Position -16.841 -0.663 -32.618
+   }
+   ShapePoint "{6A46F13AB1927B04}" {
+    Position -13.227 -0.524 -25.647
+   }
+   ShapePoint "{6A46F13AB1927B15}" {
+    Position -9.613 -0.385 -18.676
+   }
+   ShapePoint "{6A46F13AB1927B26}" {
+    Position -5.999 -0.246 -11.706
+   }
+   ShapePoint "{6A46F13AB1927B37}" {
+    Position -2.385 -0.107 -4.735
+   }
+   ShapePoint "{6A46F13AB1927B48}" {
+    Position 1.229 0.031 2.235
+   }
+   ShapePoint "{6A46F13AB1927B59}" {
+    Position 4.843 0.17 9.206
+   }
+   ShapePoint "{6A46F13AB1927B6A}" {
+    Position 8.457 0.309 16.176
+   }
+   ShapePoint "{6A46F13AB1927B7B}" {
+    Position 12.071 0.448 23.147
+   }
+   ShapePoint "{6A46F13AB1927B8C}" {
+    Position 15.685 0.587 30.118
+   }
+   ShapePoint "{6A46F13AB1927B9D}" {
+    Position 19.299 0.726 37.088
+   }
+   ShapePoint "{6A46F13AB1927BAE}" {
+    Position 22.913 0.864 44.059
+   }
+   ShapePoint "{6A46F13AB1927BBF}" {
+    Position 26.527 1.003 51.029
+   }
+   ShapePoint "{6A46F13AB1927BD0}" {
+    Position 30.141 1.142 58
+   }
+   ShapePoint "{6A46F13AB1927BE1}" {
     Position 31.297 1.218 60.5
    }
   }
@@ -3494,9 +4719,57 @@ $grp SplineShapeEntity {
         Position -31.297 -1.218 -60.5
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 30.141 1.142 58
+        Position -27.683 -1.079 -53.529
        }
        ShapePoint "{6A46F13AB320EDFE}" {
+        Position -24.069 -0.94 -46.559
+       }
+       ShapePoint "{6A46F13AB320EE0F}" {
+        Position -20.455 -0.802 -39.588
+       }
+       ShapePoint "{6A46F13AB320EE20}" {
+        Position -16.841 -0.663 -32.618
+       }
+       ShapePoint "{6A46F13AB320EE31}" {
+        Position -13.227 -0.524 -25.647
+       }
+       ShapePoint "{6A46F13AB320EE42}" {
+        Position -9.613 -0.385 -18.676
+       }
+       ShapePoint "{6A46F13AB320EE53}" {
+        Position -5.999 -0.246 -11.706
+       }
+       ShapePoint "{6A46F13AB320EE64}" {
+        Position -2.385 -0.107 -4.735
+       }
+       ShapePoint "{6A46F13AB320EE75}" {
+        Position 1.229 0.031 2.235
+       }
+       ShapePoint "{6A46F13AB320EE86}" {
+        Position 4.843 0.17 9.206
+       }
+       ShapePoint "{6A46F13AB320EE97}" {
+        Position 8.457 0.309 16.176
+       }
+       ShapePoint "{6A46F13AB320EEA8}" {
+        Position 12.071 0.448 23.147
+       }
+       ShapePoint "{6A46F13AB320EEB9}" {
+        Position 15.685 0.587 30.118
+       }
+       ShapePoint "{6A46F13AB320EECA}" {
+        Position 19.299 0.726 37.088
+       }
+       ShapePoint "{6A46F13AB320EEDB}" {
+        Position 22.913 0.864 44.059
+       }
+       ShapePoint "{6A46F13AB320EEEC}" {
+        Position 26.527 1.003 51.029
+       }
+       ShapePoint "{6A46F13AB320EEFD}" {
+        Position 30.141 1.142 58
+       }
+       ShapePoint "{6A46F13AB320EF0E}" {
         Position 31.297 1.218 60.5
        }
       }
@@ -3517,9 +4790,24 @@ $grp SplineShapeEntity {
     Position -25.281 -0.956 -70.75
    }
    ShapePoint "{6A46F13AB193AF98}" {
-    Position 36.656 0.727 98.75
+    Position -14.958 -0.676 -42.5
    }
    ShapePoint "{6A46F13AB1943336}" {
+    Position -4.635 -0.395 -14.25
+   }
+   ShapePoint "{6A46F13AB1943347}" {
+    Position 5.688 -0.114 14
+   }
+   ShapePoint "{6A46F13AB1943358}" {
+    Position 16.01 0.166 42.25
+   }
+   ShapePoint "{6A46F13AB1943369}" {
+    Position 26.333 0.446 70.5
+   }
+   ShapePoint "{6A46F13AB194337A}" {
+    Position 36.656 0.727 98.75
+   }
+   ShapePoint "{6A46F13AB194338B}" {
     Position 38.969 0.956 111.25
    }
   }
@@ -3538,9 +4826,24 @@ $grp SplineShapeEntity {
         Position -25.281 -0.956 -70.75
        }
        ShapePoint "{6A46F13AB3221BD6}" {
-        Position 36.656 0.727 98.75
+        Position -14.958 -0.676 -42.5
        }
        ShapePoint "{6A46F13AB3221B9D}" {
+        Position -4.635 -0.395 -14.25
+       }
+       ShapePoint "{6A46F13AB3221BAE}" {
+        Position 5.688 -0.114 14
+       }
+       ShapePoint "{6A46F13AB3221BBF}" {
+        Position 16.01 0.166 42.25
+       }
+       ShapePoint "{6A46F13AB3221BD0}" {
+        Position 26.333 0.446 70.5
+       }
+       ShapePoint "{6A46F13AB3221BE1}" {
+        Position 36.656 0.727 98.75
+       }
+       ShapePoint "{6A46F13AB3221BF2}" {
         Position 38.969 0.956 111.25
        }
       }
@@ -3644,24 +4947,39 @@ $grp SplineShapeEntity {
     Position 149.812 0.09 -65
    }
    ShapePoint "{6A46F13AB06B7BC7}" {
-    Position 87.344 -0.125 -21
+    Position 118.578 -0.017 -43
    }
    ShapePoint "{6A46F13AB06BEFB5}" {
-    Position 69.844 0.094 -13.5
+    Position 87.344 -0.125 -21
    }
    ShapePoint "{6A46F13AB06C6466}" {
-    Position -36.281 0.079 0
+    Position 69.844 0.094 -13.5
    }
    ShapePoint "{6A46F13AB06CDDE7}" {
-    Position -52.125 0.125 2
+    Position 34.469 0.089 -9
    }
    ShapePoint "{6A46F13AB06D5B53}" {
-    Position -69.188 0.125 12
+    Position -0.906 0.084 -4.5
    }
    ShapePoint "{6A46F13AB06DE406}" {
-    Position -82.75 0.027 21
+    Position -36.281 0.079 0
    }
    ShapePoint "{6A46F13AB06E5E30}" {
+    Position -52.125 0.125 2
+   }
+   ShapePoint "{6A46F13AB06E5E41}" {
+    Position -69.188 0.125 12
+   }
+   ShapePoint "{6A46F13AB06E5E52}" {
+    Position -82.75 0.027 21
+   }
+   ShapePoint "{6A46F13AB06E5E63}" {
+    Position -105.104 0.039 35.667
+   }
+   ShapePoint "{6A46F13AB06E5E74}" {
+    Position -127.458 0.05 50.333
+   }
+   ShapePoint "{6A46F13AB06E5E85}" {
     Position -149.812 0.062 65
    }
   }
@@ -3677,24 +4995,39 @@ $grp SplineShapeEntity {
         Position 149.812 0.09 -65
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 87.344 -0.125 -21
+        Position 118.578 -0.017 -43
        }
        ShapePoint "{6A46F13AB324199F}" {
-        Position 69.844 0.094 -13.5
+        Position 87.344 -0.125 -21
        }
        ShapePoint "{6A46F13AB3241943}" {
-        Position -36.281 0.079 0
+        Position 69.844 0.094 -13.5
        }
        ShapePoint "{6A46F13AB324190C}" {
-        Position -52.125 0.125 2
+        Position 34.469 0.089 -9
        }
        ShapePoint "{6A46F13AB32416CC}" {
-        Position -69.188 0.125 12
+        Position -0.906 0.084 -4.5
        }
        ShapePoint "{6A46F13AB324168E}" {
-        Position -82.75 0.027 21
+        Position -36.281 0.079 0
        }
        ShapePoint "{6A46F13AB3241640}" {
+        Position -52.125 0.125 2
+       }
+       ShapePoint "{6A46F13AB3241651}" {
+        Position -69.188 0.125 12
+       }
+       ShapePoint "{6A46F13AB3241662}" {
+        Position -82.75 0.027 21
+       }
+       ShapePoint "{6A46F13AB3241673}" {
+        Position -105.104 0.039 35.667
+       }
+       ShapePoint "{6A46F13AB3241684}" {
+        Position -127.458 0.05 50.333
+       }
+       ShapePoint "{6A46F13AB3241695}" {
         Position -149.812 0.062 65
        }
       }
@@ -3712,12 +5045,27 @@ $grp SplineShapeEntity {
     Position -115.703 -0.253 114.75
    }
    ShapePoint "{6A46F13AB06F36EA}" {
-    Position 10.453 -0.017 -20.25
+    Position -73.651 -0.174 69.75
    }
    ShapePoint "{6A46F13AB06FADA0}" {
-    Position 103.203 0.183 -105.25
+    Position -31.599 -0.096 24.75
    }
    ShapePoint "{6A46F13AB06032EC}" {
+    Position 10.453 -0.017 -20.25
+   }
+   ShapePoint "{6A46F13AB06032FD}" {
+    Position 33.64 0.033 -41.5
+   }
+   ShapePoint "{6A46F13AB060330E}" {
+    Position 56.828 0.083 -62.75
+   }
+   ShapePoint "{6A46F13AB060331F}" {
+    Position 80.015 0.133 -84
+   }
+   ShapePoint "{6A46F13AB0603330}" {
+    Position 103.203 0.183 -105.25
+   }
+   ShapePoint "{6A46F13AB0603341}" {
     Position 115.703 0.253 -114.75
    }
   }
@@ -3733,12 +5081,27 @@ $grp SplineShapeEntity {
         Position -115.703 -0.253 114.75
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 10.453 -0.017 -20.25
+        Position -73.651 -0.174 69.75
        }
        ShapePoint "{6A46F13AB324EBCA}" {
-        Position 103.203 0.183 -105.25
+        Position -31.599 -0.096 24.75
        }
        ShapePoint "{6A46F13AB324EB70}" {
+        Position 10.453 -0.017 -20.25
+       }
+       ShapePoint "{6A46F13AB324EB81}" {
+        Position 33.64 0.033 -41.5
+       }
+       ShapePoint "{6A46F13AB324EB92}" {
+        Position 56.828 0.083 -62.75
+       }
+       ShapePoint "{6A46F13AB324EBA3}" {
+        Position 80.015 0.133 -84
+       }
+       ShapePoint "{6A46F13AB324EBB4}" {
+        Position 103.203 0.183 -105.25
+       }
+       ShapePoint "{6A46F13AB324EBC5}" {
         Position 115.703 0.253 -114.75
        }
       }
@@ -3759,18 +5122,27 @@ $grp SplineShapeEntity {
     Position -43.047 0.305 89.25
    }
    ShapePoint "{6A46F13AB0618795}" {
-    Position 20.922 0.006 -19.75
+    Position -27.055 0.23 62
    }
    ShapePoint "{6A46F13AB0620CD2}" {
-    Position 27.453 -0.158 -30.75
+    Position -11.062 0.155 34.75
    }
    ShapePoint "{6A46F13AB0637B02}" {
-    Position 41.859 -0.305 -55.75
+    Position 4.93 0.081 7.5
    }
    ShapePoint "{6A46F13AB063E61C}" {
-    Position 56.016 -0.086 -86.75
+    Position 20.922 0.006 -19.75
    }
    ShapePoint "{6A46F13AB0646A3E}" {
+    Position 27.453 -0.158 -30.75
+   }
+   ShapePoint "{6A46F13AB0646A4F}" {
+    Position 41.859 -0.305 -55.75
+   }
+   ShapePoint "{6A46F13AB0646A60}" {
+    Position 56.016 -0.086 -86.75
+   }
+   ShapePoint "{6A46F13AB0646A71}" {
     Position 72.984 -0.094 -140.25
    }
   }
@@ -3789,18 +5161,27 @@ $grp SplineShapeEntity {
         Position -43.047 0.305 89.25
        }
        ShapePoint "{6A46F13AB326E09B}" {
-        Position 20.922 0.006 -19.75
+        Position -27.055 0.23 62
        }
        ShapePoint "{6A46F13AB326E02E}" {
-        Position 27.453 -0.158 -30.75
+        Position -11.062 0.155 34.75
        }
        ShapePoint "{6A46F13AB326E1CF}" {
-        Position 41.859 -0.305 -55.75
+        Position 4.93 0.081 7.5
        }
        ShapePoint "{6A46F13AB326E16E}" {
-        Position 56.016 -0.086 -86.75
+        Position 20.922 0.006 -19.75
        }
        ShapePoint "{6A46F13AB326E100}" {
+        Position 27.453 -0.158 -30.75
+       }
+       ShapePoint "{6A46F13AB326E111}" {
+        Position 41.859 -0.305 -55.75
+       }
+       ShapePoint "{6A46F13AB326E122}" {
+        Position 56.016 -0.086 -86.75
+       }
+       ShapePoint "{6A46F13AB326E133}" {
         Position 72.984 -0.094 -140.25
        }
       }
@@ -3892,15 +5273,36 @@ $grp SplineShapeEntity {
     Position -78.344 0.211 69.75
    }
    ShapePoint "{6A46F13AB07A2806}" {
-    Position -22.5 -0.211 19.75
+    Position -50.422 0 44.75
    }
    ShapePoint "{6A46F13AB07A8306}" {
-    Position 46.406 -0.138 -42.25
+    Position -22.5 -0.211 19.75
    }
    ShapePoint "{6A46F13AB07BF478}" {
-    Position 74.219 0.074 -67.25
+    Position -5.274 -0.193 4.25
    }
    ShapePoint "{6A46F13AB07C6B7B}" {
+    Position 11.953 -0.175 -11.25
+   }
+   ShapePoint "{6A46F13AB07C6B8C}" {
+    Position 29.18 -0.156 -26.75
+   }
+   ShapePoint "{6A46F13AB07C6B9D}" {
+    Position 46.406 -0.138 -42.25
+   }
+   ShapePoint "{6A46F13AB07C6BAE}" {
+    Position 53.359 -0.085 -48.5
+   }
+   ShapePoint "{6A46F13AB07C6BBF}" {
+    Position 60.312 -0.032 -54.75
+   }
+   ShapePoint "{6A46F13AB07C6BD0}" {
+    Position 67.266 0.021 -61
+   }
+   ShapePoint "{6A46F13AB07C6BE1}" {
+    Position 74.219 0.074 -67.25
+   }
+   ShapePoint "{6A46F13AB07C6BF2}" {
     Position 78.344 0.063 -69.75
    }
   }
@@ -3916,15 +5318,36 @@ $grp SplineShapeEntity {
         Position -78.344 0.211 69.75
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position -22.5 -0.211 19.75
+        Position -50.422 0 44.75
        }
        ShapePoint "{6A46F13AB338AF8C}" {
-        Position 46.406 -0.138 -42.25
+        Position -22.5 -0.211 19.75
        }
        ShapePoint "{6A46F13AB338AF33}" {
-        Position 74.219 0.074 -67.25
+        Position -5.274 -0.193 4.25
        }
        ShapePoint "{6A46F13AB338ACFF}" {
+        Position 11.953 -0.175 -11.25
+       }
+       ShapePoint "{6A46F13AB338AD10}" {
+        Position 29.18 -0.156 -26.75
+       }
+       ShapePoint "{6A46F13AB338AD21}" {
+        Position 46.406 -0.138 -42.25
+       }
+       ShapePoint "{6A46F13AB338AD32}" {
+        Position 53.359 -0.085 -48.5
+       }
+       ShapePoint "{6A46F13AB338AD43}" {
+        Position 60.312 -0.032 -54.75
+       }
+       ShapePoint "{6A46F13AB338AD54}" {
+        Position 67.266 0.021 -61
+       }
+       ShapePoint "{6A46F13AB338AD65}" {
+        Position 74.219 0.074 -67.25
+       }
+       ShapePoint "{6A46F13AB338AD76}" {
         Position 78.344 0.063 -69.75
        }
       }
@@ -4210,9 +5633,39 @@ $grp SplineShapeEntity {
     Position -3.25 -0.205 97.5
    }
    ShapePoint "{6A46F13AB04E5F5B}" {
-    Position 3.094 0.205 -91
+    Position -2.673 -0.168 80.364
    }
    ShapePoint "{6A46F13AB04F3505}" {
+    Position -2.097 -0.13 63.227
+   }
+   ShapePoint "{6A46F13AB04F3516}" {
+    Position -1.52 -0.093 46.091
+   }
+   ShapePoint "{6A46F13AB04F3527}" {
+    Position -0.943 -0.056 28.955
+   }
+   ShapePoint "{6A46F13AB04F3538}" {
+    Position -0.366 -0.019 11.818
+   }
+   ShapePoint "{6A46F13AB04F3549}" {
+    Position 0.21 0.019 -5.318
+   }
+   ShapePoint "{6A46F13AB04F355A}" {
+    Position 0.787 0.056 -22.455
+   }
+   ShapePoint "{6A46F13AB04F356B}" {
+    Position 1.364 0.093 -39.591
+   }
+   ShapePoint "{6A46F13AB04F357C}" {
+    Position 1.941 0.13 -56.727
+   }
+   ShapePoint "{6A46F13AB04F358D}" {
+    Position 2.517 0.168 -73.864
+   }
+   ShapePoint "{6A46F13AB04F359E}" {
+    Position 3.094 0.205 -91
+   }
+   ShapePoint "{6A46F13AB04F35AF}" {
     Position 3.25 0.172 -97.5
    }
   }
@@ -4228,9 +5681,39 @@ $grp SplineShapeEntity {
         Position -3.25 -0.205 97.5
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 3.094 0.205 -91
+        Position -2.673 -0.168 80.364
        }
        ShapePoint "{6A46F13AB33E0FAD}" {
+        Position -2.097 -0.13 63.227
+       }
+       ShapePoint "{6A46F13AB33E0FBE}" {
+        Position -1.52 -0.093 46.091
+       }
+       ShapePoint "{6A46F13AB33E0FCF}" {
+        Position -0.943 -0.056 28.955
+       }
+       ShapePoint "{6A46F13AB33E0FE0}" {
+        Position -0.366 -0.019 11.818
+       }
+       ShapePoint "{6A46F13AB33E0FF1}" {
+        Position 0.21 0.019 -5.318
+       }
+       ShapePoint "{6A46F13AB33E1002}" {
+        Position 0.787 0.056 -22.455
+       }
+       ShapePoint "{6A46F13AB33E1013}" {
+        Position 1.364 0.093 -39.591
+       }
+       ShapePoint "{6A46F13AB33E1024}" {
+        Position 1.941 0.13 -56.727
+       }
+       ShapePoint "{6A46F13AB33E1035}" {
+        Position 2.517 0.168 -73.864
+       }
+       ShapePoint "{6A46F13AB33E1046}" {
+        Position 3.094 0.205 -91
+       }
+       ShapePoint "{6A46F13AB33E1057}" {
         Position 3.25 0.172 -97.5
        }
       }
@@ -4254,24 +5737,66 @@ $grp SplineShapeEntity {
     Position -3.563 -0.27 90.5
    }
    ShapePoint "{6A46F13AB0418DFA}" {
-    Position 0.5 -0.119 -12
+    Position -2.547 -0.232 64.875
    }
    ShapePoint "{6A46F13AB042E91C}" {
-    Position 0.969 0.015 -24.5
+    Position -1.532 -0.194 39.25
    }
    ShapePoint "{6A46F13AB0435140}" {
-    Position 3.969 0.35 -99.5
+    Position -0.516 -0.157 13.625
    }
    ShapePoint "{6A46F13AB043BDBA}" {
-    Position 4.125 0.323 -105
+    Position 0.5 -0.119 -12
    }
    ShapePoint "{6A46F13AB0441688}" {
-    Position 4.375 0.292 -110
+    Position 0.969 0.015 -24.5
    }
    ShapePoint "{6A46F13AB044941D}" {
-    Position 6.5 0.23 -167
+    Position 1.469 0.071 -37
    }
    ShapePoint "{6A46F13AB0452488}" {
+    Position 1.969 0.127 -49.5
+   }
+   ShapePoint "{6A46F13AB0452499}" {
+    Position 2.469 0.182 -62
+   }
+   ShapePoint "{6A46F13AB04524AA}" {
+    Position 2.969 0.238 -74.5
+   }
+   ShapePoint "{6A46F13AB04524BB}" {
+    Position 3.469 0.294 -87
+   }
+   ShapePoint "{6A46F13AB04524CC}" {
+    Position 3.969 0.35 -99.5
+   }
+   ShapePoint "{6A46F13AB04524DD}" {
+    Position 4.125 0.323 -105
+   }
+   ShapePoint "{6A46F13AB04524EE}" {
+    Position 4.375 0.292 -110
+   }
+   ShapePoint "{6A46F13AB04524FF}" {
+    Position 4.8 0.28 -121.4
+   }
+   ShapePoint "{6A46F13AB0452510}" {
+    Position 5.225 0.267 -132.8
+   }
+   ShapePoint "{6A46F13AB0452521}" {
+    Position 5.65 0.255 -144.2
+   }
+   ShapePoint "{6A46F13AB0452532}" {
+    Position 6.075 0.242 -155.6
+   }
+   ShapePoint "{6A46F13AB0452543}" {
+    Position 6.5 0.23 -167
+   }
+   ShapePoint "{6A46F13AB0452554}" {
+    Position 7.167 0.2 -184.833
+   }
+   ShapePoint "{6A46F13AB0452565}" {
+    Position 7.833 0.17 -202.667
+   }
+   ShapePoint "{6A46F13AB0452576}" {
     Position 8.5 0.14 -220.5
    }
   }
@@ -4293,24 +5818,66 @@ $grp SplineShapeEntity {
         Position -3.563 -0.27 90.5
        }
        ShapePoint "{6A46F13AB33EEC71}" {
-        Position 0.5 -0.119 -12
+        Position -2.547 -0.232 64.875
        }
        ShapePoint "{6A46F13AB33EEC2E}" {
-        Position 0.969 0.015 -24.5
+        Position -1.532 -0.194 39.25
        }
        ShapePoint "{6A46F13AB33EED1D}" {
-        Position 3.969 0.35 -99.5
+        Position -0.516 -0.157 13.625
        }
        ShapePoint "{6A46F13AB33EEADC}" {
-        Position 4.125 0.323 -105
+        Position 0.5 -0.119 -12
        }
        ShapePoint "{6A46F13AB33EEA9F}" {
-        Position 4.375 0.292 -110
+        Position 0.969 0.015 -24.5
        }
        ShapePoint "{6A46F13AB33EEA52}" {
-        Position 6.5 0.23 -167
+        Position 1.469 0.071 -37
        }
        ShapePoint "{6A46F13AB33EEA13}" {
+        Position 1.969 0.127 -49.5
+       }
+       ShapePoint "{6A46F13AB33EEA24}" {
+        Position 2.469 0.182 -62
+       }
+       ShapePoint "{6A46F13AB33EEA35}" {
+        Position 2.969 0.238 -74.5
+       }
+       ShapePoint "{6A46F13AB33EEA46}" {
+        Position 3.469 0.294 -87
+       }
+       ShapePoint "{6A46F13AB33EEA57}" {
+        Position 3.969 0.35 -99.5
+       }
+       ShapePoint "{6A46F13AB33EEA68}" {
+        Position 4.125 0.323 -105
+       }
+       ShapePoint "{6A46F13AB33EEA79}" {
+        Position 4.375 0.292 -110
+       }
+       ShapePoint "{6A46F13AB33EEA8A}" {
+        Position 4.8 0.28 -121.4
+       }
+       ShapePoint "{6A46F13AB33EEA9B}" {
+        Position 5.225 0.267 -132.8
+       }
+       ShapePoint "{6A46F13AB33EEAAC}" {
+        Position 5.65 0.255 -144.2
+       }
+       ShapePoint "{6A46F13AB33EEABD}" {
+        Position 6.075 0.242 -155.6
+       }
+       ShapePoint "{6A46F13AB33EEACE}" {
+        Position 6.5 0.23 -167
+       }
+       ShapePoint "{6A46F13AB33EEADF}" {
+        Position 7.167 0.2 -184.833
+       }
+       ShapePoint "{6A46F13AB33EEAF0}" {
+        Position 7.833 0.17 -202.667
+       }
+       ShapePoint "{6A46F13AB33EEB01}" {
         Position 8.5 0.14 -220.5
        }
       }
@@ -4384,15 +5951,60 @@ $grp SplineShapeEntity {
     Position -115.312 -0.129 -4.5
    }
    ShapePoint "{6A46F13AB059F7AF}" {
-    Position -31.906 -0.192 -1.5
+    Position -94.461 -0.145 -3.75
    }
    ShapePoint "{6A46F13AB0598692}" {
-    Position 58.344 -0.054 2
+    Position -73.609 -0.16 -3
    }
    ShapePoint "{6A46F13AB05A0F51}" {
-    Position 110.719 0.192 3.5
+    Position -52.757 -0.176 -2.25
    }
    ShapePoint "{6A46F13AB05A9BEF}" {
+    Position -31.906 -0.192 -1.5
+   }
+   ShapePoint "{6A46F13AB05A9C00}" {
+    Position -19.013 -0.172 -1
+   }
+   ShapePoint "{6A46F13AB05A9C11}" {
+    Position -6.12 -0.153 -0.5
+   }
+   ShapePoint "{6A46F13AB05A9C22}" {
+    Position 6.773 -0.133 0
+   }
+   ShapePoint "{6A46F13AB05A9C33}" {
+    Position 19.665 -0.113 0.5
+   }
+   ShapePoint "{6A46F13AB05A9C44}" {
+    Position 32.558 -0.093 1
+   }
+   ShapePoint "{6A46F13AB05A9C55}" {
+    Position 45.451 -0.074 1.5
+   }
+   ShapePoint "{6A46F13AB05A9C66}" {
+    Position 58.344 -0.054 2
+   }
+   ShapePoint "{6A46F13AB05A9C77}" {
+    Position 65.826 -0.019 2.214
+   }
+   ShapePoint "{6A46F13AB05A9C88}" {
+    Position 73.308 0.016 2.429
+   }
+   ShapePoint "{6A46F13AB05A9C99}" {
+    Position 80.79 0.051 2.643
+   }
+   ShapePoint "{6A46F13AB05A9CAA}" {
+    Position 88.273 0.087 2.857
+   }
+   ShapePoint "{6A46F13AB05A9CBB}" {
+    Position 95.755 0.122 3.071
+   }
+   ShapePoint "{6A46F13AB05A9CCC}" {
+    Position 103.237 0.157 3.286
+   }
+   ShapePoint "{6A46F13AB05A9CDD}" {
+    Position 110.719 0.192 3.5
+   }
+   ShapePoint "{6A46F13AB05A9CEE}" {
     Position 115.312 0.177 4.5
    }
   }
@@ -4408,15 +6020,60 @@ $grp SplineShapeEntity {
         Position -115.312 -0.129 -4.5
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position -31.906 -0.192 -1.5
+        Position -94.461 -0.145 -3.75
        }
        ShapePoint "{6A46F13AB330EDD3}" {
-        Position 58.344 -0.054 2
+        Position -73.609 -0.16 -3
        }
        ShapePoint "{6A46F13AB330ED87}" {
-        Position 110.719 0.192 3.5
+        Position -52.757 -0.176 -2.25
        }
        ShapePoint "{6A46F13AB330ED42}" {
+        Position -31.906 -0.192 -1.5
+       }
+       ShapePoint "{6A46F13AB330ED53}" {
+        Position -19.013 -0.172 -1
+       }
+       ShapePoint "{6A46F13AB330ED64}" {
+        Position -6.12 -0.153 -0.5
+       }
+       ShapePoint "{6A46F13AB330ED75}" {
+        Position 6.773 -0.133 0
+       }
+       ShapePoint "{6A46F13AB330ED86}" {
+        Position 19.665 -0.113 0.5
+       }
+       ShapePoint "{6A46F13AB330ED97}" {
+        Position 32.558 -0.093 1
+       }
+       ShapePoint "{6A46F13AB330EDA8}" {
+        Position 45.451 -0.074 1.5
+       }
+       ShapePoint "{6A46F13AB330EDB9}" {
+        Position 58.344 -0.054 2
+       }
+       ShapePoint "{6A46F13AB330EDCA}" {
+        Position 65.826 -0.019 2.214
+       }
+       ShapePoint "{6A46F13AB330EDDB}" {
+        Position 73.308 0.016 2.429
+       }
+       ShapePoint "{6A46F13AB330EDEC}" {
+        Position 80.79 0.051 2.643
+       }
+       ShapePoint "{6A46F13AB330EDFD}" {
+        Position 88.273 0.087 2.857
+       }
+       ShapePoint "{6A46F13AB330EE0E}" {
+        Position 95.755 0.122 3.071
+       }
+       ShapePoint "{6A46F13AB330EE1F}" {
+        Position 103.237 0.157 3.286
+       }
+       ShapePoint "{6A46F13AB330EE30}" {
+        Position 110.719 0.192 3.5
+       }
+       ShapePoint "{6A46F13AB330EE41}" {
         Position 115.312 0.177 4.5
        }
       }
@@ -4434,9 +6091,24 @@ $grp SplineShapeEntity {
     Position -1.156 -0.29 55.5
    }
    ShapePoint "{6A46F13AB05CB384}" {
-    Position 1.031 0.273 -49
+    Position -0.791 -0.196 38.083
    }
    ShapePoint "{6A46F13AB05D200E}" {
+    Position -0.427 -0.102 20.667
+   }
+   ShapePoint "{6A46F13AB05D201F}" {
+    Position -0.062 -0.008 3.25
+   }
+   ShapePoint "{6A46F13AB05D2030}" {
+    Position 0.302 0.085 -14.167
+   }
+   ShapePoint "{6A46F13AB05D2041}" {
+    Position 0.666 0.179 -31.583
+   }
+   ShapePoint "{6A46F13AB05D2052}" {
+    Position 1.031 0.273 -49
+   }
+   ShapePoint "{6A46F13AB05D2063}" {
     Position 1.156 0.29 -55.5
    }
   }
@@ -4452,9 +6124,24 @@ $grp SplineShapeEntity {
         Position -1.156 -0.29 55.5
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 1.031 0.273 -49
+        Position -0.791 -0.196 38.083
        }
        ShapePoint "{6A46F13AB3321B1F}" {
+        Position -0.427 -0.102 20.667
+       }
+       ShapePoint "{6A46F13AB3321B30}" {
+        Position -0.062 -0.008 3.25
+       }
+       ShapePoint "{6A46F13AB3321B41}" {
+        Position 0.302 0.085 -14.167
+       }
+       ShapePoint "{6A46F13AB3321B52}" {
+        Position 0.666 0.179 -31.583
+       }
+       ShapePoint "{6A46F13AB3321B63}" {
+        Position 1.031 0.273 -49
+       }
+       ShapePoint "{6A46F13AB3321B74}" {
         Position 1.156 0.29 -55.5
        }
       }
@@ -4472,9 +6159,21 @@ $grp SplineShapeEntity {
     Position -1.094 -0.249 26.75
    }
    ShapePoint "{6A46F13AB05EE989}" {
-    Position 0.937 0.172 -22.25
+    Position -0.688 -0.165 16.95
    }
    ShapePoint "{6A46F13AB05F3A27}" {
+    Position -0.282 -0.081 7.15
+   }
+   ShapePoint "{6A46F13AB05F3A38}" {
+    Position 0.125 0.004 -2.65
+   }
+   ShapePoint "{6A46F13AB05F3A49}" {
+    Position 0.531 0.088 -12.45
+   }
+   ShapePoint "{6A46F13AB05F3A5A}" {
+    Position 0.937 0.172 -22.25
+   }
+   ShapePoint "{6A46F13AB05F3A6B}" {
     Position 1.094 0.249 -26.75
    }
   }
@@ -4490,9 +6189,21 @@ $grp SplineShapeEntity {
         Position -1.094 -0.249 26.75
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 0.937 0.172 -22.25
+        Position -0.688 -0.165 16.95
        }
        ShapePoint "{6A46F13AB332F888}" {
+        Position -0.282 -0.081 7.15
+       }
+       ShapePoint "{6A46F13AB332F899}" {
+        Position 0.125 0.004 -2.65
+       }
+       ShapePoint "{6A46F13AB332F8AA}" {
+        Position 0.531 0.088 -12.45
+       }
+       ShapePoint "{6A46F13AB332F8BB}" {
+        Position 0.937 0.172 -22.25
+       }
+       ShapePoint "{6A46F13AB332F8CC}" {
         Position 1.094 0.249 -26.75
        }
       }
@@ -4603,59 +6314,6 @@ $grp SplineShapeEntity {
    }
   }
   LineColor 0.93 0.13 0.33 1
-  {
-   RoadGeneratorEntity : "{02AF8C5A31EC3A53}PrefabLibrary/DefaultLibrary/Generators/Roads/Asphalt/RG_Road_Asphalt_E_01.et" {
-    coords 0 0 0
-    {
-     RoadEntity {
-      ID "556C655491CDCD64"
-      SplinePoints {
-       ShapePoint "{556C6554868CB1B0}" {
-        Position -95.875 0 -125.5
-       }
-       ShapePoint "{556C6554868CB0CE}" {
-        Position -94.656 0 -121
-       }
-       ShapePoint "{6A46F13AB334066D}" {
-        Position -57.594 0 -64.5
-       }
-       ShapePoint "{6A46F13AB3340611}" {
-        Position -37.875 0 -36.5
-       }
-       ShapePoint "{6A46F13AB33407D5}" {
-        Position -29.281 0 -30.5
-       }
-       ShapePoint "{6A46F13AB33407A9}" {
-        Position -20.375 0 -25.5
-       }
-       ShapePoint "{6A46F13AB334076E}" {
-        Position -2.094 0 -15.5
-       }
-       ShapePoint "{6A46F13AB3340723}" {
-        Position 7 0 -7
-       }
-       ShapePoint "{6A46F13AB33404E6}" {
-        Position 39.094 0 37
-       }
-       ShapePoint "{6A46F13AB33404A7}" {
-        Position 62.156 0 69.5
-       }
-       ShapePoint "{6A46F13AB3340467}" {
-        Position 72.219 0 85
-       }
-       ShapePoint "{6A46F13AB3340439}" {
-        Position 82.469 0 102.5
-       }
-       ShapePoint "{6A46F13AB33405E0}" {
-        Position 95.875 0 125.5
-       }
-      }
-      IsClosedSpline 0
-      Width 12
-     }
-    }
-   }
-  }
  }
  {
   coords 1216.359 20.224 10045.5
@@ -4674,32 +6332,6 @@ $grp SplineShapeEntity {
    }
   }
   LineColor 0.93 0.13 0.33 1
-  {
-   RoadGeneratorEntity : "{02AF8C5A31EC3A53}PrefabLibrary/DefaultLibrary/Generators/Roads/Asphalt/RG_Road_Asphalt_E_01.et" {
-    coords 0 0 0
-    {
-     RoadEntity {
-      ID "556C655491CDCD64"
-      SplinePoints {
-       ShapePoint "{556C6554868CB1B0}" {
-        Position -112.609 -20.224 72.5
-       }
-       ShapePoint "{556C6554868CB0CE}" {
-        Position 12.984 -20.224 -10
-       }
-       ShapePoint "{6A46F13AB33617AC}" {
-        Position 66.297 -20.224 -43.5
-       }
-       ShapePoint "{6A46F13AB3361751}" {
-        Position 112.609 20.224 -72.5
-       }
-      }
-      IsClosedSpline 0
-      Width 12
-     }
-    }
-   }
-  }
  }
  {
   coords 1284.719 0 10112.75
@@ -4715,29 +6347,6 @@ $grp SplineShapeEntity {
    }
   }
   LineColor 0.93 0.13 0.33 1
-  {
-   RoadGeneratorEntity : "{02AF8C5A31EC3A53}PrefabLibrary/DefaultLibrary/Generators/Roads/Asphalt/RG_Road_Asphalt_E_01.et" {
-    coords 0 0 0
-    {
-     RoadEntity {
-      ID "556C655491CDCD64"
-      SplinePoints {
-       ShapePoint "{556C6554868CB1B0}" {
-        Position -112.594 0 72.75
-       }
-       ShapePoint "{556C6554868CB0CE}" {
-        Position -58.313 0 37.25
-       }
-       ShapePoint "{6A46F13AB3360FD5}" {
-        Position 112.594 0 -72.75
-       }
-      }
-      IsClosedSpline 0
-      Width 12
-     }
-    }
-   }
-  }
  }
  {
   coords 1177.734 20.064 9965.25
@@ -4750,9 +6359,6 @@ $grp SplineShapeEntity {
    }
    ShapePoint "{6A46F13AB02E5F97}" {
     Position 25.078 20.064 24.25
-   }
-   ShapePoint "{6A46F13AB02EC3B2}" {
-    Position 51.609 -20.064 70.25
    }
   }
   LineColor 0.93 0.13 0.33 1
@@ -4771,9 +6377,6 @@ $grp SplineShapeEntity {
        }
        ShapePoint "{6A46F13AB33683D8}" {
         Position 25.078 20.064 24.25
-       }
-       ShapePoint "{6A46F13AB336838C}" {
-        Position 51.609 -20.064 70.25
        }
       }
       IsClosedSpline 0
@@ -4798,9 +6401,6 @@ $grp SplineShapeEntity {
    ShapePoint "{6A46F13AB020BFF7}" {
     Position -47.313 16.925 50.75
    }
-   ShapePoint "{6A46F13AB0213DE6}" {
-    Position -77.094 -19.117 105.25
-   }
   }
   LineColor 0.93 0.13 0.33 1
   {
@@ -4821,9 +6421,6 @@ $grp SplineShapeEntity {
        }
        ShapePoint "{6A46F13AB337794A}" {
         Position -47.313 16.925 50.75
-       }
-       ShapePoint "{6A46F13AB337790D}" {
-        Position -77.094 -19.117 105.25
        }
       }
       IsClosedSpline 0
@@ -4916,15 +6513,33 @@ $grp SplineShapeEntity {
     Position 270.375 0.774 -136.5
    }
    ShapePoint "{6A46F13AB025A4FA}" {
-    Position 113.969 0.132 -64
+    Position 218.24 0.56 -112.333
    }
    ShapePoint "{6A46F13AB026160E}" {
-    Position 83.625 0.461 -47.5
+    Position 166.104 0.346 -88.167
    }
    ShapePoint "{6A46F13AB0269EF7}" {
-    Position -246.156 0.588 119
+    Position 113.969 0.132 -64
    }
    ShapePoint "{6A46F13AB0271E6F}" {
+    Position 83.625 0.461 -47.5
+   }
+   ShapePoint "{6A46F13AB0271E80}" {
+    Position 17.669 0.486 -14.2
+   }
+   ShapePoint "{6A46F13AB0271E91}" {
+    Position -48.287 0.512 19.1
+   }
+   ShapePoint "{6A46F13AB0271EA2}" {
+    Position -114.244 0.537 52.4
+   }
+   ShapePoint "{6A46F13AB0271EB3}" {
+    Position -180.2 0.563 85.7
+   }
+   ShapePoint "{6A46F13AB0271EC4}" {
+    Position -246.156 0.588 119
+   }
+   ShapePoint "{6A46F13AB0271ED5}" {
     Position -270.375 -0.774 136.5
    }
   }
@@ -4940,15 +6555,33 @@ $grp SplineShapeEntity {
         Position 270.375 0.774 -136.5
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 113.969 0.132 -64
+        Position 218.24 0.56 -112.333
        }
        ShapePoint "{6A46F13AB3379CE2}" {
-        Position 83.625 0.461 -47.5
+        Position 166.104 0.346 -88.167
        }
        ShapePoint "{6A46F13AB3379CAA}" {
-        Position -246.156 0.588 119
+        Position 113.969 0.132 -64
        }
        ShapePoint "{6A46F13AB3379C53}" {
+        Position 83.625 0.461 -47.5
+       }
+       ShapePoint "{6A46F13AB3379C64}" {
+        Position 17.669 0.486 -14.2
+       }
+       ShapePoint "{6A46F13AB3379C75}" {
+        Position -48.287 0.512 19.1
+       }
+       ShapePoint "{6A46F13AB3379C86}" {
+        Position -114.244 0.537 52.4
+       }
+       ShapePoint "{6A46F13AB3379C97}" {
+        Position -180.2 0.563 85.7
+       }
+       ShapePoint "{6A46F13AB3379CA8}" {
+        Position -246.156 0.588 119
+       }
+       ShapePoint "{6A46F13AB3379CB9}" {
         Position -270.375 -0.774 136.5
        }
       }
@@ -5293,78 +6926,105 @@ $grp SplineShapeEntity {
     Position -162.172 0.199 107.75
    }
    ShapePoint "{6A46F13AB00B0994}" {
-    Position -169.234 0.547 6.25
+    Position -164.526 0.315 73.917
    }
    ShapePoint "{6A46F13AB00B9982}" {
-    Position -172.172 0.57 -15.25
+    Position -166.88 0.431 40.083
    }
    ShapePoint "{6A46F13AB00C29DA}" {
-    Position -181.734 -0.061 -68.25
+    Position -169.234 0.547 6.25
    }
    ShapePoint "{6A46F13AB00CA595}" {
-    Position -183.516 -0.123 -76.25
+    Position -172.172 0.57 -15.25
    }
    ShapePoint "{6A46F13AB00D044B}" {
-    Position -187.859 -0.304 -96.75
+    Position -175.359 0.36 -32.917
    }
    ShapePoint "{6A46F13AB00D8534}" {
-    Position -198.797 -0.474 -143.25
+    Position -178.547 0.149 -50.583
    }
    ShapePoint "{6A46F13AB00EFC96}" {
-    Position -201.484 -0.49 -155.25
+    Position -181.734 -0.061 -68.25
    }
    ShapePoint "{6A46F13AB00E898E}" {
-    Position -201.609 -0.53 -164.75
+    Position -183.516 -0.123 -76.25
    }
    ShapePoint "{6A46F13AB00F165D}" {
-    Position -201.078 -0.53 -175.75
+    Position -187.859 -0.304 -96.75
    }
    ShapePoint "{6A46F13AB00F86F7}" {
-    Position -198.047 -0.53 -188.75
+    Position -193.328 -0.389 -120
    }
    ShapePoint "{6A46F13AB00010C4}" {
-    Position -191.422 -0.57 -201.75
+    Position -198.797 -0.474 -143.25
    }
    ShapePoint "{6A46F13AB0009FA2}" {
-    Position -181.234 -0.534 -215.75
+    Position -201.484 -0.49 -155.25
    }
    ShapePoint "{6A46F13AB0011BED}" {
-    Position -168.984 -0.449 -228.25
+    Position -201.609 -0.53 -164.75
    }
    ShapePoint "{6A46F13AB00195B4}" {
-    Position -153.609 -0.397 -241.75
+    Position -201.078 -0.53 -175.75
    }
    ShapePoint "{6A46F13AB002FE63}" {
-    Position -136.141 -0.311 -252.75
+    Position -198.047 -0.53 -188.75
    }
    ShapePoint "{6A46F13AB0036D04}" {
-    Position -120.172 -0.186 -260.75
+    Position -191.422 -0.57 -201.75
    }
    ShapePoint "{6A46F13AB003F1CB}" {
-    Position -98.359 -0.155 -266.25
+    Position -181.234 -0.534 -215.75
    }
    ShapePoint "{6A46F13AB004F16F}" {
-    Position -76.797 -0.318 -268.75
+    Position -168.984 -0.449 -228.25
    }
    ShapePoint "{6A46F13AB005641D}" {
-    Position -63.703 -0.373 -268.75
+    Position -153.609 -0.397 -241.75
    }
    ShapePoint "{6A46F13AB005E8E1}" {
-    Position -48.547 -0.373 -266.25
+    Position -136.141 -0.311 -252.75
    }
    ShapePoint "{6A46F13AB0065AB9}" {
-    Position -14.172 -0.155 -258.25
+    Position -120.172 -0.186 -260.75
    }
    ShapePoint "{6A46F13AB006E70D}" {
-    Position 3.078 -0.067 -254.25
+    Position -98.359 -0.155 -266.25
    }
    ShapePoint "{6A46F13AB0074920}" {
-    Position 77.297 -0.336 -235.75
+    Position -76.797 -0.318 -268.75
    }
    ShapePoint "{6A46F13AB007BA3B}" {
-    Position 190.297 -0.211 -168.75
+    Position -63.703 -0.373 -268.75
    }
    ShapePoint "{6A46F13AB018451F}" {
+    Position -48.547 -0.373 -266.25
+   }
+   ShapePoint "{6A46F13AB0184530}" {
+    Position -14.172 -0.155 -258.25
+   }
+   ShapePoint "{6A46F13AB0184541}" {
+    Position 3.078 -0.067 -254.25
+   }
+   ShapePoint "{6A46F13AB0184552}" {
+    Position 40.188 -0.201 -245
+   }
+   ShapePoint "{6A46F13AB0184563}" {
+    Position 77.297 -0.336 -235.75
+   }
+   ShapePoint "{6A46F13AB0184574}" {
+    Position 105.547 -0.305 -219
+   }
+   ShapePoint "{6A46F13AB0184585}" {
+    Position 133.797 -0.273 -202.25
+   }
+   ShapePoint "{6A46F13AB0184596}" {
+    Position 162.047 -0.242 -185.5
+   }
+   ShapePoint "{6A46F13AB01845A7}" {
+    Position 190.297 -0.211 -168.75
+   }
+   ShapePoint "{6A46F13AB01845B8}" {
     Position 201.609 -0.123 -161.75
    }
   }
@@ -5389,78 +7049,105 @@ $grp SplineShapeEntity {
         Position -162.172 0.199 107.75
        }
        ShapePoint "{6A46F13AB30C0BFB}" {
-        Position -169.234 0.547 6.25
+        Position -164.526 0.315 73.917
        }
        ShapePoint "{6A46F13AB30C0BB8}" {
-        Position -172.172 0.57 -15.25
+        Position -166.88 0.431 40.083
        }
        ShapePoint "{6A46F13AB30C0B7B}" {
-        Position -181.734 -0.061 -68.25
+        Position -169.234 0.547 6.25
        }
        ShapePoint "{6A46F13AB30C0B3D}" {
-        Position -183.516 -0.123 -76.25
+        Position -172.172 0.57 -15.25
        }
        ShapePoint "{6A46F13AB30C08FE}" {
-        Position -187.859 -0.304 -96.75
+        Position -175.359 0.36 -32.917
        }
        ShapePoint "{6A46F13AB30C08B2}" {
-        Position -198.797 -0.474 -143.25
+        Position -178.547 0.149 -50.583
        }
        ShapePoint "{6A46F13AB30C0889}" {
-        Position -201.484 -0.49 -155.25
+        Position -181.734 -0.061 -68.25
        }
        ShapePoint "{6A46F13AB30C084A}" {
-        Position -201.609 -0.53 -164.75
+        Position -183.516 -0.123 -76.25
        }
        ShapePoint "{6A46F13AB30C080F}" {
-        Position -201.078 -0.53 -175.75
+        Position -187.859 -0.304 -96.75
        }
        ShapePoint "{6A46F13AB30C09CF}" {
-        Position -198.047 -0.53 -188.75
+        Position -193.328 -0.389 -120
        }
        ShapePoint "{6A46F13AB30C098D}" {
-        Position -191.422 -0.57 -201.75
+        Position -198.797 -0.474 -143.25
        }
        ShapePoint "{6A46F13AB30C094A}" {
-        Position -181.234 -0.534 -215.75
+        Position -201.484 -0.49 -155.25
        }
        ShapePoint "{6A46F13AB30C090E}" {
-        Position -168.984 -0.449 -228.25
+        Position -201.609 -0.53 -164.75
        }
        ShapePoint "{6A46F13AB30C06CC}" {
-        Position -153.609 -0.397 -241.75
+        Position -201.078 -0.53 -175.75
        }
        ShapePoint "{6A46F13AB30C068F}" {
-        Position -136.141 -0.311 -252.75
+        Position -198.047 -0.53 -188.75
        }
        ShapePoint "{6A46F13AB30C0648}" {
-        Position -120.172 -0.186 -260.75
+        Position -191.422 -0.57 -201.75
        }
        ShapePoint "{6A46F13AB30C0608}" {
-        Position -98.359 -0.155 -266.25
+        Position -181.234 -0.534 -215.75
        }
        ShapePoint "{6A46F13AB30C07CB}" {
-        Position -76.797 -0.318 -268.75
+        Position -168.984 -0.449 -228.25
        }
        ShapePoint "{6A46F13AB30C078C}" {
-        Position -63.703 -0.373 -268.75
+        Position -153.609 -0.397 -241.75
        }
        ShapePoint "{6A46F13AB30C0741}" {
-        Position -48.547 -0.373 -266.25
+        Position -136.141 -0.311 -252.75
        }
        ShapePoint "{6A46F13AB30C0705}" {
-        Position -14.172 -0.155 -258.25
+        Position -120.172 -0.186 -260.75
        }
        ShapePoint "{6A46F13AB30C04D9}" {
-        Position 3.078 -0.067 -254.25
+        Position -98.359 -0.155 -266.25
        }
        ShapePoint "{6A46F13AB30C049D}" {
-        Position 77.297 -0.336 -235.75
+        Position -76.797 -0.318 -268.75
        }
        ShapePoint "{6A46F13AB30C0451}" {
-        Position 190.297 -0.211 -168.75
+        Position -63.703 -0.373 -268.75
        }
        ShapePoint "{6A46F13AB30C041E}" {
+        Position -48.547 -0.373 -266.25
+       }
+       ShapePoint "{6A46F13AB30C042F}" {
+        Position -14.172 -0.155 -258.25
+       }
+       ShapePoint "{6A46F13AB30C0440}" {
+        Position 3.078 -0.067 -254.25
+       }
+       ShapePoint "{6A46F13AB30C0462}" {
+        Position 40.188 -0.201 -245
+       }
+       ShapePoint "{6A46F13AB30C0473}" {
+        Position 77.297 -0.336 -235.75
+       }
+       ShapePoint "{6A46F13AB30C0484}" {
+        Position 105.547 -0.305 -219
+       }
+       ShapePoint "{6A46F13AB30C0495}" {
+        Position 133.797 -0.273 -202.25
+       }
+       ShapePoint "{6A46F13AB30C04A6}" {
+        Position 162.047 -0.242 -185.5
+       }
+       ShapePoint "{6A46F13AB30C04B7}" {
+        Position 190.297 -0.211 -168.75
+       }
+       ShapePoint "{6A46F13AB30C04C8}" {
         Position 201.609 -0.123 -161.75
        }
       }
@@ -5505,69 +7192,84 @@ $grp SplineShapeEntity {
     Position 167.656 0.59 37.25
    }
    ShapePoint "{6A46F13AB01D84EC}" {
-    Position 130.75 0.09 39.75
+    Position 149.203 0.34 38.5
    }
    ShapePoint "{6A46F13AB01EE637}" {
-    Position 104 -0.133 41.75
+    Position 130.75 0.09 39.75
    }
    ShapePoint "{6A46F13AB01F61B2}" {
-    Position 89.875 -0.343 42.25
+    Position 104 -0.133 41.75
    }
    ShapePoint "{6A46F13AB01FE2E9}" {
-    Position 77.156 -0.487 41.75
+    Position 89.875 -0.343 42.25
    }
    ShapePoint "{6A46F13AB0114AD9}" {
-    Position 65.719 -0.583 38.25
+    Position 77.156 -0.487 41.75
    }
    ShapePoint "{6A46F13AB011D3E6}" {
-    Position 56.313 -0.618 33.25
+    Position 65.719 -0.583 38.25
    }
    ShapePoint "{6A46F13AB01243F6}" {
-    Position 49.375 -0.696 28.25
+    Position 56.313 -0.618 33.25
    }
    ShapePoint "{6A46F13AB012BA9D}" {
-    Position 41.969 -0.628 24.75
+    Position 49.375 -0.696 28.25
    }
    ShapePoint "{6A46F13AB0132D5A}" {
-    Position 36.031 -0.559 22.75
+    Position 41.969 -0.628 24.75
    }
    ShapePoint "{6A46F13AB013A9B3}" {
-    Position 26.469 -0.49 20.75
+    Position 36.031 -0.559 22.75
    }
    ShapePoint "{6A46F13AB0143560}" {
-    Position 14.188 -0.398 20.75
+    Position 26.469 -0.49 20.75
    }
    ShapePoint "{6A46F13AB014C445}" {
-    Position -2.5 -0.381 22.25
+    Position 14.188 -0.398 20.75
    }
    ShapePoint "{6A46F13AB01539B2}" {
-    Position -16.594 -0.316 23.25
+    Position -2.5 -0.381 22.25
    }
    ShapePoint "{6A46F13AB0159E2A}" {
-    Position -29.312 -0.512 22.75
+    Position -16.594 -0.316 23.25
    }
    ShapePoint "{6A46F13AB0161868}" {
-    Position -48.719 -0.622 14.75
+    Position -29.312 -0.512 22.75
    }
    ShapePoint "{6A46F13AB0168B48}" {
-    Position -157.656 -0.006 -34.25
+    Position -48.719 -0.622 14.75
    }
    ShapePoint "{6A46F13AB01708B7}" {
-    Position -167.969 0.025 -39.25
+    Position -75.953 -0.468 2.5
    }
    ShapePoint "{6A46F13AB0E874C9}" {
-    Position -177.906 0.068 -41.25
+    Position -103.188 -0.314 -9.75
    }
    ShapePoint "{6A46F13AB0E8F33F}" {
-    Position -186.156 0.111 -42.25
-   }
-   ShapePoint "{6A46F13AB0E97BAC}" {
-    Position -193.781 0.157 -41.25
+    Position -130.422 -0.16 -22
    }
    ShapePoint "{6A46F13AB0E90617}" {
+    Position -167.969 0.025 -39.25
+   }
+   ShapePoint "{6A46F13AB0EA7884}" {
+    Position -186.156 0.111 -42.25
+   }
+   ShapePoint "{6A46F13AB0EA7895}" {
+    Position -193.781 0.157 -41.25
+   }
+   ShapePoint "{6A46F13AB0EA78A6}" {
     Position -200.219 0.2 -39.75
    }
-   ShapePoint "{6A46F13AB0EA7873}" {
+   ShapePoint "{6A46F13AB0EA78B7}" {
+    Position -211.461 0.233 -34.25
+   }
+   ShapePoint "{6A46F13AB0EA78C8}" {
+    Position -222.704 0.265 -28.75
+   }
+   ShapePoint "{6A46F13AB0EA78D9}" {
+    Position -233.946 0.297 -23.25
+   }
+   ShapePoint "{6A46F13AB0EA78EA}" {
     Position -245.188 0.33 -17.75
    }
   }
@@ -5610,69 +7312,84 @@ $grp SplineShapeEntity {
         Position 167.656 0.59 37.25
        }
        ShapePoint "{6A46F13AB30E4F69}" {
-        Position 130.75 0.09 39.75
+        Position 149.203 0.34 38.5
        }
        ShapePoint "{6A46F13AB30E4F29}" {
-        Position 104 -0.133 41.75
+        Position 130.75 0.09 39.75
        }
        ShapePoint "{6A46F13AB30E4CEA}" {
-        Position 89.875 -0.343 42.25
+        Position 104 -0.133 41.75
        }
        ShapePoint "{6A46F13AB30E4CAF}" {
-        Position 77.156 -0.487 41.75
+        Position 89.875 -0.343 42.25
        }
        ShapePoint "{6A46F13AB30E4C61}" {
-        Position 65.719 -0.583 38.25
+        Position 77.156 -0.487 41.75
        }
        ShapePoint "{6A46F13AB30E4C22}" {
-        Position 56.313 -0.618 33.25
+        Position 65.719 -0.583 38.25
        }
        ShapePoint "{6A46F13AB30E4DE3}" {
-        Position 49.375 -0.696 28.25
+        Position 56.313 -0.618 33.25
        }
        ShapePoint "{6A46F13AB30E4DA3}" {
-        Position 41.969 -0.628 24.75
+        Position 49.375 -0.696 28.25
        }
        ShapePoint "{6A46F13AB30E4D61}" {
-        Position 36.031 -0.559 22.75
+        Position 41.969 -0.628 24.75
        }
        ShapePoint "{6A46F13AB30E4D0B}" {
-        Position 26.469 -0.49 20.75
+        Position 36.031 -0.559 22.75
        }
        ShapePoint "{6A46F13AB30E4AB9}" {
-        Position 14.188 -0.398 20.75
+        Position 26.469 -0.49 20.75
        }
        ShapePoint "{6A46F13AB30E4A7B}" {
-        Position -2.5 -0.381 22.25
+        Position 14.188 -0.398 20.75
        }
        ShapePoint "{6A46F13AB30E4A3B}" {
-        Position -16.594 -0.316 23.25
+        Position -2.5 -0.381 22.25
        }
        ShapePoint "{6A46F13AB30E4BFA}" {
-        Position -29.312 -0.512 22.75
+        Position -16.594 -0.316 23.25
        }
        ShapePoint "{6A46F13AB30E4BA2}" {
-        Position -48.719 -0.622 14.75
+        Position -29.312 -0.512 22.75
        }
        ShapePoint "{6A46F13AB30E4B54}" {
-        Position -157.656 -0.006 -34.25
+        Position -48.719 -0.622 14.75
        }
        ShapePoint "{6A46F13AB30E4842}" {
-        Position -167.969 0.025 -39.25
+        Position -75.953 -0.468 2.5
        }
        ShapePoint "{6A46F13AB30E4801}" {
-        Position -177.906 0.068 -41.25
+        Position -103.188 -0.314 -9.75
        }
        ShapePoint "{6A46F13AB30E49CE}" {
-        Position -186.156 0.111 -42.25
+        Position -130.422 -0.16 -22
        }
        ShapePoint "{6A46F13AB30E497E}" {
-        Position -193.781 0.157 -41.25
+        Position -167.969 0.025 -39.25
        }
        ShapePoint "{6A46F13AB30E4931}" {
-        Position -200.219 0.2 -39.75
+        Position -186.156 0.111 -42.25
        }
        ShapePoint "{6A46F13AB30E46F2}" {
+        Position -193.781 0.157 -41.25
+       }
+       ShapePoint "{6A46F13AB30E4703}" {
+        Position -200.219 0.2 -39.75
+       }
+       ShapePoint "{6A46F13AB30E4714}" {
+        Position -211.461 0.233 -34.25
+       }
+       ShapePoint "{6A46F13AB30E4725}" {
+        Position -222.704 0.265 -28.75
+       }
+       ShapePoint "{6A46F13AB30E4736}" {
+        Position -233.946 0.297 -23.25
+       }
+       ShapePoint "{6A46F13AB30E4747}" {
         Position -245.188 0.33 -17.75
        }
       }
@@ -5693,31 +7410,37 @@ $grp SplineShapeEntity {
     Position 61.719 18.122 -94.25
    }
    ShapePoint "{6A46F13AB0EBF83D}" {
-    Position 24.969 18.378 -55.75
+    Position 49.469 18.207 -81.417
    }
    ShapePoint "{6A46F13AB0EB8868}" {
-    Position 2.344 18.184 -27.25
+    Position 37.219 18.293 -68.583
    }
    ShapePoint "{6A46F13AB0EC03AC}" {
-    Position -1.969 18.094 -21.25
+    Position 24.969 18.378 -55.75
    }
    ShapePoint "{6A46F13AB0ED7023}" {
-    Position -29.625 18.153 19.75
+    Position 17.427 18.313 -46.25
    }
    ShapePoint "{6A46F13AB0EDF82C}" {
+    Position 9.886 18.249 -36.75
+   }
+   ShapePoint "{6A46F13AB0EDF83D}" {
+    Position 2.344 18.184 -27.25
+   }
+   ShapePoint "{6A46F13AB0EDF84E}" {
+    Position -1.969 18.094 -21.25
+   }
+   ShapePoint "{6A46F13AB0EDF85F}" {
+    Position -11.188 18.114 -7.583
+   }
+   ShapePoint "{6A46F13AB0EDF870}" {
+    Position -20.406 18.133 6.083
+   }
+   ShapePoint "{6A46F13AB0EDF881}" {
+    Position -29.625 18.153 19.75
+   }
+   ShapePoint "{6A46F13AB0EDF892}" {
     Position -55.125 18.173 61.25
-   }
-   ShapePoint "{6A46F13AB0ED84DE}" {
-    Position -62.281 -18.378 74.75
-   }
-   ShapePoint "{6A46F13AB0EE0FDB}" {
-    Position -67.438 -18.378 86.25
-   }
-   ShapePoint "{6A46F13AB0EE9982}" {
-    Position -68 -18.378 92.25
-   }
-   ShapePoint "{6A46F13AB0EF20BC}" {
-    Position -66.469 -18.378 98.75
    }
   }
   LineColor 0.93 0.13 0.33 1
@@ -5735,31 +7458,37 @@ $grp SplineShapeEntity {
         Position 61.719 18.122 -94.25
        }
        ShapePoint "{6A46F13AB30E0B08}" {
-        Position 24.969 18.378 -55.75
+        Position 49.469 18.207 -81.417
        }
        ShapePoint "{6A46F13AB30E08B3}" {
-        Position 2.344 18.184 -27.25
+        Position 37.219 18.293 -68.583
        }
        ShapePoint "{6A46F13AB30E087B}" {
-        Position -1.969 18.094 -21.25
+        Position 24.969 18.378 -55.75
        }
        ShapePoint "{6A46F13AB30E083B}" {
-        Position -29.625 18.153 19.75
+        Position 17.427 18.313 -46.25
        }
        ShapePoint "{6A46F13AB30E09FA}" {
+        Position 9.886 18.249 -36.75
+       }
+       ShapePoint "{6A46F13AB30E0A0B}" {
+        Position 2.344 18.184 -27.25
+       }
+       ShapePoint "{6A46F13AB30E0A1C}" {
+        Position -1.969 18.094 -21.25
+       }
+       ShapePoint "{6A46F13AB30E0A2D}" {
+        Position -11.188 18.114 -7.583
+       }
+       ShapePoint "{6A46F13AB30E0A3E}" {
+        Position -20.406 18.133 6.083
+       }
+       ShapePoint "{6A46F13AB30E0A4F}" {
+        Position -29.625 18.153 19.75
+       }
+       ShapePoint "{6A46F13AB30E0A60}" {
         Position -55.125 18.173 61.25
-       }
-       ShapePoint "{6A46F13AB30E09BC}" {
-        Position -62.281 -18.378 74.75
-       }
-       ShapePoint "{6A46F13AB30E0973}" {
-        Position -67.438 -18.378 86.25
-       }
-       ShapePoint "{6A46F13AB30E093E}" {
-        Position -68 -18.378 92.25
-       }
-       ShapePoint "{6A46F13AB30E06FE}" {
-        Position -66.469 -18.378 98.75
        }
       }
       IsClosedSpline 0
@@ -5779,33 +7508,54 @@ $grp SplineShapeEntity {
     Position 189.031 0.325 -209.75
    }
    ShapePoint "{6A46F13AB0E17F67}" {
-    Position 111.375 -0.175 -94.25
+    Position 179.324 0.263 -195.312
    }
    ShapePoint "{6A46F13AB0E1DCE8}" {
-    Position 87.313 -0.197 -51.75
+    Position 169.617 0.2 -180.875
    }
    ShapePoint "{6A46F13AB0E25B30}" {
-    Position 46.469 -0.273 13.75
+    Position 159.91 0.138 -166.438
    }
    ShapePoint "{6A46F13AB0E2E15E}" {
-    Position 19.094 -0.26 62.25
+    Position 150.203 0.075 -152
    }
    ShapePoint "{6A46F13AB0E3665A}" {
-    Position -13.938 -0.113 116.75
+    Position 140.496 0.013 -137.562
    }
    ShapePoint "{6A46F13AB0E3EE99}" {
-    Position -51.281 -0.169 155.75
+    Position 130.789 -0.05 -123.125
    }
    ShapePoint "{6A46F13AB0E47BA9}" {
-    Position -86.094 -0.325 183.75
+    Position 121.082 -0.112 -108.688
    }
    ShapePoint "{6A46F13AB0E400A2}" {
-    Position -128.562 -0.082 204.75
+    Position 111.375 -0.175 -94.25
    }
    ShapePoint "{6A46F13AB0E48D5E}" {
-    Position -161.188 -0.167 213.75
+    Position 87.313 -0.197 -51.75
    }
    ShapePoint "{6A46F13AB0E51C57}" {
+    Position 46.469 -0.273 13.75
+   }
+   ShapePoint "{6A46F13AB0E51C68}" {
+    Position 19.094 -0.26 62.25
+   }
+   ShapePoint "{6A46F13AB0E51C79}" {
+    Position -13.938 -0.113 116.75
+   }
+   ShapePoint "{6A46F13AB0E51C8A}" {
+    Position -51.281 -0.169 155.75
+   }
+   ShapePoint "{6A46F13AB0E51C9B}" {
+    Position -86.094 -0.325 183.75
+   }
+   ShapePoint "{6A46F13AB0E51CAC}" {
+    Position -128.562 -0.082 204.75
+   }
+   ShapePoint "{6A46F13AB0E51CBD}" {
+    Position -161.188 -0.167 213.75
+   }
+   ShapePoint "{6A46F13AB0E51CCE}" {
     Position -192.375 0.106 215.25
    }
   }
@@ -5824,33 +7574,54 @@ $grp SplineShapeEntity {
         Position 189.031 0.325 -209.75
        }
        ShapePoint "{6A46F13AB30051AF}" {
-        Position 111.375 -0.175 -94.25
+        Position 179.324 0.263 -195.312
        }
        ShapePoint "{6A46F13AB3005155}" {
-        Position 87.313 -0.197 -51.75
+        Position 169.617 0.2 -180.875
        }
        ShapePoint "{6A46F13AB3005112}" {
-        Position 46.469 -0.273 13.75
+        Position 159.91 0.138 -166.438
        }
        ShapePoint "{6A46F13AB3004ED6}" {
-        Position 19.094 -0.26 62.25
+        Position 150.203 0.075 -152
        }
        ShapePoint "{6A46F13AB3004EAB}" {
-        Position -13.938 -0.113 116.75
+        Position 140.496 0.013 -137.562
        }
        ShapePoint "{6A46F13AB3004E69}" {
-        Position -51.281 -0.169 155.75
+        Position 130.789 -0.05 -123.125
        }
        ShapePoint "{6A46F13AB3004E2A}" {
-        Position -86.094 -0.325 183.75
+        Position 121.082 -0.112 -108.688
        }
        ShapePoint "{6A46F13AB3004FED}" {
-        Position -128.562 -0.082 204.75
+        Position 111.375 -0.175 -94.25
        }
        ShapePoint "{6A46F13AB3004FAA}" {
-        Position -161.188 -0.167 213.75
+        Position 87.313 -0.197 -51.75
        }
        ShapePoint "{6A46F13AB3004F6D}" {
+        Position 46.469 -0.273 13.75
+       }
+       ShapePoint "{6A46F13AB3004F7E}" {
+        Position 19.094 -0.26 62.25
+       }
+       ShapePoint "{6A46F13AB3004F8F}" {
+        Position -13.938 -0.113 116.75
+       }
+       ShapePoint "{6A46F13AB3004FA0}" {
+        Position -51.281 -0.169 155.75
+       }
+       ShapePoint "{6A46F13AB3004FB1}" {
+        Position -86.094 -0.325 183.75
+       }
+       ShapePoint "{6A46F13AB3004FC2}" {
+        Position -128.562 -0.082 204.75
+       }
+       ShapePoint "{6A46F13AB3004FD3}" {
+        Position -161.188 -0.167 213.75
+       }
+       ShapePoint "{6A46F13AB3004FE4}" {
         Position -192.375 0.106 215.25
        }
       }
@@ -6015,15 +7786,27 @@ $grp SplineShapeEntity {
     Position 19.031 -0.056 -37.75
    }
    ShapePoint "{6A46F13AB0FE3BC1}" {
-    Position 11.531 0.083 -19.75
+    Position 15.281 0.014 -28.75
    }
    ShapePoint "{6A46F13AB0FECB52}" {
-    Position 0.656 0.028 3.75
+    Position 11.531 0.083 -19.75
    }
    ShapePoint "{6A46F13AB0FF52AF}" {
-    Position -17.344 -0.083 35.75
+    Position 6.093 0.055 -8
    }
    ShapePoint "{6A46F13AB0FFDA46}" {
+    Position 0.656 0.028 3.75
+   }
+   ShapePoint "{6A46F13AB0FFDA57}" {
+    Position -5.344 -0.009 14.417
+   }
+   ShapePoint "{6A46F13AB0FFDA68}" {
+    Position -11.344 -0.046 25.083
+   }
+   ShapePoint "{6A46F13AB0FFDA79}" {
+    Position -17.344 -0.083 35.75
+   }
+   ShapePoint "{6A46F13AB0FFDA8A}" {
     Position -20.281 -0.078 44.25
    }
   }
@@ -6042,15 +7825,27 @@ $grp SplineShapeEntity {
         Position 19.031 -0.056 -37.75
        }
        ShapePoint "{6A46F13AB3047B2A}" {
-        Position 11.531 0.083 -19.75
+        Position 15.281 0.014 -28.75
        }
        ShapePoint "{6A46F13AB30478DF}" {
-        Position 0.656 0.028 3.75
+        Position 11.531 0.083 -19.75
        }
        ShapePoint "{6A46F13AB3047899}" {
-        Position -17.344 -0.083 35.75
+        Position 6.093 0.055 -8
        }
        ShapePoint "{6A46F13AB304785B}" {
+        Position 0.656 0.028 3.75
+       }
+       ShapePoint "{6A46F13AB304786C}" {
+        Position -5.344 -0.009 14.417
+       }
+       ShapePoint "{6A46F13AB304787D}" {
+        Position -11.344 -0.046 25.083
+       }
+       ShapePoint "{6A46F13AB304788E}" {
+        Position -17.344 -0.083 35.75
+       }
+       ShapePoint "{6A46F13AB304789F}" {
         Position -20.281 -0.078 44.25
        }
       }
@@ -6092,36 +7887,42 @@ $grp SplineShapeEntity {
     Position -11.359 -0.912 -18.25
    }
    ShapePoint "{6A46F13AB0F5D273}" {
-    Position 63.266 -0.995 56.75
+    Position 13.516 -0.94 6.75
    }
    ShapePoint "{6A46F13AB0F65504}" {
-    Position 74.859 -1.161 67.75
+    Position 38.391 -0.967 31.75
    }
    ShapePoint "{6A46F13AB0F6B587}" {
-    Position 109.391 -1.327 96.75
+    Position 63.266 -0.995 56.75
    }
    ShapePoint "{6A46F13AB0F72601}" {
-    Position 138.547 -1.191 120.25
+    Position 74.859 -1.161 67.75
    }
    ShapePoint "{6A46F13AB0F7A775}" {
-    Position 153.172 -0.732 129.75
+    Position 109.391 -1.327 96.75
    }
    ShapePoint "{6A46F13AB0C81C16}" {
-    Position 176.172 -0.046 137.25
+    Position 138.547 -1.191 120.25
    }
    ShapePoint "{6A46F13AB0C89B3B}" {
-    Position 185.359 0.24 140.25
+    Position 153.172 -0.732 129.75
    }
    ShapePoint "{6A46F13AB0C9204A}" {
-    Position 196.484 0.619 143.75
+    Position 176.172 -0.046 137.25
    }
    ShapePoint "{6A46F13AB0C99F44}" {
-    Position 207.766 1.011 147.75
+    Position 185.359 0.24 140.25
    }
    ShapePoint "{6A46F13AB0CA1BE2}" {
-    Position 221.484 1.488 152.75
+    Position 196.484 0.619 143.75
    }
    ShapePoint "{6A46F13AB0CA9EC2}" {
+    Position 207.766 1.011 147.75
+   }
+   ShapePoint "{6A46F13AB0CA9ED3}" {
+    Position 221.484 1.488 152.75
+   }
+   ShapePoint "{6A46F13AB0CA9EE4}" {
     Position 242.891 1.253 158.75
    }
   }
@@ -6161,36 +7962,42 @@ $grp SplineShapeEntity {
         Position -11.359 -0.912 -18.25
        }
        ShapePoint "{6A46F13AB304510B}" {
-        Position 63.266 -0.995 56.75
+        Position 13.516 -0.94 6.75
        }
        ShapePoint "{6A46F13AB3044EC9}" {
-        Position 74.859 -1.161 67.75
+        Position 38.391 -0.967 31.75
        }
        ShapePoint "{6A46F13AB3044E8B}" {
-        Position 109.391 -1.327 96.75
+        Position 63.266 -0.995 56.75
        }
        ShapePoint "{6A46F13AB3044E48}" {
-        Position 138.547 -1.191 120.25
+        Position 74.859 -1.161 67.75
        }
        ShapePoint "{6A46F13AB3044E08}" {
-        Position 153.172 -0.732 129.75
+        Position 109.391 -1.327 96.75
        }
        ShapePoint "{6A46F13AB3044FC9}" {
-        Position 176.172 -0.046 137.25
+        Position 138.547 -1.191 120.25
        }
        ShapePoint "{6A46F13AB3044F89}" {
-        Position 185.359 0.24 140.25
+        Position 153.172 -0.732 129.75
        }
        ShapePoint "{6A46F13AB3044F36}" {
-        Position 196.484 0.619 143.75
+        Position 176.172 -0.046 137.25
        }
        ShapePoint "{6A46F13AB3044CF1}" {
-        Position 207.766 1.011 147.75
+        Position 185.359 0.24 140.25
        }
        ShapePoint "{6A46F13AB3044CB1}" {
-        Position 221.484 1.488 152.75
+        Position 196.484 0.619 143.75
        }
        ShapePoint "{6A46F13AB3044C71}" {
+        Position 207.766 1.011 147.75
+       }
+       ShapePoint "{6A46F13AB3044C82}" {
+        Position 221.484 1.488 152.75
+       }
+       ShapePoint "{6A46F13AB3044C93}" {
         Position 242.891 1.253 158.75
        }
       }
@@ -6214,12 +8021,27 @@ $grp SplineShapeEntity {
     Position -1.5 0.299 9.25
    }
    ShapePoint "{6A46F13AB0CD563A}" {
-    Position 7.625 -0.178 -11.75
+    Position 0.781 0.18 4
    }
    ShapePoint "{6A46F13AB0CDDAA7}" {
-    Position 9.031 -0.245 -14.75
+    Position 3.062 0.061 -1.25
    }
    ShapePoint "{6A46F13AB0CE65F1}" {
+    Position 5.344 -0.059 -6.5
+   }
+   ShapePoint "{6A46F13AB0CE6602}" {
+    Position 7.625 -0.178 -11.75
+   }
+   ShapePoint "{6A46F13AB0CE6613}" {
+    Position 9.031 -0.245 -14.75
+   }
+   ShapePoint "{6A46F13AB0CE6624}" {
+    Position 10.344 -0.292 -19.417
+   }
+   ShapePoint "{6A46F13AB0CE6635}" {
+    Position 11.656 -0.338 -24.083
+   }
+   ShapePoint "{6A46F13AB0CE6646}" {
     Position 12.969 -0.385 -28.75
    }
   }
@@ -6241,12 +8063,27 @@ $grp SplineShapeEntity {
         Position -1.5 0.299 9.25
        }
        ShapePoint "{6A46F13AB30675D1}" {
-        Position 7.625 -0.178 -11.75
+        Position 0.781 0.18 4
        }
        ShapePoint "{6A46F13AB306759F}" {
-        Position 9.031 -0.245 -14.75
+        Position 3.062 0.061 -1.25
        }
        ShapePoint "{6A46F13AB3067558}" {
+        Position 5.344 -0.059 -6.5
+       }
+       ShapePoint "{6A46F13AB3067569}" {
+        Position 7.625 -0.178 -11.75
+       }
+       ShapePoint "{6A46F13AB306757A}" {
+        Position 9.031 -0.245 -14.75
+       }
+       ShapePoint "{6A46F13AB306758B}" {
+        Position 10.344 -0.292 -19.417
+       }
+       ShapePoint "{6A46F13AB306759C}" {
+        Position 11.656 -0.338 -24.083
+       }
+       ShapePoint "{6A46F13AB30675AD}" {
         Position 12.969 -0.385 -28.75
        }
       }
@@ -6430,21 +8267,69 @@ $grp SplineShapeEntity {
     Position 44.625 0.125 34.25
    }
    ShapePoint "{6A46F13AB0DB5F47}" {
-    Position 41.125 0.092 28.25
+    Position 43.458 0.114 32.25
    }
    ShapePoint "{6A46F13AB0DBD9F8}" {
-    Position 39.625 0.062 26.25
+    Position 42.292 0.103 30.25
    }
    ShapePoint "{6A46F13AB0DC487E}" {
-    Position 22.25 -0.125 12.75
+    Position 41.125 0.092 28.25
    }
    ShapePoint "{6A46F13AB0DCCF17}" {
-    Position 9.156 -0.111 3.75
+    Position 39.625 0.062 26.25
    }
    ShapePoint "{6A46F13AB0DD5AB3}" {
-    Position -35.781 0 -27.75
+    Position 36.729 0.031 24
    }
    ShapePoint "{6A46F13AB0DDD887}" {
+    Position 33.833 0 21.75
+   }
+   ShapePoint "{6A46F13AB0DDD898}" {
+    Position 30.938 -0.032 19.5
+   }
+   ShapePoint "{6A46F13AB0DDD8A9}" {
+    Position 28.042 -0.063 17.25
+   }
+   ShapePoint "{6A46F13AB0DDD8BA}" {
+    Position 25.146 -0.094 15
+   }
+   ShapePoint "{6A46F13AB0DDD8CB}" {
+    Position 22.25 -0.125 12.75
+   }
+   ShapePoint "{6A46F13AB0DDD8DC}" {
+    Position 17.885 -0.12 9.75
+   }
+   ShapePoint "{6A46F13AB0DDD8ED}" {
+    Position 13.521 -0.116 6.75
+   }
+   ShapePoint "{6A46F13AB0DDD8FE}" {
+    Position 9.156 -0.111 3.75
+   }
+   ShapePoint "{6A46F13AB0DDD90F}" {
+    Position 3.539 -0.097 -0.188
+   }
+   ShapePoint "{6A46F13AB0DDD920}" {
+    Position -2.078 -0.083 -4.125
+   }
+   ShapePoint "{6A46F13AB0DDD931}" {
+    Position -7.695 -0.069 -8.062
+   }
+   ShapePoint "{6A46F13AB0DDD942}" {
+    Position -13.312 -0.055 -12
+   }
+   ShapePoint "{6A46F13AB0DDD953}" {
+    Position -18.93 -0.042 -15.938
+   }
+   ShapePoint "{6A46F13AB0DDD964}" {
+    Position -24.547 -0.028 -19.875
+   }
+   ShapePoint "{6A46F13AB0DDD975}" {
+    Position -30.164 -0.014 -23.812
+   }
+   ShapePoint "{6A46F13AB0DDD986}" {
+    Position -35.781 0 -27.75
+   }
+   ShapePoint "{6A46F13AB0DDD997}" {
     Position -44.625 -0.014 -34.25
    }
   }
@@ -6460,21 +8345,69 @@ $grp SplineShapeEntity {
         Position 44.625 0.125 34.25
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 41.125 0.092 28.25
+        Position 43.458 0.114 32.25
        }
        ShapePoint "{6A46F13AB31852D8}" {
-        Position 39.625 0.062 26.25
+        Position 42.292 0.103 30.25
        }
        ShapePoint "{6A46F13AB3185283}" {
-        Position 22.25 -0.125 12.75
+        Position 41.125 0.092 28.25
        }
        ShapePoint "{6A46F13AB3185240}" {
-        Position 9.156 -0.111 3.75
+        Position 39.625 0.062 26.25
        }
        ShapePoint "{6A46F13AB3185200}" {
-        Position -35.781 0 -27.75
+        Position 36.729 0.031 24
        }
        ShapePoint "{6A46F13AB31853CE}" {
+        Position 33.833 0 21.75
+       }
+       ShapePoint "{6A46F13AB31853DF}" {
+        Position 30.938 -0.032 19.5
+       }
+       ShapePoint "{6A46F13AB31853F0}" {
+        Position 28.042 -0.063 17.25
+       }
+       ShapePoint "{6A46F13AB3185401}" {
+        Position 25.146 -0.094 15
+       }
+       ShapePoint "{6A46F13AB3185412}" {
+        Position 22.25 -0.125 12.75
+       }
+       ShapePoint "{6A46F13AB3185423}" {
+        Position 17.885 -0.12 9.75
+       }
+       ShapePoint "{6A46F13AB3185434}" {
+        Position 13.521 -0.116 6.75
+       }
+       ShapePoint "{6A46F13AB3185445}" {
+        Position 9.156 -0.111 3.75
+       }
+       ShapePoint "{6A46F13AB3185456}" {
+        Position 3.539 -0.097 -0.188
+       }
+       ShapePoint "{6A46F13AB3185467}" {
+        Position -2.078 -0.083 -4.125
+       }
+       ShapePoint "{6A46F13AB3185478}" {
+        Position -7.695 -0.069 -8.062
+       }
+       ShapePoint "{6A46F13AB3185489}" {
+        Position -13.312 -0.055 -12
+       }
+       ShapePoint "{6A46F13AB318549A}" {
+        Position -18.93 -0.042 -15.938
+       }
+       ShapePoint "{6A46F13AB31854AB}" {
+        Position -24.547 -0.028 -19.875
+       }
+       ShapePoint "{6A46F13AB31854BC}" {
+        Position -30.164 -0.014 -23.812
+       }
+       ShapePoint "{6A46F13AB31854CD}" {
+        Position -35.781 0 -27.75
+       }
+       ShapePoint "{6A46F13AB31854DE}" {
         Position -44.625 -0.014 -34.25
        }
       }
@@ -6513,9 +8446,15 @@ $grp SplineShapeEntity {
     Position 58.375 -1.479 -46.5
    }
    ShapePoint "{6A46F13AB0D22DFC}" {
-    Position 73.344 -1.238 -82.5
+    Position 63.365 -1.399 -58.5
    }
    ShapePoint "{6A46F13AB0D2B55E}" {
+    Position 68.354 -1.318 -70.5
+   }
+   ShapePoint "{6A46F13AB0D2B56F}" {
+    Position 73.344 -1.238 -82.5
+   }
+   ShapePoint "{6A46F13AB0D2B580}" {
     Position 81.625 -1.193 -87.5
    }
   }
@@ -6552,9 +8491,15 @@ $grp SplineShapeEntity {
         Position 58.375 -1.479 -46.5
        }
        ShapePoint "{6A46F13AB3198121}" {
-        Position 73.344 -1.238 -82.5
+        Position 63.365 -1.399 -58.5
        }
        ShapePoint "{6A46F13AB31A7EE1}" {
+        Position 68.354 -1.318 -70.5
+       }
+       ShapePoint "{6A46F13AB31A7EF2}" {
+        Position 73.344 -1.238 -82.5
+       }
+       ShapePoint "{6A46F13AB31A7F03}" {
         Position 81.625 -1.193 -87.5
        }
       }
@@ -6572,12 +8517,117 @@ $grp SplineShapeEntity {
     Position -110.781 0.528 141.5
    }
    ShapePoint "{6A46F13AB0D39F36}" {
-    Position -9.719 0.288 -60.5
+    Position -106.387 0.518 132.717
    }
    ShapePoint "{6A46F13AB0D422C1}" {
-    Position -4.875 0.433 -64
+    Position -101.993 0.507 123.935
    }
    ShapePoint "{6A46F13AB0D66493}" {
+    Position -97.599 0.497 115.152
+   }
+   ShapePoint "{6A46F13AB0D664A4}" {
+    Position -93.205 0.486 106.37
+   }
+   ShapePoint "{6A46F13AB0D664B5}" {
+    Position -88.811 0.476 97.587
+   }
+   ShapePoint "{6A46F13AB0D664C6}" {
+    Position -84.417 0.465 88.804
+   }
+   ShapePoint "{6A46F13AB0D664D7}" {
+    Position -80.023 0.455 80.022
+   }
+   ShapePoint "{6A46F13AB0D664E8}" {
+    Position -75.629 0.445 71.239
+   }
+   ShapePoint "{6A46F13AB0D664F9}" {
+    Position -71.235 0.434 62.457
+   }
+   ShapePoint "{6A46F13AB0D6650A}" {
+    Position -66.841 0.424 53.674
+   }
+   ShapePoint "{6A46F13AB0D6651B}" {
+    Position -62.447 0.413 44.891
+   }
+   ShapePoint "{6A46F13AB0D6652C}" {
+    Position -58.053 0.403 36.109
+   }
+   ShapePoint "{6A46F13AB0D6653D}" {
+    Position -53.659 0.392 27.326
+   }
+   ShapePoint "{6A46F13AB0D6654E}" {
+    Position -49.265 0.382 18.543
+   }
+   ShapePoint "{6A46F13AB0D6655F}" {
+    Position -44.871 0.371 9.761
+   }
+   ShapePoint "{6A46F13AB0D66570}" {
+    Position -40.477 0.361 0.978
+   }
+   ShapePoint "{6A46F13AB0D66581}" {
+    Position -36.083 0.351 -7.804
+   }
+   ShapePoint "{6A46F13AB0D66592}" {
+    Position -31.689 0.34 -16.587
+   }
+   ShapePoint "{6A46F13AB0D665A3}" {
+    Position -27.295 0.33 -25.37
+   }
+   ShapePoint "{6A46F13AB0D665B4}" {
+    Position -22.901 0.319 -34.152
+   }
+   ShapePoint "{6A46F13AB0D665C5}" {
+    Position -18.507 0.309 -42.935
+   }
+   ShapePoint "{6A46F13AB0D665D6}" {
+    Position -14.113 0.298 -51.717
+   }
+   ShapePoint "{6A46F13AB0D665E7}" {
+    Position -9.719 0.288 -60.5
+   }
+   ShapePoint "{6A46F13AB0D665F8}" {
+    Position -4.875 0.433 -64
+   }
+   ShapePoint "{6A46F13AB0D66609}" {
+    Position 3.386 0.364 -69.536
+   }
+   ShapePoint "{6A46F13AB0D6661A}" {
+    Position 11.647 0.296 -75.071
+   }
+   ShapePoint "{6A46F13AB0D6662B}" {
+    Position 19.908 0.227 -80.607
+   }
+   ShapePoint "{6A46F13AB0D6663C}" {
+    Position 28.17 0.158 -86.143
+   }
+   ShapePoint "{6A46F13AB0D6664D}" {
+    Position 36.431 0.09 -91.679
+   }
+   ShapePoint "{6A46F13AB0D6665E}" {
+    Position 44.692 0.021 -97.214
+   }
+   ShapePoint "{6A46F13AB0D6666F}" {
+    Position 52.953 -0.047 -102.75
+   }
+   ShapePoint "{6A46F13AB0D66680}" {
+    Position 61.214 -0.116 -108.286
+   }
+   ShapePoint "{6A46F13AB0D66691}" {
+    Position 69.475 -0.185 -113.821
+   }
+   ShapePoint "{6A46F13AB0D666A2}" {
+    Position 77.736 -0.253 -119.357
+   }
+   ShapePoint "{6A46F13AB0D666B3}" {
+    Position 85.998 -0.322 -124.893
+   }
+   ShapePoint "{6A46F13AB0D666C4}" {
+    Position 94.259 -0.391 -130.429
+   }
+   ShapePoint "{6A46F13AB0D666D5}" {
+    Position 102.52 -0.459 -135.964
+   }
+   ShapePoint "{6A46F13AB0D666E6}" {
     Position 110.781 -0.528 -141.5
    }
   }
@@ -6593,12 +8643,117 @@ $grp SplineShapeEntity {
         Position -110.781 0.528 141.5
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position -9.719 0.288 -60.5
+        Position -106.387 0.518 132.717
        }
        ShapePoint "{6A46F13AB31A55B0}" {
-        Position -4.875 0.433 -64
+        Position -101.993 0.507 123.935
        }
        ShapePoint "{6A46F13AB31A5566}" {
+        Position -97.599 0.497 115.152
+       }
+       ShapePoint "{6A46F13AB31A5577}" {
+        Position -93.205 0.486 106.37
+       }
+       ShapePoint "{6A46F13AB31A5588}" {
+        Position -88.811 0.476 97.587
+       }
+       ShapePoint "{6A46F13AB31A5599}" {
+        Position -84.417 0.465 88.804
+       }
+       ShapePoint "{6A46F13AB31A55AA}" {
+        Position -80.023 0.455 80.022
+       }
+       ShapePoint "{6A46F13AB31A55BB}" {
+        Position -75.629 0.445 71.239
+       }
+       ShapePoint "{6A46F13AB31A55CC}" {
+        Position -71.235 0.434 62.457
+       }
+       ShapePoint "{6A46F13AB31A55DD}" {
+        Position -66.841 0.424 53.674
+       }
+       ShapePoint "{6A46F13AB31A55EE}" {
+        Position -62.447 0.413 44.891
+       }
+       ShapePoint "{6A46F13AB31A55FF}" {
+        Position -58.053 0.403 36.109
+       }
+       ShapePoint "{6A46F13AB31A5610}" {
+        Position -53.659 0.392 27.326
+       }
+       ShapePoint "{6A46F13AB31A5621}" {
+        Position -49.265 0.382 18.543
+       }
+       ShapePoint "{6A46F13AB31A5632}" {
+        Position -44.871 0.371 9.761
+       }
+       ShapePoint "{6A46F13AB31A5643}" {
+        Position -40.477 0.361 0.978
+       }
+       ShapePoint "{6A46F13AB31A5654}" {
+        Position -36.083 0.351 -7.804
+       }
+       ShapePoint "{6A46F13AB31A5665}" {
+        Position -31.689 0.34 -16.587
+       }
+       ShapePoint "{6A46F13AB31A5676}" {
+        Position -27.295 0.33 -25.37
+       }
+       ShapePoint "{6A46F13AB31A5687}" {
+        Position -22.901 0.319 -34.152
+       }
+       ShapePoint "{6A46F13AB31A5698}" {
+        Position -18.507 0.309 -42.935
+       }
+       ShapePoint "{6A46F13AB31A56A9}" {
+        Position -14.113 0.298 -51.717
+       }
+       ShapePoint "{6A46F13AB31A56BA}" {
+        Position -9.719 0.288 -60.5
+       }
+       ShapePoint "{6A46F13AB31A56CB}" {
+        Position -4.875 0.433 -64
+       }
+       ShapePoint "{6A46F13AB31A56DC}" {
+        Position 3.386 0.364 -69.536
+       }
+       ShapePoint "{6A46F13AB31A56ED}" {
+        Position 11.647 0.296 -75.071
+       }
+       ShapePoint "{6A46F13AB31A56FE}" {
+        Position 19.908 0.227 -80.607
+       }
+       ShapePoint "{6A46F13AB31A570F}" {
+        Position 28.17 0.158 -86.143
+       }
+       ShapePoint "{6A46F13AB31A5720}" {
+        Position 36.431 0.09 -91.679
+       }
+       ShapePoint "{6A46F13AB31A5731}" {
+        Position 44.692 0.021 -97.214
+       }
+       ShapePoint "{6A46F13AB31A5742}" {
+        Position 52.953 -0.047 -102.75
+       }
+       ShapePoint "{6A46F13AB31A5753}" {
+        Position 61.214 -0.116 -108.286
+       }
+       ShapePoint "{6A46F13AB31A5764}" {
+        Position 69.475 -0.185 -113.821
+       }
+       ShapePoint "{6A46F13AB31A5775}" {
+        Position 77.736 -0.253 -119.357
+       }
+       ShapePoint "{6A46F13AB31A5786}" {
+        Position 85.998 -0.322 -124.893
+       }
+       ShapePoint "{6A46F13AB31A5797}" {
+        Position 94.259 -0.391 -130.429
+       }
+       ShapePoint "{6A46F13AB31A57A8}" {
+        Position 102.52 -0.459 -135.964
+       }
+       ShapePoint "{6A46F13AB31A57B9}" {
         Position 110.781 -0.528 -141.5
        }
       }
@@ -6948,12 +9103,18 @@ $grp SplineShapeEntity {
     Position 30.75 0.172 52.25
    }
    ShapePoint "{6A46F13AB0B9C825}" {
-    Position -29.281 -0.172 -29.25
+    Position 10.74 0.057 25.083
    }
    ShapePoint "{6A46F13AB0BA5021}" {
-    Position -30.344 -0.016 -42.75
+    Position -9.271 -0.057 -2.083
    }
    ShapePoint "{6A46F13AB0BAD24D}" {
+    Position -29.281 -0.172 -29.25
+   }
+   ShapePoint "{6A46F13AB0BAD25E}" {
+    Position -30.344 -0.016 -42.75
+   }
+   ShapePoint "{6A46F13AB0BAD26F}" {
     Position -30.75 -0.089 -52.25
    }
   }
@@ -6969,12 +9130,18 @@ $grp SplineShapeEntity {
         Position 30.75 0.172 52.25
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position -29.281 -0.172 -29.25
+        Position 10.74 0.057 25.083
        }
        ShapePoint "{6A46F13AB31E92B8}" {
-        Position -30.344 -0.016 -42.75
+        Position -9.271 -0.057 -2.083
        }
        ShapePoint "{6A46F13AB31E926C}" {
+        Position -29.281 -0.172 -29.25
+       }
+       ShapePoint "{6A46F13AB31E927D}" {
+        Position -30.344 -0.016 -42.75
+       }
+       ShapePoint "{6A46F13AB31E928E}" {
         Position -30.75 -0.089 -52.25
        }
       }
@@ -7010,18 +9177,39 @@ $grp SplineShapeEntity {
     Position -45.109 -1.118 -17.75
    }
    ShapePoint "{6A46F13AB0BF6BC5}" {
-    Position -34.172 -0.644 -71.25
+    Position -42.375 -0.999 -31.125
    }
    ShapePoint "{6A46F13AB0BFE7D0}" {
-    Position -32.047 -0.518 -79.75
+    Position -39.64 -0.881 -44.5
    }
    ShapePoint "{6A46F13AB0B06D93}" {
-    Position -28.703 -0.503 -86.75
+    Position -36.906 -0.763 -57.875
    }
    ShapePoint "{6A46F13AB0B0F2FF}" {
-    Position -8.203 -0.695 -124.25
+    Position -34.172 -0.644 -71.25
    }
    ShapePoint "{6A46F13AB0B16CCB}" {
+    Position -32.047 -0.518 -79.75
+   }
+   ShapePoint "{6A46F13AB0B16CDC}" {
+    Position -28.703 -0.503 -86.75
+   }
+   ShapePoint "{6A46F13AB0B16CED}" {
+    Position -21.87 -0.567 -99.25
+   }
+   ShapePoint "{6A46F13AB0B16CFE}" {
+    Position -15.036 -0.631 -111.75
+   }
+   ShapePoint "{6A46F13AB0B16D0F}" {
+    Position -8.203 -0.695 -124.25
+   }
+   ShapePoint "{6A46F13AB0B16D20}" {
+    Position 11.151 -0.728 -152.25
+   }
+   ShapePoint "{6A46F13AB0B16D31}" {
+    Position 30.505 -0.762 -180.25
+   }
+   ShapePoint "{6A46F13AB0B16D42}" {
     Position 49.859 -0.795 -208.25
    }
   }
@@ -7055,18 +9243,39 @@ $grp SplineShapeEntity {
         Position -45.109 -1.118 -17.75
        }
        ShapePoint "{6A46F13AB3101A40}" {
-        Position -34.172 -0.644 -71.25
+        Position -42.375 -0.999 -31.125
        }
        ShapePoint "{6A46F13AB3101A00}" {
-        Position -32.047 -0.518 -79.75
+        Position -39.64 -0.881 -44.5
        }
        ShapePoint "{6A46F13AB3101BC2}" {
-        Position -28.703 -0.503 -86.75
+        Position -36.906 -0.763 -57.875
        }
        ShapePoint "{6A46F13AB3101B80}" {
-        Position -8.203 -0.695 -124.25
+        Position -34.172 -0.644 -71.25
        }
        ShapePoint "{6A46F13AB3101B42}" {
+        Position -32.047 -0.518 -79.75
+       }
+       ShapePoint "{6A46F13AB3101B53}" {
+        Position -28.703 -0.503 -86.75
+       }
+       ShapePoint "{6A46F13AB3101B64}" {
+        Position -21.87 -0.567 -99.25
+       }
+       ShapePoint "{6A46F13AB3101B75}" {
+        Position -15.036 -0.631 -111.75
+       }
+       ShapePoint "{6A46F13AB3101B86}" {
+        Position -8.203 -0.695 -124.25
+       }
+       ShapePoint "{6A46F13AB3101B97}" {
+        Position 11.151 -0.728 -152.25
+       }
+       ShapePoint "{6A46F13AB3101BA8}" {
+        Position 30.505 -0.762 -180.25
+       }
+       ShapePoint "{6A46F13AB3101BB9}" {
         Position 49.859 -0.795 -208.25
        }
       }
@@ -7164,38 +9373,6 @@ $grp SplineShapeEntity {
    }
   }
   LineColor 0.93 0.13 0.33 1
-  {
-   RoadGeneratorEntity : "{02AF8C5A31EC3A53}PrefabLibrary/DefaultLibrary/Generators/Roads/Asphalt/RG_Road_Asphalt_E_01.et" {
-    coords 0 0 0
-    {
-     RoadEntity {
-      ID "556C655491CDCD64"
-      SplinePoints {
-       ShapePoint "{556C6554868CB1B0}" {
-        Position -94.438 0 49.75
-       }
-       ShapePoint "{556C6554868CB0CE}" {
-        Position -73.313 0 38.75
-       }
-       ShapePoint "{6A46F13AB3125050}" {
-        Position -48.656 0 26.25
-       }
-       ShapePoint "{6A46F13AB3125004}" {
-        Position 24 0 -6.25
-       }
-       ShapePoint "{6A46F13AB31251CF}" {
-        Position 64 0 -29.25
-       }
-       ShapePoint "{6A46F13AB312518D}" {
-        Position 94.438 0 -49.75
-       }
-      }
-      IsClosedSpline 0
-      Width 12
-     }
-    }
-   }
-  }
  }
  {
   coords 1403.406 20.224 10033.5
@@ -7207,28 +9384,16 @@ $grp SplineShapeEntity {
     Position -165.219 19.762 -186.5
    }
    ShapePoint "{6A46F13AB08855A6}" {
-    Position -134.312 19.738 -140.5
+    Position -149.765 19.75 -163.5
    }
    ShapePoint "{6A46F13AB088B723}" {
-    Position -107.969 20.063 -98.5
+    Position -134.312 19.738 -140.5
    }
    ShapePoint "{6A46F13AB0893264}" {
+    Position -107.969 20.063 -98.5
+   }
+   ShapePoint "{6A46F13AB0893275}" {
     Position -74.438 20.224 -60.5
-   }
-   ShapePoint "{6A46F13AB08AA0C8}" {
-    Position -6.094 -20.224 6.5
-   }
-   ShapePoint "{6A46F13AB08B15C9}" {
-    Position 48.219 -20.224 69
-   }
-   ShapePoint "{6A46F13AB08B9316}" {
-    Position 74.469 -20.224 94
-   }
-   ShapePoint "{6A46F13AB08C2204}" {
-    Position 132.156 -20.224 130
-   }
-   ShapePoint "{6A46F13AB08CAE40}" {
-    Position 179.938 -20.224 190.5
    }
   }
   LineColor 0.93 0.13 0.33 1
@@ -7246,28 +9411,16 @@ $grp SplineShapeEntity {
         Position -165.219 19.762 -186.5
        }
        ShapePoint "{6A46F13AB312BF7C}" {
-        Position -134.312 19.738 -140.5
+        Position -149.765 19.75 -163.5
        }
        ShapePoint "{6A46F13AB312BF22}" {
-        Position -107.969 20.063 -98.5
+        Position -134.312 19.738 -140.5
        }
        ShapePoint "{6A46F13AB312BCE3}" {
+        Position -107.969 20.063 -98.5
+       }
+       ShapePoint "{6A46F13AB312BCF4}" {
         Position -74.438 20.224 -60.5
-       }
-       ShapePoint "{6A46F13AB312BCA5}" {
-        Position -6.094 -20.224 6.5
-       }
-       ShapePoint "{6A46F13AB312BC62}" {
-        Position 48.219 -20.224 69
-       }
-       ShapePoint "{6A46F13AB312BC22}" {
-        Position 74.469 -20.224 94
-       }
-       ShapePoint "{6A46F13AB312BDE7}" {
-        Position 132.156 -20.224 130
-       }
-       ShapePoint "{6A46F13AB312BDA3}" {
-        Position 179.938 -20.224 190.5
        }
       }
       IsClosedSpline 0
@@ -7287,18 +9440,36 @@ $grp SplineShapeEntity {
     Position -33.922 1.165 10.5
    }
    ShapePoint "{6A46F13AB08E3109}" {
-    Position -29.047 0.413 -11.5
+    Position -32.297 0.914 3.167
    }
    ShapePoint "{6A46F13AB08EA309}" {
-    Position -26.703 0.147 -17
+    Position -30.672 0.664 -4.167
    }
    ShapePoint "{6A46F13AB08F2B6C}" {
-    Position -23.203 -0.049 -21
+    Position -29.047 0.413 -11.5
    }
    ShapePoint "{6A46F13AB08FAEF5}" {
-    Position -18.141 -0.179 -23.5
+    Position -26.703 0.147 -17
    }
    ShapePoint "{6A46F13AB0802D87}" {
+    Position -23.203 -0.049 -21
+   }
+   ShapePoint "{6A46F13AB0802D98}" {
+    Position -18.141 -0.179 -23.5
+   }
+   ShapePoint "{6A46F13AB0802DA9}" {
+    Position -6.991 -0.433 -23.6
+   }
+   ShapePoint "{6A46F13AB0802DBA}" {
+    Position 4.159 -0.686 -23.7
+   }
+   ShapePoint "{6A46F13AB0802DCB}" {
+    Position 15.309 -0.94 -23.8
+   }
+   ShapePoint "{6A46F13AB0802DDC}" {
+    Position 26.459 -1.193 -23.9
+   }
+   ShapePoint "{6A46F13AB0802DED}" {
     Position 37.609 -1.447 -24
    }
   }
@@ -7317,18 +9488,36 @@ $grp SplineShapeEntity {
         Position -33.922 1.165 10.5
        }
        ShapePoint "{6A46F13AB312A8DA}" {
-        Position -29.047 0.413 -11.5
+        Position -32.297 0.914 3.167
        }
        ShapePoint "{6A46F13AB312A881}" {
-        Position -26.703 0.147 -17
+        Position -30.672 0.664 -4.167
        }
        ShapePoint "{6A46F13AB312A834}" {
-        Position -23.203 -0.049 -21
+        Position -29.047 0.413 -11.5
        }
        ShapePoint "{6A46F13AB312A9FF}" {
-        Position -18.141 -0.179 -23.5
+        Position -26.703 0.147 -17
        }
        ShapePoint "{6A46F13AB312A6FA}" {
+        Position -23.203 -0.049 -21
+       }
+       ShapePoint "{6A46F13AB312A70B}" {
+        Position -18.141 -0.179 -23.5
+       }
+       ShapePoint "{6A46F13AB312A71C}" {
+        Position -6.991 -0.433 -23.6
+       }
+       ShapePoint "{6A46F13AB312A72D}" {
+        Position 4.159 -0.686 -23.7
+       }
+       ShapePoint "{6A46F13AB312A73E}" {
+        Position 15.309 -0.94 -23.8
+       }
+       ShapePoint "{6A46F13AB312A74F}" {
+        Position 26.459 -1.193 -23.9
+       }
+       ShapePoint "{6A46F13AB312A760}" {
         Position 37.609 -1.447 -24
        }
       }
@@ -7387,24 +9576,39 @@ $grp SplineShapeEntity {
     Position -157.562 0.09 102.5
    }
    ShapePoint "{6A46F13AB084786C}" {
-    Position -2 0.089 -22
+    Position -118.671 0.09 71.375
    }
    ShapePoint "{6A46F13AB0840596}" {
-    Position 15.813 0.03 -35.5
+    Position -79.781 0.09 40.25
    }
    ShapePoint "{6A46F13AB0848F0B}" {
-    Position 23.75 0.004 -40.5
+    Position -40.891 0.089 9.125
    }
    ShapePoint "{6A46F13AB0851B61}" {
-    Position 58.406 0.118 -62
+    Position -2 0.089 -22
    }
    ShapePoint "{6A46F13AB085A2B5}" {
-    Position 75 0 -71.5
+    Position 15.813 0.03 -35.5
    }
    ShapePoint "{6A46F13AB0861D98}" {
-    Position 114.062 -0.118 -91.5
+    Position 23.75 0.004 -40.5
    }
    ShapePoint "{6A46F13AB086A5B0}" {
+    Position 41.078 0.061 -51.25
+   }
+   ShapePoint "{6A46F13AB086A5C1}" {
+    Position 58.406 0.118 -62
+   }
+   ShapePoint "{6A46F13AB086A5D2}" {
+    Position 75 0 -71.5
+   }
+   ShapePoint "{6A46F13AB086A5E3}" {
+    Position 114.062 -0.118 -91.5
+   }
+   ShapePoint "{6A46F13AB086A5F4}" {
+    Position 180.687 -0.044 -122
+   }
+   ShapePoint "{6A46F13AB086A605}" {
     Position 247.312 0.031 -152.5
    }
   }
@@ -7429,24 +9633,39 @@ $grp SplineShapeEntity {
         Position -157.562 0.09 102.5
        }
        ShapePoint "{6A46F13AB314C742}" {
-        Position -2 0.089 -22
+        Position -118.671 0.09 71.375
        }
        ShapePoint "{6A46F13AB314C708}" {
-        Position 15.813 0.03 -35.5
+        Position -79.781 0.09 40.25
        }
        ShapePoint "{6A46F13AB314C4C9}" {
-        Position 23.75 0.004 -40.5
+        Position -40.891 0.089 9.125
        }
        ShapePoint "{6A46F13AB314C489}" {
-        Position 58.406 0.118 -62
+        Position -2 0.089 -22
        }
        ShapePoint "{6A46F13AB314C434}" {
-        Position 75 0 -71.5
+        Position 15.813 0.03 -35.5
        }
        ShapePoint "{6A46F13AB314C5FB}" {
-        Position 114.062 -0.118 -91.5
+        Position 23.75 0.004 -40.5
        }
        ShapePoint "{6A46F13AB314C5BA}" {
+        Position 41.078 0.061 -51.25
+       }
+       ShapePoint "{6A46F13AB314C5CB}" {
+        Position 58.406 0.118 -62
+       }
+       ShapePoint "{6A46F13AB314C5DC}" {
+        Position 75 0 -71.5
+       }
+       ShapePoint "{6A46F13AB314C5ED}" {
+        Position 114.062 -0.118 -91.5
+       }
+       ShapePoint "{6A46F13AB314C5FE}" {
+        Position 180.687 -0.044 -122
+       }
+       ShapePoint "{6A46F13AB314C60F}" {
         Position 247.312 0.031 -152.5
        }
       }
@@ -7802,9 +10021,30 @@ $grp SplineShapeEntity {
     Position 14.484 -0.336 53
    }
    ShapePoint "{6A46F13AB36A4A08}" {
-    Position -13.203 0.336 -48
+    Position 11.023 -0.252 40.375
    }
    ShapePoint "{6A46F13AB36AD752}" {
+    Position 7.562 -0.168 27.75
+   }
+   ShapePoint "{6A46F13AB36AD763}" {
+    Position 4.101 -0.084 15.125
+   }
+   ShapePoint "{6A46F13AB36AD774}" {
+    Position 0.641 0 2.5
+   }
+   ShapePoint "{6A46F13AB36AD785}" {
+    Position -2.82 0.084 -10.125
+   }
+   ShapePoint "{6A46F13AB36AD796}" {
+    Position -6.281 0.168 -22.75
+   }
+   ShapePoint "{6A46F13AB36AD7A7}" {
+    Position -9.742 0.252 -35.375
+   }
+   ShapePoint "{6A46F13AB36AD7B8}" {
+    Position -13.203 0.336 -48
+   }
+   ShapePoint "{6A46F13AB36AD7C9}" {
     Position -14.484 0.304 -53
    }
   }
@@ -7820,9 +10060,30 @@ $grp SplineShapeEntity {
         Position 14.484 -0.336 53
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position -13.203 0.336 -48
+        Position 11.023 -0.252 40.375
        }
        ShapePoint "{6A46F13AB317C6D2}" {
+        Position 7.562 -0.168 27.75
+       }
+       ShapePoint "{6A46F13AB317C6E3}" {
+        Position 4.101 -0.084 15.125
+       }
+       ShapePoint "{6A46F13AB317C6F4}" {
+        Position 0.641 0 2.5
+       }
+       ShapePoint "{6A46F13AB317C705}" {
+        Position -2.82 0.084 -10.125
+       }
+       ShapePoint "{6A46F13AB317C716}" {
+        Position -6.281 0.168 -22.75
+       }
+       ShapePoint "{6A46F13AB317C727}" {
+        Position -9.742 0.252 -35.375
+       }
+       ShapePoint "{6A46F13AB317C738}" {
+        Position -13.203 0.336 -48
+       }
+       ShapePoint "{6A46F13AB317C749}" {
         Position -14.484 0.304 -53
        }
       }
@@ -7861,9 +10122,15 @@ $grp SplineShapeEntity {
     Position -5.078 -0.143 -27.75
    }
    ShapePoint "{6A46F13AB3617230}" {
-    Position -48.953 -0.145 -78.25
+    Position -19.703 -0.144 -44.583
    }
    ShapePoint "{6A46F13AB361F38D}" {
+    Position -34.328 -0.144 -61.417
+   }
+   ShapePoint "{6A46F13AB361F39E}" {
+    Position -48.953 -0.145 -78.25
+   }
+   ShapePoint "{6A46F13AB361F3AF}" {
     Position -69.734 0.333 -101.75
    }
   }
@@ -7900,9 +10167,15 @@ $grp SplineShapeEntity {
         Position -5.078 -0.143 -27.75
        }
        ShapePoint "{6A46F13AB3E949A4}" {
-        Position -48.953 -0.145 -78.25
+        Position -19.703 -0.144 -44.583
        }
        ShapePoint "{6A46F13AB3E94979}" {
+        Position -34.328 -0.144 -61.417
+       }
+       ShapePoint "{6A46F13AB3E9498A}" {
+        Position -48.953 -0.145 -78.25
+       }
+       ShapePoint "{6A46F13AB3E9499B}" {
         Position -69.734 0.333 -101.75
        }
       }
@@ -7920,9 +10193,24 @@ $grp SplineShapeEntity {
     Position -28.016 -0.11 -55
    }
    ShapePoint "{6A46F13AB362F3B2}" {
-    Position 24.766 0.017 48.5
+    Position -19.219 -0.089 -37.75
    }
    ShapePoint "{6A46F13AB363773F}" {
+    Position -10.422 -0.068 -20.5
+   }
+   ShapePoint "{6A46F13AB3637750}" {
+    Position -1.625 -0.047 -3.25
+   }
+   ShapePoint "{6A46F13AB3637761}" {
+    Position 7.172 -0.025 14
+   }
+   ShapePoint "{6A46F13AB3637772}" {
+    Position 15.969 -0.004 31.25
+   }
+   ShapePoint "{6A46F13AB3637783}" {
+    Position 24.766 0.017 48.5
+   }
+   ShapePoint "{6A46F13AB3637794}" {
     Position 28.016 0.11 55
    }
   }
@@ -7938,9 +10226,24 @@ $grp SplineShapeEntity {
         Position -28.016 -0.11 -55
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 24.766 0.017 48.5
+        Position -19.219 -0.089 -37.75
        }
        ShapePoint "{6A46F13AB3E9231F}" {
+        Position -10.422 -0.068 -20.5
+       }
+       ShapePoint "{6A46F13AB3E92330}" {
+        Position -1.625 -0.047 -3.25
+       }
+       ShapePoint "{6A46F13AB3E92341}" {
+        Position 7.172 -0.025 14
+       }
+       ShapePoint "{6A46F13AB3E92352}" {
+        Position 15.969 -0.004 31.25
+       }
+       ShapePoint "{6A46F13AB3E92363}" {
+        Position 24.766 0.017 48.5
+       }
+       ShapePoint "{6A46F13AB3E92374}" {
         Position 28.016 0.11 55
        }
       }
@@ -7993,21 +10296,33 @@ $grp SplineShapeEntity {
     Position 154.062 -0.354 -24
    }
    ShapePoint "{6A46F13AB365A82B}" {
-    Position 88.938 -0.323 -24.5
+    Position 137.781 -0.346 -24.125
    }
    ShapePoint "{6A46F13AB366215D}" {
-    Position 43.969 0.072 -19.5
+    Position 121.5 -0.339 -24.25
    }
    ShapePoint "{6A46F13AB366AD26}" {
-    Position -44.156 -0.082 -2.5
+    Position 105.219 -0.331 -24.375
    }
    ShapePoint "{6A46F13AB36738E6}" {
-    Position -100.219 -0.638 11
+    Position 88.938 -0.323 -24.5
    }
    ShapePoint "{6A46F13AB367B010}" {
-    Position -148.906 0.166 23
+    Position 43.969 0.072 -19.5
    }
    ShapePoint "{6A46F13AB37838A9}" {
+    Position -44.156 -0.082 -2.5
+   }
+   ShapePoint "{6A46F13AB37838BA}" {
+    Position -100.219 -0.638 11
+   }
+   ShapePoint "{6A46F13AB37838CB}" {
+    Position -124.562 -0.236 17
+   }
+   ShapePoint "{6A46F13AB37838DC}" {
+    Position -148.906 0.166 23
+   }
+   ShapePoint "{6A46F13AB37838ED}" {
     Position -160.281 0.638 25
    }
   }
@@ -8026,21 +10341,33 @@ $grp SplineShapeEntity {
         Position 154.062 -0.354 -24
        }
        ShapePoint "{6A46F13AB3EACA48}" {
-        Position 88.938 -0.323 -24.5
+        Position 137.781 -0.346 -24.125
        }
        ShapePoint "{6A46F13AB3EACBF8}" {
-        Position 43.969 0.072 -19.5
+        Position 121.5 -0.339 -24.25
        }
        ShapePoint "{6A46F13AB3EACBBA}" {
-        Position -44.156 -0.082 -2.5
+        Position 105.219 -0.331 -24.375
        }
        ShapePoint "{6A46F13AB3EACB7B}" {
-        Position -100.219 -0.638 11
+        Position 88.938 -0.323 -24.5
        }
        ShapePoint "{6A46F13AB3EACB3F}" {
-        Position -148.906 0.166 23
+        Position 43.969 0.072 -19.5
        }
        ShapePoint "{6A46F13AB3EAC8FC}" {
+        Position -44.156 -0.082 -2.5
+       }
+       ShapePoint "{6A46F13AB3EAC90D}" {
+        Position -100.219 -0.638 11
+       }
+       ShapePoint "{6A46F13AB3EAC91E}" {
+        Position -124.562 -0.236 17
+       }
+       ShapePoint "{6A46F13AB3EAC92F}" {
+        Position -148.906 0.166 23
+       }
+       ShapePoint "{6A46F13AB3EAC940}" {
         Position -160.281 0.638 25
        }
       }
@@ -8067,12 +10394,15 @@ $grp SplineShapeEntity {
     Position -30.344 -0.044 -18.75
    }
    ShapePoint "{6A46F13AB37B7AE2}" {
-    Position -0.844 -0.058 3.75
+    Position -15.594 -0.051 -7.5
    }
    ShapePoint "{6A46F13AB37B0426}" {
-    Position 33.906 -0.02 29.75
+    Position -0.844 -0.058 3.75
    }
    ShapePoint "{6A46F13AB37C7348}" {
+    Position 33.906 -0.02 29.75
+   }
+   ShapePoint "{6A46F13AB37C7359}" {
     Position 71.375 -0.182 55.75
    }
   }
@@ -8097,12 +10427,15 @@ $grp SplineShapeEntity {
         Position -30.344 -0.044 -18.75
        }
        ShapePoint "{6A46F13AB3EC18B6}" {
-        Position -0.844 -0.058 3.75
+        Position -15.594 -0.051 -7.5
        }
        ShapePoint "{6A46F13AB3EC1876}" {
-        Position 33.906 -0.02 29.75
+        Position -0.844 -0.058 3.75
        }
        ShapePoint "{6A46F13AB3EC1836}" {
+        Position 33.906 -0.02 29.75
+       }
+       ShapePoint "{6A46F13AB3EC1847}" {
         Position 71.375 -0.182 55.75
        }
       }
@@ -8254,18 +10587,117 @@ $grp SplineShapeEntity {
     Position 143.141 0.038 -72.75
    }
    ShapePoint "{6A46F13AB372F6F5}" {
-    Position 112.828 0.246 -58.25
+    Position 133.037 0.107 -67.917
    }
    ShapePoint "{6A46F13AB3735F80}" {
-    Position -43.859 -0.184 28.25
+    Position 122.932 0.177 -63.083
    }
    ShapePoint "{6A46F13AB373D642}" {
-    Position -134.391 -0.246 66.25
+    Position 112.828 0.246 -58.25
    }
    ShapePoint "{6A46F13AB3744F60}" {
-    Position -137.266 -0.246 67.75
+    Position 103.035 0.219 -52.844
    }
    ShapePoint "{6A46F13AB374D584}" {
+    Position 93.242 0.192 -47.438
+   }
+   ShapePoint "{6A46F13AB374D595}" {
+    Position 83.449 0.165 -42.031
+   }
+   ShapePoint "{6A46F13AB374D5A6}" {
+    Position 73.656 0.139 -36.625
+   }
+   ShapePoint "{6A46F13AB374D5B7}" {
+    Position 63.863 0.112 -31.219
+   }
+   ShapePoint "{6A46F13AB374D5C8}" {
+    Position 54.07 0.085 -25.812
+   }
+   ShapePoint "{6A46F13AB374D5D9}" {
+    Position 44.277 0.058 -20.406
+   }
+   ShapePoint "{6A46F13AB374D5EA}" {
+    Position 34.485 0.031 -15
+   }
+   ShapePoint "{6A46F13AB374D5FB}" {
+    Position 24.692 0.004 -9.594
+   }
+   ShapePoint "{6A46F13AB374D60C}" {
+    Position 14.899 -0.023 -4.188
+   }
+   ShapePoint "{6A46F13AB374D61D}" {
+    Position 5.106 -0.05 1.219
+   }
+   ShapePoint "{6A46F13AB374D62E}" {
+    Position -4.687 -0.076 6.625
+   }
+   ShapePoint "{6A46F13AB374D63F}" {
+    Position -14.48 -0.103 12.031
+   }
+   ShapePoint "{6A46F13AB374D650}" {
+    Position -24.273 -0.13 17.438
+   }
+   ShapePoint "{6A46F13AB374D661}" {
+    Position -34.066 -0.157 22.844
+   }
+   ShapePoint "{6A46F13AB374D672}" {
+    Position -43.859 -0.184 28.25
+   }
+   ShapePoint "{6A46F13AB374D683}" {
+    Position -49.517 -0.188 30.625
+   }
+   ShapePoint "{6A46F13AB374D694}" {
+    Position -55.176 -0.192 33
+   }
+   ShapePoint "{6A46F13AB374D6A5}" {
+    Position -60.834 -0.196 35.375
+   }
+   ShapePoint "{6A46F13AB374D6B6}" {
+    Position -66.492 -0.2 37.75
+   }
+   ShapePoint "{6A46F13AB374D6C7}" {
+    Position -72.15 -0.203 40.125
+   }
+   ShapePoint "{6A46F13AB374D6D8}" {
+    Position -77.809 -0.207 42.5
+   }
+   ShapePoint "{6A46F13AB374D6E9}" {
+    Position -83.467 -0.211 44.875
+   }
+   ShapePoint "{6A46F13AB374D6FA}" {
+    Position -89.125 -0.215 47.25
+   }
+   ShapePoint "{6A46F13AB374D70B}" {
+    Position -94.783 -0.219 49.625
+   }
+   ShapePoint "{6A46F13AB374D71C}" {
+    Position -100.441 -0.223 52
+   }
+   ShapePoint "{6A46F13AB374D72D}" {
+    Position -106.1 -0.227 54.375
+   }
+   ShapePoint "{6A46F13AB374D73E}" {
+    Position -111.758 -0.23 56.75
+   }
+   ShapePoint "{6A46F13AB374D74F}" {
+    Position -117.416 -0.234 59.125
+   }
+   ShapePoint "{6A46F13AB374D760}" {
+    Position -123.074 -0.238 61.5
+   }
+   ShapePoint "{6A46F13AB374D771}" {
+    Position -128.733 -0.242 63.875
+   }
+   ShapePoint "{6A46F13AB374D782}" {
+    Position -134.391 -0.246 66.25
+   }
+   ShapePoint "{6A46F13AB374D793}" {
+    Position -137.266 -0.246 67.75
+   }
+   ShapePoint "{6A46F13AB374D7A4}" {
+    Position -140.203 -0.215 70.25
+   }
+   ShapePoint "{6A46F13AB374D7B5}" {
     Position -143.141 -0.183 72.75
    }
   }
@@ -8281,18 +10713,117 @@ $grp SplineShapeEntity {
         Position 143.141 0.038 -72.75
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 112.828 0.246 -58.25
+        Position 133.037 0.107 -67.917
        }
        ShapePoint "{6A46F13AB3ED1E6D}" {
-        Position -43.859 -0.184 28.25
+        Position 122.932 0.177 -63.083
        }
        ShapePoint "{6A46F13AB3ED1E17}" {
-        Position -134.391 -0.246 66.25
+        Position 112.828 0.246 -58.25
        }
        ShapePoint "{6A46F13AB3ED1FE9}" {
-        Position -137.266 -0.246 67.75
+        Position 103.035 0.219 -52.844
        }
        ShapePoint "{6A46F13AB3ED1FAC}" {
+        Position 93.242 0.192 -47.438
+       }
+       ShapePoint "{6A46F13AB3ED1FBD}" {
+        Position 83.449 0.165 -42.031
+       }
+       ShapePoint "{6A46F13AB3ED1FCE}" {
+        Position 73.656 0.139 -36.625
+       }
+       ShapePoint "{6A46F13AB3ED1FDF}" {
+        Position 63.863 0.112 -31.219
+       }
+       ShapePoint "{6A46F13AB3ED1FF0}" {
+        Position 54.07 0.085 -25.812
+       }
+       ShapePoint "{6A46F13AB3ED2001}" {
+        Position 44.277 0.058 -20.406
+       }
+       ShapePoint "{6A46F13AB3ED2012}" {
+        Position 34.485 0.031 -15
+       }
+       ShapePoint "{6A46F13AB3ED2023}" {
+        Position 24.692 0.004 -9.594
+       }
+       ShapePoint "{6A46F13AB3ED2034}" {
+        Position 14.899 -0.023 -4.188
+       }
+       ShapePoint "{6A46F13AB3ED2045}" {
+        Position 5.106 -0.05 1.219
+       }
+       ShapePoint "{6A46F13AB3ED2056}" {
+        Position -4.687 -0.076 6.625
+       }
+       ShapePoint "{6A46F13AB3ED2067}" {
+        Position -14.48 -0.103 12.031
+       }
+       ShapePoint "{6A46F13AB3ED2078}" {
+        Position -24.273 -0.13 17.438
+       }
+       ShapePoint "{6A46F13AB3ED2089}" {
+        Position -34.066 -0.157 22.844
+       }
+       ShapePoint "{6A46F13AB3ED209A}" {
+        Position -43.859 -0.184 28.25
+       }
+       ShapePoint "{6A46F13AB3ED20AB}" {
+        Position -49.517 -0.188 30.625
+       }
+       ShapePoint "{6A46F13AB3ED20BC}" {
+        Position -55.176 -0.192 33
+       }
+       ShapePoint "{6A46F13AB3ED20CD}" {
+        Position -60.834 -0.196 35.375
+       }
+       ShapePoint "{6A46F13AB3ED20DE}" {
+        Position -66.492 -0.2 37.75
+       }
+       ShapePoint "{6A46F13AB3ED20EF}" {
+        Position -72.15 -0.203 40.125
+       }
+       ShapePoint "{6A46F13AB3ED2100}" {
+        Position -77.809 -0.207 42.5
+       }
+       ShapePoint "{6A46F13AB3ED2111}" {
+        Position -83.467 -0.211 44.875
+       }
+       ShapePoint "{6A46F13AB3ED2122}" {
+        Position -89.125 -0.215 47.25
+       }
+       ShapePoint "{6A46F13AB3ED2133}" {
+        Position -94.783 -0.219 49.625
+       }
+       ShapePoint "{6A46F13AB3ED2144}" {
+        Position -100.441 -0.223 52
+       }
+       ShapePoint "{6A46F13AB3ED2155}" {
+        Position -106.1 -0.227 54.375
+       }
+       ShapePoint "{6A46F13AB3ED2166}" {
+        Position -111.758 -0.23 56.75
+       }
+       ShapePoint "{6A46F13AB3ED2177}" {
+        Position -117.416 -0.234 59.125
+       }
+       ShapePoint "{6A46F13AB3ED2188}" {
+        Position -123.074 -0.238 61.5
+       }
+       ShapePoint "{6A46F13AB3ED2199}" {
+        Position -128.733 -0.242 63.875
+       }
+       ShapePoint "{6A46F13AB3ED21AA}" {
+        Position -134.391 -0.246 66.25
+       }
+       ShapePoint "{6A46F13AB3ED21BB}" {
+        Position -137.266 -0.246 67.75
+       }
+       ShapePoint "{6A46F13AB3ED21CC}" {
+        Position -140.203 -0.215 70.25
+       }
+       ShapePoint "{6A46F13AB3ED21DD}" {
         Position -143.141 -0.183 72.75
        }
       }
