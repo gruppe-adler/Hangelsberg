@@ -1174,19 +1174,7 @@ $grp SplineShapeEntity {
     Position 12.047 0.313 10
    }
    ShapePoint "{6A46F13AB13CC418}" {
-    Position 37.547 1.141 32
-   }
-   ShapePoint "{6A46F13AB13D34F1}" {
-    Position 44.109 1.208 37.5
-   }
-   ShapePoint "{6A46F13AB13DA854}" {
-    Position 60.922 1.549 53
-   }
-   ShapePoint "{6A46F13AB13E18FE}" {
-    Position 76.391 1.469 69.5
-   }
-   ShapePoint "{6A46F13AB13E8E4E}" {
-    Position 94.859 1.588 90
+    Position 35.583 1.138 31.228
    }
   }
   LineColor 0.93 0.13 0.33 1
@@ -1223,19 +1211,7 @@ $grp SplineShapeEntity {
         Position 12.047 0.313 10
        }
        ShapePoint "{6A48CA5B9EF32D50}" {
-        Position 37.547 1.141 32
-       }
-       ShapePoint "{6A48CA5B9EF32D1C}" {
-        Position 44.109 1.208 37.5
-       }
-       ShapePoint "{6A48CA5B9EF32AC5}" {
-        Position 60.922 1.549 53
-       }
-       ShapePoint "{6A48CA5B9EF32A80}" {
-        Position 76.391 1.469 69.5
-       }
-       ShapePoint "{6A48CA5B9EF32A45}" {
-        Position 94.859 1.588 90
+        Position 35.583 1.138 31.228
        }
       }
       IsClosedSpline 0
@@ -4675,11 +4651,14 @@ $grp SplineShapeEntity {
  {
   coords 5590.609 40.141 4398
   Points {
+   ShapePoint "{6A49155F08FB4D6E}" {
+    Position -123.109 -0.429 -264.5
+   }
    ShapePoint "{6A4761C87A0C2835}" {
-    Position -55.531 0.266 -193.52
+    Position -57.306 0.187 -192.422
     Data {
      SplinePointData SplinePointData {
-      InTangent 2.229 9.782 17.899
+      InTangent 6.663 27.363 50.053
       OutTangent 2.229 9.782 17.899
      }
     }
@@ -4698,15 +4677,18 @@ $grp SplineShapeEntity {
       ID "556C655491CDCD64"
       SplinePoints {
        ShapePoint "{556C6554868CB1B0}" {
-        Position -55.531 0.266 -193.52
+        Position -123.109 -0.429 -264.5
+       }
+       ShapePoint "{556C6554868CB0CE}" {
+        Position -57.306 0.187 -192.422
         Data {
          SplinePointData "{00000000D8F1BA4F}" {
-          InTangent 2.229 9.782 17.899
+          InTangent 6.663 27.362 50.053
           OutTangent 2.229 9.782 17.899
          }
         }
        }
-       ShapePoint "{556C6554868CB0CE}" {
+       ShapePoint "{6A49155F08FF9694}" {
         Position 45.453 -0.172 160.5
        }
       }
