@@ -1045,9 +1045,10 @@ SplineShapeEntity river {
   }
   RiverEntity : "{DBFC6B2C12D5ED5A}PrefabLibrary/DefaultLibrary/Generators/Water/River/R_RiverMedium_01.et" {
    coords 0 -1 0
-   Width 14.8
-   SplineOffsetUp 1.05
+   Width 32.8
+   SplineOffsetUp 1.4
    ReverseFlow 1
+   Material "{58682A9126A4EF75}Terrains/Common/Water/River/HangelsbergRiverSurface.emat"
    GUID "6A48E89C391CDE53"
   }
  }
