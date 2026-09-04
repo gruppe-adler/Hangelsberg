@@ -2454,14 +2454,14 @@ $grp SplineShapeEntity {
 }
 $grp Tree : "{014BBD51756DB620}Prefabs/Vegetation/Vegetables/CabbageCrop_01.et" {
  {
-  coords 5515.976 -0 4192.429
+  coords 5515.976 0 4192.429
  }
  {
   coords 5517.247 0 4192.32
   angles 0 95.937 0
  }
  {
-  coords 5516.391 -0 4193.616
+  coords 5516.391 0 4193.616
   angles 0 113.358 0
  }
  {
@@ -2472,6 +2472,9 @@ $grp Tree : "{014BBD51756DB620}Prefabs/Vegetation/Vegetables/CabbageCrop_01.et" 
 SCR_DestructibleBuildingEntity : "{0FD764569422DBA7}Prefabs/Structures/Cultural/Churches/ChurchSmall_E_01/ChurchSmall_E_01.et" {
  coords 5306.653 -0.145 4346.493
  angles 0 -64.534 0
+}
+Tree : "{124518D13290A687}Prefabs/Vegetation/Bush/b_salix_cinerea_0.et" {
+ coords 5447.766 0 4108.673
 }
 Tree : "{1C6F9AD2669C17F9}Prefabs/Vegetation/Tree/t_malus_domestica/t_malus_domestica_2s.et" {
  coords 5507.336 0 4193.066
@@ -2495,9 +2498,22 @@ SCR_DestructibleBuildingEntity : "{27CC3110521583D6}Prefabs/Structures/Houses/To
  coords 5489.933 0.001 4261.334
  angles 0 -152.088 0
 }
+Tree : "{2B532EC12F7FB1DE}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_3s.et" {
+ coords 5378.66 0.001 3997.328
+}
 StaticModelEntity : "{2CF6244D6C76F560}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_dirt_straight.et" {
  coords 5480.363 33.752 4088.096
  angles 0 -41.058 0
+}
+StaticModelEntity : "{2D4C04BB044B4F5E}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_terrainmat_wave.et" {
+ coords 5465.937 33.665 4051.448
+ angles 0 137.397 0
+}
+Tree : "{2E810552D5E6CF78}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_2sw.et" {
+ coords 5377.698 -0.001 4034.457
+}
+Tree : "{34326A41A24A1B16}Prefabs/Vegetation/Tree/t_alnus_glutinosa/t_alnus_glutinosa_2f.et" {
+ coords 5391.535 -0.001 4051.671
 }
 GenericEntity : "{3532649D6B93B0D9}Prefabs/Structures/Civilian/SportGrounds/PlaygroundSlide_01.et" {
  coords 5352.482 40.261 4369.218
@@ -2509,6 +2525,9 @@ StaticModelEntity : "{35DA27E777486978}Prefabs/Structures/Infrastructure/Pavemen
 SCR_DestructibleBuildingEntity : "{38A5F3E4578087AB}Prefabs/Structures/Houses/Town/House_Town_E_2I01/House_Town_E_2I01.et" {
  coords 5474.621 -0.125 4229.828
  angles 0 23.057 0
+}
+Tree : "{3C1D0706AC587223}Prefabs/Vegetation/Tree/t_carpinus_betulus/t_carpinus_betulus_3f.et" {
+ coords 5346.892 -0.001 3983.814
 }
 SCR_DestructibleBuildingEntity : "{4459413B98E2C9AD}Prefabs/Structures/Houses/Wooden/House_Wooden_E_1I02/House_Wooden_E_1I02.et" {
  coords 5513.831 -0.061 4211.087
@@ -2564,6 +2583,12 @@ $grp Tree : "{63DC62906A5917F3}Prefabs/Vegetation/Tree/t_populus_nigra/t_populus
   angles 0 94.188 0
   scale 1.248
  }
+ {
+  coords 5382.146 0.001 3954.477
+ }
+}
+GenericEntity : "{64D5230774EE692C}Prefabs/Vegetation/Tree/Debris/T_stump_debris_01.et" {
+ coords 5385.692 35.856 3965.956
 }
 GenericEntity : "{67545F06412AA7E4}Prefabs/Structures/Civilian/SportGrounds/PlaygroundSphere_01.et" {
  coords 5334.614 40.551 4326.435
@@ -2573,7 +2598,7 @@ SCR_DestructibleBuildingEntity : "{678574044F58E1CA}Prefabs/Structures/Houses/Vi
  angles 0 -62.337 0
 }
 Tree : "{6C788B70DF94793B}Prefabs/Vegetation/Tree/t_salix_fragilis/t_salix_fragilis_2s.et" {
- coords 5475.819 -0 4152.731
+ coords 5475.819 0 4152.731
 }
 SCR_DestructibleBuildingEntity : "{7B197693AE45574A}Prefabs/Structures/Houses/Town/House_Town_E_2I02/House_Town_E_2I02_yellow.et" {
  coords 5535.928 -0.048 4279.391
@@ -2583,6 +2608,9 @@ StaticModelEntity : "{7CF85AB7814609C1}Prefabs/Structures/Infrastructure/Pavemen
  coords 5386.476 0.14 4298.838
  angles 0 -154.745 0
 }
+Tree : "{87BE91E8E84DA493}Prefabs/Vegetation/Tree/t_alnus_glutinosa/t_alnus_glutinosa_2s.et" {
+ coords 5444.7 -0 4105.595
+}
 $grp GenericEntity : "{8BB5855208F77724}Prefabs/Props/Furniture/BenchWooden_01.et" {
  {
   coords 5280.408 37.251 3845.582
@@ -2591,6 +2619,15 @@ $grp GenericEntity : "{8BB5855208F77724}Prefabs/Props/Furniture/BenchWooden_01.e
  {
   coords 5268.805 37.026 3836.328
   angles 0 -106.591 0
+ }
+}
+$grp Tree : "{8F91FCAFE65FCDA6}Prefabs/Vegetation/Tree/t_carpinus_betulus/t_carpinus_betulus_3s.et" {
+ {
+  coords 5363.946 0 3978.033
+ }
+ {
+  coords 5389.347 0 4013.319
+  angles 0 149.446 0
  }
 }
 Tree : "{905290F53779597F}Prefabs/Vegetation/Bush/Betula_Nana/b_betula_nana_1.et" {
@@ -2605,7 +2642,7 @@ $grp Tree : "{9453357AF589DBE4}Prefabs/Vegetation/Vegetables/PotatoCrop_01_Short
   coords 5512.389 0 4188.652
  }
  {
-  coords 5508.91 -0 4188.622
+  coords 5508.91 0 4188.622
  }
 }
 StaticModelEntity : "{9C7477A3F066F74F}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_forest_straight.et" {
@@ -2624,8 +2661,30 @@ SCR_DestructibleBuildingEntity : "{AD57E850A575A54F}Prefabs/Structures/Houses/Vi
  coords 5415.846 -0.029 4107.659
  angles 0 90.885 0
 }
+Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
+ coords 5475.165 0 4105.349
+ angles 0 0 0
+}
+Tree : "{BAB8054438C72A04}Prefabs/Vegetation/Bush/b_sambucus_nigra_2.et" {
+ coords 5438.566 -0 4100.403
+}
+Tree : "{C547FFD0C63A6F3E}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_1s.et" {
+ coords 5374.36 0.001 3994.44
+}
+$grp Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" {
+ {
+  coords 5477.358 -0 4108.623
+ }
+ {
+  coords 5479.278 0 4112.693
+  angles 0 -175.462 0
+ }
+}
+Tree : "{D6EC31A48403A52A}Prefabs/Vegetation/Bush/b_sambucus_nigra_1.et" {
+ coords 5472.602 0 4100.637
+}
 Tree : "{DDFB456F6ACD83EB}Prefabs/Vegetation/Plant/Rubus_Gracilis/p_rubus_gracilis_1.et" {
- coords 5475.482 -0 4148.974
+ coords 5475.482 0 4148.974
 }
 SCR_DestructibleBuildingEntity : "{E34AB69A88F0D3F7}Prefabs/Structures/Houses/Village/House_Village_E_1L03/House_Village_E_1L03t_V2_Base.et" {
  coords 5378.662 0.175 4317.237
@@ -2634,6 +2693,9 @@ SCR_DestructibleBuildingEntity : "{E34AB69A88F0D3F7}Prefabs/Structures/Houses/Vi
 StaticModelEntity : "{E884D6550AE62268}Prefabs/Structures/Infrastructure/Pavements/TilePavement_01/TilePavement_01_Narrow_4m_B.et" {
  coords 5415.475 0 4283.122
  angles 0 25 0
+}
+Tree : "{F0B4F9601CEF4BE3}Prefabs/Vegetation/Tree/t_alnus_glutinosa/t_alnus_glutinosa_3s.et" {
+ coords 5409.133 -0 4045.5
 }
 SCR_DestructibleBuildingEntity : "{F29BECBA5BAFB1B6}Prefabs/Structures/Houses/Town/House_Town_E_2I03/House_Town_E_2I03_v2.et" {
  coords 5369.06 0.004 4072.069
@@ -2647,27 +2709,36 @@ SCR_DestructibleBuildingEntity : "{F874C1A05BB6FE2D}Prefabs/Structures/Houses/Vi
  coords 5439.903 -0.229 4139.558
  angles 0 -45.847 0
 }
+$grp Tree : "{F89B942712FD22D6}Prefabs/Vegetation/Tree/t_carpinus_betulus/t_carpinus_betulus_2s.et" {
+ {
+  coords 5350.705 0 3995.17
+ }
+ {
+  coords 5349.208 0.001 3955.007
+  angles 0 53.455 0
+ }
+}
 $grp Tree : "{F8A57337BD45B783}Prefabs/Vegetation/Vegetables/TomatoCrop_01.et" {
  {
-  coords 5514.383 -0 4192.052
+  coords 5514.383 0 4192.052
  }
  {
-  coords 5513.373 -0 4192.441
+  coords 5513.373 0 4192.441
  }
  {
-  coords 5512.408 -0 4192.267
+  coords 5512.408 0 4192.267
  }
  {
-  coords 5511.326 -0 4192.221
+  coords 5511.326 0 4192.221
  }
  {
-  coords 5514.424 -0 4193.557
+  coords 5514.424 0 4193.557
  }
  {
-  coords 5513.505 -0 4193.744
+  coords 5513.505 0 4193.744
  }
  {
-  coords 5512.25 -0 4194.064
+  coords 5512.25 0 4194.064
  }
  {
   coords 5511.005 0 4193.999
